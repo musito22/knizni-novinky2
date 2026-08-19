@@ -168,13 +168,13 @@
   const container = document.getElementById("knizni-novinky-container");
   const apiUrl = "https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS_JCU:JCU&tab=LibraryCatalog&scope=MyInstitution&q=rtype,exact,books&qInclude=facet_tlevel,exact,available_p&sort=date_d&limit=25&apikey=l8xxdfc91b34d2d14347b8d88b1346bcc795";
 
-  // Načtení dat z ObálkyKnih přes JSONP (řeší CORS blokaci v prohlížeči)
+  // Příprava globální funkce obalky.callback požadované API ObálkyKnih
+  window.obalky = window.obalky || {};
+
   function ziskejObalUrlJSONP(isbn) {
     return new Promise((resolve) => {
-      const callbackName = 'obalky_cb_' + Math.random().toString(36).substr(2, 9);
       const script = document.createElement('script');
       
-      // Vypršení časového limitu (pokud API neodpoví do 2 sekund)
       const timeout = setTimeout(() => {
         cleanup();
         resolve(null);
@@ -182,20 +182,20 @@
 
       function cleanup() {
         clearTimeout(timeout);
-        delete window[callbackName];
         if (script.parentNode) script.parentNode.removeChild(script);
       }
 
-      window[callbackName] = function(data) {
+      // Odchycení odpovědi přes obalky.callback
+      window.obalky.callback = function(data) {
         cleanup();
-        if (data && data[0] && data[0].cover_url) {
+        if (data && data.length > 0 && data[0].cover_url) {
           resolve(data[0].cover_url);
         } else {
           resolve(null);
         }
       };
 
-      script.src = `https://www.obalkyknih.cz/api/books?id=isbn:${isbn}&library_id=${siglaKnihovny}&callback=${callbackName}`;
+      script.src = `https://www.obalkyknih.cz/api/books?id=isbn:${isbn}&library_id=${siglaKnihovny}&callback=obalky.callback`;
       script.onerror = () => {
         cleanup();
         resolve(null);
@@ -205,7 +205,6 @@
     });
   }
 
-  // Hlavní proces načtení novinek
   fetch(apiUrl)
     .then(response => response.json())
     .then(async data => {
