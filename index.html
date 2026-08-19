@@ -207,7 +207,7 @@
         if (isbn) {
           const img = document.createElement("img");
           // Změna parametru na malé cbd007 pro obchvat keše
-          img.src = "https://cache.obalkyknih.cz/api/cover?isbn=" + isbn + "&library_id=cbd007";
+          img.src = "https://www.obalkyknih.cz/view_auth?isbn=" + isbn;
           img.alt = title;
           
           img.onerror = function() {
