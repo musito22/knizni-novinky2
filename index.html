@@ -168,10 +168,12 @@
   const container = document.getElementById("knizni-novinky-container");
   const apiUrl = "https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS_JCU:JCU&tab=LibraryCatalog&scope=MyInstitution&q=rtype,exact,books&qInclude=facet_tlevel,exact,available_p&sort=date_d&limit=25&apikey=l8xxdfc91b34d2d14347b8d88b1346bcc795";
 
-  // Dotaz na ObálkyKnih JSON API podle manuálu
+  // Dotaz na ObálkyKnih JSON API přes správnou doménu www.obalkyknih.cz
   async function ziskejObalUrl(isbn) {
     try {
-      const response = await fetch(`https://cache.obalkyknih.cz/api/books?id=isbn:${isbn}&library_id=${siglaKnihovny}`);
+      const response = await fetch(`https://www.obalkyknih.cz/api/books?id=isbn:${isbn}&library_id=${siglaKnihovny}`);
+      if (!response.ok) return null;
+      
       const data = await response.json();
       
       if (data && data[0] && data[0].cover_url) {
