@@ -183,20 +183,6 @@
     return null;
   }
 
-  // Tichá kontrola existence obálky na OpenLibrary (zamezí 404 chybám v F12)
-  async function ziskejOpenLibraryObal(isbn) {
-    const olUrl = `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg?default=false`;
-    try {
-      const res = await fetch(olUrl, { method: 'HEAD' });
-      if (res.ok) {
-        return olUrl;
-      }
-    } catch (e) {
-      // Ignorujeme chyby sítě
-    }
-    return null;
-  }
-
   // Načtení dat z katalogu Primo
   fetch(apiUrl)
     .then(response => response.json())
@@ -236,16 +222,11 @@
 
         let coverUrl = null;
         if (isbn) {
-          // 1. Primárně zkusíme ObálkyKnih
           coverUrl = await ziskejObalUrl(isbn);
-          
-          // 2. Sekundárně zkusíme OpenLibrary
-          if (!coverUrl) {
-            coverUrl = await ziskejOpenLibraryObal(isbn);
-          }
         }
 
-        // Vykreslení obálky nebo náhradního boxu
+        // Pokud ObálkyKnih vrátí platnou URL, vloží se obrázek.
+        // V opačném případě se okamžitě zobrazí elegantní náhradní obálka.
         if (coverUrl) {
           const img = document.createElement("img");
           img.src = coverUrl;
