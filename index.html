@@ -206,11 +206,10 @@
 
         if (isbn) {
           const img = document.createElement("img");
-          // Přímé vyvolání dynamického generátoru obálek z ObálkyKnih
-          img.src = "https://cache.obalkyknih.cz/api/cover?isbn=" + isbn + "&library_id=" + siglaKnihovny;
+          // Změna parametru na malé cbd007 pro obchvat keše
+          img.src = "https://cache.obalkyknih.cz/api/cover?isbn=" + isbn + "&library_id=cbd007";
           img.alt = title;
           
-          // Pokud ObálkyKnih danou obálku v databázi NEMAJÍ, zkusí načíst z OpenLibrary
           img.onerror = function() {
             this.onerror = function() {
               this.replaceWith(vytvorNahradniObal());
