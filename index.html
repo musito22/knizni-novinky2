@@ -171,7 +171,7 @@
   // Globální objekt vyžadovaný rozhraním ObálkyKnih
   window.obalky = window.obalky || {};
 
-  // Hromadný dotaz na více ISBN v jednom požadavku
+  // Hromadný dotaz na více ISBN v jednom požadavku s opraveným párováním
   function ziskejVsechnyObalyJSONP(isbnArray) {
     return new Promise((resolve) => {
       if (!isbnArray || isbnArray.length === 0) {
@@ -192,16 +192,19 @@
         if (script.parentNode) script.parentNode.removeChild(script);
       }
 
-      // API vrátí pole objektů pro nalezené obálky
       window.obalky.callback = function(data) {
         cleanup();
         const mapaObalu = {};
         if (Array.isArray(data)) {
           data.forEach(item => {
-            if (item.cover_url && item.bib_id) {
-              // Uložíme si URL pod dané ISBN
-              const matchedIsbn = item.bib_id.replace(/[^0-9X]/gi, '');
-              mapaObalu[matchedIsbn] = item.cover_url;
+            if (item.cover_url) {
+              // ObálkyKnih vracejí bib_id ve tvaru "isbn:97880..." nebo kód v "isbn"
+              const rawIsbn = item.isbn || item.bib_id || "";
+              const cleanIsbn = rawIsbn.replace(/[^0-9X]/gi, '');
+              
+              if (cleanIsbn) {
+                mapaObalu[cleanIsbn] = item.cover_url;
+              }
             }
           });
         }
