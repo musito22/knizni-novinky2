@@ -164,6 +164,26 @@
 </div>
 
 <script>
+  // 1. Pomocná funkce pro vytvoření náhradního obalu (musí být nahoře)
+  function vytvorNahradniObal() {
+    const box = document.createElement("div");
+    box.className = "no-cover";
+    box.innerHTML = '<svg viewBox="0 0 24 24"><path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"/></svg>Bez obálky';
+    return box;
+  }
+
+  // 2. Funkce pro posouvání tlačítky (globálně dostupné pro HTML onclick)
+  function posunoutLeft() {
+    const container = document.getElementById("knizni-novinky-container");
+    if (container) container.scrollBy({ left: -585, behavior: 'smooth' });
+  }
+
+  function posunoutRight() {
+    const container = document.getElementById("knizni-novinky-container");
+    if (container) container.scrollBy({ left: 585, behavior: 'smooth' });
+  }
+
+  // 3. Načítání dat z API Primo
   const siglaKnihovny = "CBD007";
   const container = document.getElementById("knizni-novinky-container");
   const apiUrl = "https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS_JCU:JCU&tab=LibraryCatalog&scope=MyInstitution&q=rtype,exact,books&qInclude=facet_tlevel,exact,available_p&sort=date_d&limit=25&apikey=l8xxdfc91b34d2d14347b8d88b1346bcc795";
@@ -206,8 +226,6 @@
 
         if (isbn) {
           const img = document.createElement("img");
-          
-          // Volání API endpointu ObálkyKnih
           img.src = "https://cache.obalkyknih.cz/api/cover?isbn=" + isbn + "&library_id=" + siglaKnihovny;
           img.alt = title;
           
@@ -250,25 +268,6 @@
       console.error("Chyba:", error);
       container.innerHTML = "<p>Chyba při načítání dat z API.</p>";
     });
-
-  // --- DOPLNEĚNÉ CHYBĚJÍCÍ FUNKCE PRO POSUN A NÁHRADNÍ OBAL ---
-
-  function vytvorNahradniObal() {
-    const box = document.createElement("div");
-    box.className = "no-cover";
-    box.innerHTML = '<svg viewBox="0 0 24 24"><path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"/></svg>Bez obálky';
-    return box;
-  }
-
-  function posunoutLeft() {
-    const container = document.getElementById("knizni-novinky-container");
-    container.scrollBy({ left: -585, behavior: 'smooth' });
-  }
-
-  function posunoutRight() {
-    const container = document.getElementById("knizni-novinky-container");
-    container.scrollBy({ left: 585, behavior: 'smooth' });
-  }
 </script>
 </body>
 </html>
