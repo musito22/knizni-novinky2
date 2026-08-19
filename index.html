@@ -221,97 +221,105 @@
     });
   }
 
-  // Hlavní proces načtení
-  fetch(apiUrl)
-    .then(response => response.json())
-    .then(async data => {
-      container.innerHTML = "";
+// Zpracování odpovědi z Primo API
+fetch(apiUrl)
+  .then(response => response.json())
+  .then(async data => {
+    container.innerHTML = "";
 
-      if (!data.docs || data.docs.length === 0) {
-        container.innerHTML = "<p>Nebyly nalezeny žádné nové knihy.</p>";
-        return;
+    if (!data.docs || data.docs.length === 0) {
+      container.innerHTML = "<p>Nebyly nalezeny žádné nové knihy.</p>";
+      return;
+    }
+
+    const platneKnihy = [];
+    const seznamIsbn = [];
+
+    // 1. Vytažení všech ISBN ze všech vrácených knih
+    data.docs.forEach(doc => {
+      const isOnline = doc.pnx.delivery && doc.pnx.delivery.delcategory && doc.pnx.delivery.delcategory.includes("Online Resource");
+      if (isOnline) return;
+
+      let isbn = "";
+      
+      // Prohledání více míst v PNX struktuře pro jistotu
+      if (doc.pnx.addata && doc.pnx.addata.isbn) {
+        isbn = doc.pnx.addata.isbn[0];
+      } else if (doc.pnx.search && doc.pnx.search.isbn) {
+        isbn = doc.pnx.search.isbn[0];
       }
 
-      // 1. Filtrování a příprava Seznamu ISBN
-      const platneKnihy = [];
-      const seznamIsbn = [];
+      if (isbn) {
+        isbn = isbn.replace(/[^0-9X]/gi, '');
+        if (isbn) seznamIsbn.push(isbn);
+      }
 
-      data.docs.forEach(doc => {
-        const isOnline = doc.pnx.delivery && doc.pnx.delivery.delcategory && doc.pnx.delivery.delcategory.includes("Online Resource");
-        if (isOnline) return;
-
-        let isbn = "";
-        if (doc.pnx.addata && doc.pnx.addata.isbn) {
-          isbn = doc.pnx.addata.isbn[0].replace(/[^0-9X]/gi, '');
-          if (isbn) seznamIsbn.push(isbn);
-        }
-
-        platneKnihy.push({ doc, isbn });
-      });
-
-      // 2. Jediné hromadné načtení všech obálek naráz
-      const mapaObalu = await ziskejVsechnyObalyJSONP(seznamIsbn);
-
-      // 3. Vykreslení karet
-      platneKnihy.forEach(({ doc, isbn }) => {
-        const title = doc.pnx.display.title ? doc.pnx.display.title[0] : "Bez názvu";
-        const author = doc.pnx.display.creator ? doc.pnx.display.creator[0].replace(/\$\$Q.*/, '') : "";
-        
-        let docId = doc.pnx.control.recordid ? doc.pnx.control.recordid[0] : "";
-        if (doc.pnx.control.sourcerecordid) {
-          docId = "alma" + doc.pnx.control.sourcerecordid[0];
-        }
-        const catalogUrl = "https://discovery.jcu.cz/nde/fulldisplay?docid=" + docId + "&tab=LibraryCatalog&search_scope=MyInstitution&vid=420CARDS_JCU:JCU&lang=cs";
-
-        const karta = document.createElement("div");
-        karta.className = "kniha-karta";
-
-        const wrapLink = document.createElement("a");
-        wrapLink.href = catalogUrl;
-        wrapLink.target = "_blank";
-        wrapLink.style.textDecoration = "none";
-
-        const coverUrl = mapaObalu[isbn];
-
-        if (coverUrl) {
-          const img = document.createElement("img");
-          img.src = coverUrl;
-          img.alt = title;
-          img.onerror = function() {
-            this.replaceWith(vytvorNahradniObal());
-          };
-          wrapLink.appendChild(img);
-        } else {
-          wrapLink.appendChild(vytvorNahradniObal());
-        }
-
-        const nazevDiv = document.createElement("div");
-        nazevDiv.className = "kniha-nazev";
-        nazevDiv.title = title;
-        nazevDiv.textContent = title;
-        wrapLink.appendChild(nazevDiv);
-
-        const autorDiv = document.createElement("div");
-        autorDiv.className = "kniha-autor";
-        autorDiv.textContent = author;
-
-        const btnLink = document.createElement("a");
-        btnLink.href = catalogUrl;
-        btnLink.target = "_blank";
-        btnLink.className = "kniha-btn";
-        btnLink.textContent = "Detail v katalogu";
-
-        karta.appendChild(wrapLink);
-        karta.appendChild(autorDiv);
-        karta.appendChild(btnLink);
-
-        container.appendChild(karta);
-      });
-    })
-    .catch(error => {
-      console.error("Chyba při komunikaci s API:", error);
-      container.innerHTML = "<p>Chyba při načítání dat z API.</p>";
+      platneKnihy.push({ doc, isbn });
     });
+
+    // 2. Jediné dávkové zavolání vaší funkce ziskejVsechnyObalyJSONP
+    const mapaObalu = await ziskejVsechnyObalyJSONP(seznamIsbn);
+
+    // 3. Vykreslení karet
+    platneKnihy.forEach(({ doc, isbn }) => {
+      const title = doc.pnx.display.title ? doc.pnx.display.title[0] : "Bez názvu";
+      const author = doc.pnx.display.creator ? doc.pnx.display.creator[0].replace(/\$\$Q.*/, '') : "";
+      
+      let docId = doc.pnx.control.recordid ? doc.pnx.control.recordid[0] : "";
+      if (doc.pnx.control.sourcerecordid) {
+        docId = "alma" + doc.pnx.control.sourcerecordid[0];
+      }
+      const catalogUrl = "https://discovery.jcu.cz/nde/fulldisplay?docid=" + docId + "&tab=LibraryCatalog&search_scope=MyInstitution&vid=420CARDS_JCU:JCU&lang=cs";
+
+      const karta = document.createElement("div");
+      karta.className = "kniha-karta";
+
+      const wrapLink = document.createElement("a");
+      wrapLink.href = catalogUrl;
+      wrapLink.target = "_blank";
+      wrapLink.style.textDecoration = "none";
+
+      const coverUrl = mapaObalu[isbn];
+
+      if (coverUrl) {
+        const img = document.createElement("img");
+        img.src = coverUrl;
+        img.alt = title;
+        img.onerror = function() {
+          this.replaceWith(vytvorNahradniObal());
+        };
+        wrapLink.appendChild(img);
+      } else {
+        wrapLink.appendChild(vytvorNahradniObal());
+      }
+
+      const nazevDiv = document.createElement("div");
+      nazevDiv.className = "kniha-nazev";
+      nazevDiv.title = title;
+      nazevDiv.textContent = title;
+      wrapLink.appendChild(nazevDiv);
+
+      const autorDiv = document.createElement("div");
+      autorDiv.className = "kniha-autor";
+      autorDiv.textContent = author;
+
+      const btnLink = document.createElement("a");
+      btnLink.href = catalogUrl;
+      btnLink.target = "_blank";
+      btnLink.className = "kniha-btn";
+      btnLink.textContent = "Detail v katalogu";
+
+      karta.appendChild(wrapLink);
+      karta.appendChild(autorDiv);
+      karta.appendChild(btnLink);
+
+      container.appendChild(karta);
+    });
+  })
+  .catch(error => {
+    console.error("Chyba při komunikaci s API:", error);
+    container.innerHTML = "<p>Chyba při načítání dat z API.</p>";
+  });
 
   function vytvorNahradniObal() {
     const box = document.createElement("div");
