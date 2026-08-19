@@ -2,7 +2,7 @@
 <html lang="cs">
 <head>
   <meta charset="UTF-8">
-  <meta name="referrer" content="origin">
+  <meta name="referrer" content="no-referrer">
   <title>Náhled knižních novinek</title>
   <style>
     body {
@@ -216,18 +216,18 @@
         // Pokud máme ISBN, použijeme přímou CDN adresu ObálkyKnih
         if (isbn) {
           const img = document.createElement("img");
-          // Přímý odkaz na obálku v CDN ObálkyKnih podle ISBN
-          img.src = `https://cache.obalkyknih.cz/file/cover/isbn:${isbn}/medium`;
-          img.alt = title;
+    
+        // Klíčový krok: Obchází striktní validaci refereru na straně ObálkyKnih
+        img.referrerPolicy = "no-referrer"; 
+    
+        img.src = `https://cache.obalkyknih.cz/file/cover/isbn:${isbn}/medium`;
+        img.alt = title;
 
-          // Pokud obálka na CDN neexistuje, nahradíme ji boxem "Bez obálky"
-          img.onerror = function() {
-            this.replaceWith(vytvorNahradniObal());
-          };
-          wrapLink.appendChild(img);
-        } else {
-          wrapLink.appendChild(vytvorNahradniObal());
-        }
+        img.onerror = function() {
+          this.replaceWith(vytvorNahradniObal());
+        };
+        wrapLink.appendChild(img);
+     }
 
         const nazevDiv = document.createElement("div");
         nazevDiv.className = "kniha-nazev";
