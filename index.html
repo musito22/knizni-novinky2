@@ -2,15 +2,21 @@
 <html lang="cs">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="referrer" content="no-referrer-when-downgrade">
   <title>Náhled knižních novinek</title>
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       font-family: Arial, sans-serif;
       background-color: #f4f6f8;
       padding: 40px 20px;
       margin: 0;
     }
+
     .novinky-sekce {
       max-width: 1100px;
       margin: 0 auto;
@@ -19,30 +25,74 @@
       border-radius: 12px;
       box-shadow: 0 4px 15px rgba(0,0,0,0.08);
     }
+
     h2 {
       margin-top: 0;
       color: #c8102e; 
       border-bottom: 2px solid #c8102e;
       padding-bottom: 10px;
     }
-    
+
+    /* Obal celého slideru včetně tlačítek */
     .slider-wrapper {
       position: relative;
       display: flex;
       align-items: center;
+      width: 100%;
     }
+
+    /* Kontejner s kartami */
     .slider-container {
       display: flex;
       gap: 15px;
       overflow-x: auto;
       scroll-behavior: smooth;
       padding: 15px 5px;
-      scrollbar-width: none;
-    }
-    .slider-container::-webkit-scrollbar {
-      display: none;
+      scrollbar-width: none; /* Firefox */
+      width: 100%;
+      -webkit-overflow-scrolling: touch; /* Plynulý posun na iOS */
     }
 
+    .slider-container::-webkit-scrollbar {
+      display: none; /* Chrome, Safari, Edge */
+    }
+
+    /* Výrazná červená tlačítka pro posun */
+    .slider-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 100;
+      background: #c8102e;
+      color: #ffffff;
+      border: none;
+      border-radius: 50%;
+      width: 42px;
+      height: 42px;
+      cursor: pointer;
+      font-size: 22px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+      user-select: none;
+      transition: background-color 0.2s, transform 0.2s;
+    }
+
+    .slider-btn:hover {
+      background: #a00c24;
+      transform: translateY(-50%) scale(1.08);
+    }
+
+    .slider-btn.prev {
+      left: -15px;
+    }
+
+    .slider-btn.next {
+      right: -15px;
+    }
+
+    /* Karty knih */
     .kniha-karta {
       flex: 0 0 180px;
       width: 180px;
@@ -57,10 +107,12 @@
       box-sizing: border-box;
       transition: transform 0.2s, box-shadow 0.2s;
     }
+
     .kniha-karta:hover {
       transform: translateY(-4px);
       box-shadow: 0 6px 12px rgba(0,0,0,0.1);
     }
+
     .kniha-karta img {
       width: 100%;
       height: 210px;
@@ -69,7 +121,7 @@
       margin-bottom: 10px;
       display: block;
     }
-    
+
     .no-cover {
       width: 100%;
       height: 210px;
@@ -86,6 +138,7 @@
       font-weight: bold;
       box-sizing: border-box;
     }
+
     .no-cover svg {
       width: 36px;
       height: 36px;
@@ -103,7 +156,11 @@
       height: 2.6em;
       overflow: hidden;
       text-decoration: none;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
     }
+
     .kniha-autor {
       font-size: 0.78em;
       color: #64748b;
@@ -112,6 +169,7 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
+
     .kniha-btn {
       display: block;
       padding: 8px 10px;
@@ -125,25 +183,9 @@
       width: 100%;
       box-sizing: border-box;
     }
+
     .kniha-btn:hover {
       background-color: #a00c24;
-    }
-
-    .nav-btn {
-      background: #c8102e;
-      color: white;
-      border: none;
-      border-radius: 50%;
-      width: 40px;
-      height: 40px;
-      font-size: 20px;
-      cursor: pointer;
-      z-index: 10;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-      flex-shrink: 0;
-    }
-    .nav-btn:hover {
-      background: #a00c24;
     }
   </style>
 </head>
@@ -153,18 +195,18 @@
   <h2>Novinky v katalogu</h2>
   
   <div class="slider-wrapper">
-    <button class="nav-btn" onclick="posunoutLeft()">&#10094;</button>
+    <button class="slider-btn prev" onclick="posunoutLeft()" aria-label="Posunout vlevo">&#10094;</button>
     
     <div class="slider-container" id="knizni-novinky-container">
-      Načítám novinky z katalogu...
+      <p>Načítám novinky z katalogu...</p>
     </div>
-    
-    <button class="nav-btn" onclick="posunoutRight()">&#10095;</button>
+
+    <button class="slider-btn next" onclick="posunoutRight()" aria-label="Posunout vpravo">&#10095;</button>
   </div>
 </div>
 
 <script>
-  // 1. Pomocná funkce pro vytvoření náhradního obalu (musí být nahoře)
+  // 1. Pomocná funkce pro vytvoření náhradního obalu (umístěná na začátku)
   function vytvorNahradniObal() {
     const box = document.createElement("div");
     box.className = "no-cover";
@@ -172,18 +214,22 @@
     return box;
   }
 
-  // 2. Funkce pro posouvání tlačítky (globálně dostupné pro HTML onclick)
+  // 2. Globální funkce pro posun tlačítek
   function posunoutLeft() {
     const container = document.getElementById("knizni-novinky-container");
-    if (container) container.scrollBy({ left: -585, behavior: 'smooth' });
+    if (container) {
+      container.scrollBy({ left: -585, behavior: 'smooth' });
+    }
   }
 
   function posunoutRight() {
     const container = document.getElementById("knizni-novinky-container");
-    if (container) container.scrollBy({ left: 585, behavior: 'smooth' });
+    if (container) {
+      container.scrollBy({ left: 585, behavior: 'smooth' });
+    }
   }
 
-  // 3. Načítání dat z API Primo
+  // 3. Hlavní logika načítání dat
   const siglaKnihovny = "CBD007";
   const container = document.getElementById("knizni-novinky-container");
   const apiUrl = "https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS_JCU:JCU&tab=LibraryCatalog&scope=MyInstitution&q=rtype,exact,books&qInclude=facet_tlevel,exact,available_p&sort=date_d&limit=25&apikey=l8xxdfc91b34d2d14347b8d88b1346bcc795";
@@ -269,5 +315,6 @@
       container.innerHTML = "<p>Chyba při načítání dat z API.</p>";
     });
 </script>
+
 </body>
 </html>
