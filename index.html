@@ -168,43 +168,57 @@
   const container = document.getElementById("knizni-novinky-container");
   const apiUrl = "https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS_JCU:JCU&tab=LibraryCatalog&scope=MyInstitution&q=rtype,exact,books&qInclude=facet_tlevel,exact,available_p&sort=date_d&limit=25&apikey=l8xxdfc91b34d2d14347b8d88b1346bcc795";
 
-  // Příprava globální funkce obalky.callback požadované API ObálkyKnih
+  // Globální objekt vyžadovaný rozhraním ObálkyKnih
   window.obalky = window.obalky || {};
 
-  function ziskejObalUrlJSONP(isbn) {
+  // Hromadný dotaz na více ISBN v jednom požadavku
+  function ziskejVsechnyObalyJSONP(isbnArray) {
     return new Promise((resolve) => {
+      if (!isbnArray || isbnArray.length === 0) {
+        resolve({});
+        return;
+      }
+
       const script = document.createElement('script');
+      const idsParam = isbnArray.map(isbn => `isbn:${isbn}`).join(';');
       
       const timeout = setTimeout(() => {
         cleanup();
-        resolve(null);
-      }, 2000);
+        resolve({});
+      }, 3000);
 
       function cleanup() {
         clearTimeout(timeout);
         if (script.parentNode) script.parentNode.removeChild(script);
       }
 
-      // Odchycení odpovědi přes obalky.callback
+      // API vrátí pole objektů pro nalezené obálky
       window.obalky.callback = function(data) {
         cleanup();
-        if (data && data.length > 0 && data[0].cover_url) {
-          resolve(data[0].cover_url);
-        } else {
-          resolve(null);
+        const mapaObalu = {};
+        if (Array.isArray(data)) {
+          data.forEach(item => {
+            if (item.cover_url && item.bib_id) {
+              // Uložíme si URL pod dané ISBN
+              const matchedIsbn = item.bib_id.replace(/[^0-9X]/gi, '');
+              mapaObalu[matchedIsbn] = item.cover_url;
+            }
+          });
         }
+        resolve(mapaObalu);
       };
 
-      script.src = `https://www.obalkyknih.cz/api/books?id=isbn:${isbn}&library_id=${siglaKnihovny}&callback=obalky.callback`;
+      script.src = `https://www.obalkyknih.cz/api/books?id=${idsParam}&library_id=${siglaKnihovny}&callback=obalky.callback`;
       script.onerror = () => {
         cleanup();
-        resolve(null);
+        resolve({});
       };
 
       document.head.appendChild(script);
     });
   }
 
+  // Hlavní proces načtení
   fetch(apiUrl)
     .then(response => response.json())
     .then(async data => {
@@ -215,10 +229,28 @@
         return;
       }
 
-      for (const doc of data.docs) {
-        const isOnline = doc.pnx.delivery && doc.pnx.delivery.delcategory && doc.pnx.delivery.delcategory.includes("Online Resource");
-        if (isOnline) continue;
+      // 1. Filtrování a příprava Seznamu ISBN
+      const platneKnihy = [];
+      const seznamIsbn = [];
 
+      data.docs.forEach(doc => {
+        const isOnline = doc.pnx.delivery && doc.pnx.delivery.delcategory && doc.pnx.delivery.delcategory.includes("Online Resource");
+        if (isOnline) return;
+
+        let isbn = "";
+        if (doc.pnx.addata && doc.pnx.addata.isbn) {
+          isbn = doc.pnx.addata.isbn[0].replace(/[^0-9X]/gi, '');
+          if (isbn) seznamIsbn.push(isbn);
+        }
+
+        platneKnihy.push({ doc, isbn });
+      });
+
+      // 2. Jediné hromadné načtení všech obálek naráz
+      const mapaObalu = await ziskejVsechnyObalyJSONP(seznamIsbn);
+
+      // 3. Vykreslení karet
+      platneKnihy.forEach(({ doc, isbn }) => {
         const title = doc.pnx.display.title ? doc.pnx.display.title[0] : "Bez názvu";
         const author = doc.pnx.display.creator ? doc.pnx.display.creator[0].replace(/\$\$Q.*/, '') : "";
         
@@ -228,11 +260,6 @@
         }
         const catalogUrl = "https://discovery.jcu.cz/nde/fulldisplay?docid=" + docId + "&tab=LibraryCatalog&search_scope=MyInstitution&vid=420CARDS_JCU:JCU&lang=cs";
 
-        let isbn = "";
-        if (doc.pnx.addata && doc.pnx.addata.isbn) {
-          isbn = doc.pnx.addata.isbn[0].replace(/[^0-9X]/gi, '');
-        }
-
         const karta = document.createElement("div");
         karta.className = "kniha-karta";
 
@@ -241,10 +268,7 @@
         wrapLink.target = "_blank";
         wrapLink.style.textDecoration = "none";
 
-        let coverUrl = null;
-        if (isbn) {
-          coverUrl = await ziskejObalUrlJSONP(isbn);
-        }
+        const coverUrl = mapaObalu[isbn];
 
         if (coverUrl) {
           const img = document.createElement("img");
@@ -279,7 +303,7 @@
         karta.appendChild(btnLink);
 
         container.appendChild(karta);
-      }
+      });
     })
     .catch(error => {
       console.error("Chyba při komunikaci s API:", error);
