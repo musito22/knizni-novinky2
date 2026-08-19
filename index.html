@@ -168,24 +168,44 @@
   const container = document.getElementById("knizni-novinky-container");
   const apiUrl = "https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS_JCU:JCU&tab=LibraryCatalog&scope=MyInstitution&q=rtype,exact,books&qInclude=facet_tlevel,exact,available_p&sort=date_d&limit=25&apikey=l8xxdfc91b34d2d14347b8d88b1346bcc795";
 
-  // Dotaz na ObálkyKnih JSON API přes správnou doménu www.obalkyknih.cz
-  async function ziskejObalUrl(isbn) {
-    try {
-      const response = await fetch(`https://www.obalkyknih.cz/api/books?id=isbn:${isbn}&library_id=${siglaKnihovny}`);
-      if (!response.ok) return null;
+  // Načtení dat z ObálkyKnih přes JSONP (řeší CORS blokaci v prohlížeči)
+  function ziskejObalUrlJSONP(isbn) {
+    return new Promise((resolve) => {
+      const callbackName = 'obalky_cb_' + Math.random().toString(36).substr(2, 9);
+      const script = document.createElement('script');
       
-      const data = await response.json();
-      
-      if (data && data[0] && data[0].cover_url) {
-        return data[0].cover_url;
+      // Vypršení časového limitu (pokud API neodpoví do 2 sekund)
+      const timeout = setTimeout(() => {
+        cleanup();
+        resolve(null);
+      }, 2000);
+
+      function cleanup() {
+        clearTimeout(timeout);
+        delete window[callbackName];
+        if (script.parentNode) script.parentNode.removeChild(script);
       }
-    } catch (e) {
-      console.warn("ObálkyKnih API selhalo:", e);
-    }
-    return null;
+
+      window[callbackName] = function(data) {
+        cleanup();
+        if (data && data[0] && data[0].cover_url) {
+          resolve(data[0].cover_url);
+        } else {
+          resolve(null);
+        }
+      };
+
+      script.src = `https://www.obalkyknih.cz/api/books?id=isbn:${isbn}&library_id=${siglaKnihovny}&callback=${callbackName}`;
+      script.onerror = () => {
+        cleanup();
+        resolve(null);
+      };
+
+      document.head.appendChild(script);
+    });
   }
 
-  // Načtení dat z katalogu Primo
+  // Hlavní proces načtení novinek
   fetch(apiUrl)
     .then(response => response.json())
     .then(async data => {
@@ -224,11 +244,9 @@
 
         let coverUrl = null;
         if (isbn) {
-          coverUrl = await ziskejObalUrl(isbn);
+          coverUrl = await ziskejObalUrlJSONP(isbn);
         }
 
-        // Pokud ObálkyKnih vrátí platnou URL, vloží se obrázek.
-        // V opačném případě se okamžitě zobrazí elegantní náhradní obálka.
         if (coverUrl) {
           const img = document.createElement("img");
           img.src = coverUrl;
@@ -265,7 +283,7 @@
       }
     })
     .catch(error => {
-      console.error("Chyba:", error);
+      console.error("Chyba při komunikaci s API:", error);
       container.innerHTML = "<p>Chyba při načítání dat z API.</p>";
     });
 
