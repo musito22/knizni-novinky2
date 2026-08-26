@@ -233,7 +233,7 @@
   // 3. Hlavní logika načítání dat
   const siglaKnihovny = "CBD007";
   const container = document.getElementById("knizni-novinky-container");
-  const apiUrl = "novinky.json";
+  const apiUrl = "./novinky.json?v=" + new Date().getTime();
 
   fetch(apiUrl)
     .then(response => response.json())
