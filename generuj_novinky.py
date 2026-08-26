@@ -8,11 +8,17 @@ API_URL = f"https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS
 try:
     req = urllib.request.Request(API_URL, headers={"Accept": "application/json"})
     with urllib.request.urlopen(req) as response:
-        data = json.loads(response.read().decode("utf-8"))
+        raw_data = response.read().decode("utf-8")
+        data = json.loads(raw_data)
         
-        with open("novinky.json", "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print("Soubor novinky.json byl úspěšně vygenerován.")
+        # Ověření, že data obsahují výsledky vyhledávání
+        if "docs" in data or "docs" in data.get("searchResult", {}):
+            with open("novinky.json", "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            print("Soubor novinky.json byl úspěšně vygenerován.")
+        else:
+            print("Chyba: API vrátilo neúplná nebo chybová data.")
+            exit(1)
 except Exception as e:
     print(f"Chyba při stahování dat: {e}")
     exit(1)
