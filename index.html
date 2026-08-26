@@ -233,7 +233,7 @@
   // 3. Hlavní logika načítání dat
   const siglaKnihovny = "CBD007";
   const container = document.getElementById("knizni-novinky-container");
-  const apiUrl = "https://api-eu.hosted.exlibrisgroup.com/primo/v1/search?vid=420CARDS_JCU:JCU&tab=LibraryCatalog&scope=MyInstitution&q=rtype,exact,books&qInclude=facet_tlevel,exact,available_p&sort=date_d&limit=25&apikey=l8xxdfc91b34d2d14347b8d88b1346bcc795";
+  const apiUrl = "novinky.json";
 
   fetch(apiUrl)
     .then(response => response.json())
