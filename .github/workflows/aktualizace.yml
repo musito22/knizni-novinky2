@@ -2,18 +2,18 @@ name: Automatická aktualizace novinek
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Každý den ve 2:00 ráno
-  workflow_dispatch:      # Umožní ruční spuštění
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Načíst kód
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Nastavit Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
