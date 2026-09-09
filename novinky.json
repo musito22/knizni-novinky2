@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 192483,
+    "totalResultsLocal": 192479,
     "totalResultsPC": -1,
-    "total": 192483,
+    "total": 192479,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -441,7 +441,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -763,7 +763,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -1036,7 +1036,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -1387,7 +1387,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -1690,7 +1690,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -1993,7 +1993,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": true
         },
@@ -2305,7 +2305,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -2479,7 +2479,21 @@
         "titleRequestableAtItemLevel": false,
         "physicalItemTextCodes": null,
         "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
+        "almaInstitutionsList": [
+          {
+            "getitLink": [
+              {
+                "displayText": "Alma-P",
+                "linkRecordId": "9910394088009901"
+              }
+            ],
+            "instCode": "420CARDS_MUNI",
+            "instName": "Masaryk University",
+            "instId": "9905",
+            "availabilityStatus": "available_in_institution",
+            "envURL": ""
+          }
+        ],
         "recordInstitutionCode": null,
         "recordOwner": "420CARDS_NETWORK",
         "hasFilteredServices": null,
@@ -2619,7 +2633,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -2931,7 +2945,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -3193,7 +3207,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -3442,7 +3456,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -3752,7 +3766,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -4063,7 +4077,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -4371,7 +4385,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -4674,7 +4688,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -5034,7 +5048,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -5359,7 +5373,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -5678,7 +5692,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -5980,7 +5994,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -6289,7 +6303,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -6567,7 +6581,8 @@
             "Spektrum (Portál) ; 156$$QSpektrum (Portál)"
           ],
           "genre": [
-            "populárně-naučné publikace"
+            "populárně-naučné publikace",
+            "popular works"
           ],
           "relation": [
             "$$Corig_language$$VNázev anglického překladu: Fundamentals of phenomenological gestalt psychopathology Česky$$QFundamentals of phenomenological gestalt psychopathology"
@@ -6590,7 +6605,13 @@
             "psychická bolest",
             "transgenerační přenos",
             "interpersonální vztahy",
-            "klinická psychologie"
+            "klinická psychologie",
+            "gestalt therapy",
+            "psychopathology",
+            "psychic pain",
+            "generation transfer",
+            "interpersonal relations",
+            "clinical psychology"
           ]
         },
         "control": {
@@ -6611,11 +6632,18 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
         "addata": {
+          "originatingSystemIDAuthor": [
+            "jo2014811293"
+          ],
+          "originatingSystemIDContributor": [
+            "xx0076182",
+            "ko2003199531"
+          ],
           "aulast": [
             "Francesetti"
           ],
@@ -6786,7 +6814,21 @@
         "titleRequestableAtItemLevel": false,
         "physicalItemTextCodes": null,
         "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
+        "almaInstitutionsList": [
+          {
+            "getitLink": [
+              {
+                "displayText": "Alma-P",
+                "linkRecordId": "9910394077909901"
+              }
+            ],
+            "instCode": "420CARDS_MUNI",
+            "instName": "Masaryk University",
+            "instId": "9905",
+            "availabilityStatus": "available_in_institution",
+            "envURL": ""
+          }
+        ],
         "recordInstitutionCode": null,
         "recordOwner": "420CARDS_NETWORK",
         "hasFilteredServices": null,
@@ -6926,7 +6968,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -7242,7 +7284,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -7560,7 +7602,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2590101"
+            "1.2574092"
           ],
           "isDedup": false
         },
@@ -7789,20 +7831,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "508",
-    "CALL_SOLR_GET_IDS_LIST": "1237",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "677",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "55",
-    "RETRIVE_FROM_DB_COURSE_INFO": "50",
-    "RETRIVE_FROM_DB_RECORDS": "205",
-    "RETRIVE_FROM_DB_RELATIONS": "85",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "587",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "90",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1676",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "4108",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "334",
+    "CALL_SOLR_GET_IDS_LIST": "1495",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "700",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "36",
+    "RETRIVE_FROM_DB_COURSE_INFO": "39",
+    "RETRIVE_FROM_DB_RECORDS": "134",
+    "RETRIVE_FROM_DB_RELATIONS": "55",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "621",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "79",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1424",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "3963",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5735,
-    "COMBINED_SEARCH_TIME": 5789,
+    "BUILD_COMBINED_RESULTS_MAP": 5380,
+    "COMBINED_SEARCH_TIME": 5420,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -7812,15 +7854,15 @@
       "values": [
         {
           "value": "cze",
-          "count": "108578"
+          "count": "108575"
         },
         {
           "value": "eng",
-          "count": "44939"
+          "count": "44938"
         },
         {
           "value": "ger",
-          "count": "34109"
+          "count": "34108"
         },
         {
           "value": "rus",
@@ -7910,7 +7952,7 @@
       "values": [
         {
           "value": "books",
-          "count": "192483"
+          "count": "192479"
         }
       ]
     },
@@ -7919,7 +7961,7 @@
       "values": [
         {
           "value": "Beletrie",
-          "count": "5065"
+          "count": "5064"
         },
         {
           "value": "Křesťanství",
@@ -7931,7 +7973,7 @@
         },
         {
           "value": "20. století",
-          "count": "3270"
+          "count": "3269"
         },
         {
           "value": "Ryby. Rybářství. Akvaristika. Nemoci ryb",
@@ -7963,7 +8005,7 @@
         },
         {
           "value": "19.-20. století",
-          "count": "1567"
+          "count": "1566"
         },
         {
           "value": "20.-21. století",
@@ -8004,7 +8046,7 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "205063"
+          "count": "205059"
         },
         {
           "value": "30 days back",
@@ -8017,11 +8059,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "163125"
+          "count": "163122"
         },
         {
           "value": "9904–112771470009904",
-          "count": "39605"
+          "count": "39604"
         }
       ]
     },
@@ -8030,11 +8072,11 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "96576"
+          "count": "96568"
         },
         {
           "value": "9904–112771190009904–akskl",
-          "count": "33580"
+          "count": "33600"
         },
         {
           "value": "9904–112771470009904–lc99",
@@ -8042,7 +8084,7 @@
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "16141"
+          "count": "16140"
         },
         {
           "value": "9904–112771190009904–avcr",
@@ -8082,7 +8124,7 @@
         },
         {
           "value": "9904–112771190009904–lc102",
-          "count": "477"
+          "count": "475"
         },
         {
           "value": "9904–112771190009904–lc68",
@@ -8115,7 +8157,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "205063"
+          "count": "205059"
         },
         {
           "value": "open_access",
@@ -8132,15 +8174,15 @@
       "values": [
         {
           "value": "9904",
-          "count": "192483"
+          "count": "192479"
         },
         {
           "value": "9905",
-          "count": "54368"
+          "count": "54367"
         },
         {
           "value": "9908",
-          "count": "9320"
+          "count": "9319"
         },
         {
           "value": "9903",
