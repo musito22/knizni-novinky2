@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 192479,
+    "totalResultsLocal": 205058,
     "totalResultsPC": -1,
-    "total": 192479,
+    "total": 205058,
     "first": 1,
     "last": 25
   },
@@ -60,7 +60,7 @@
             "Bhotahity, Kathmandu, Nepal :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "zdravotnictví",
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -164,9 +164,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9053140656325828189"
           ]
         }
       },
@@ -411,7 +408,7 @@
             "Cambridge ; New York :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "mluvnice",
@@ -441,7 +438,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -525,9 +522,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9009455072551399760"
           ]
         }
       },
@@ -731,7 +725,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "nemocné děti",
@@ -763,7 +757,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -842,9 +836,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9076985328452555298"
           ]
         }
       },
@@ -1007,7 +998,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "veterinární patologie",
@@ -1036,7 +1027,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -1152,9 +1143,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9071972922875058703"
           ]
         }
       },
@@ -1352,7 +1340,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "liberalismus -- filozofické pojetí",
@@ -1387,7 +1375,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -1460,9 +1448,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9072618547568126013"
           ]
         }
       },
@@ -1660,7 +1645,7 @@
             "Brno :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "20.-21. století",
@@ -1690,7 +1675,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -1760,9 +1745,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9055492952435466903"
           ]
         }
       },
@@ -1963,7 +1945,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "15.-17. století",
@@ -1993,9 +1975,9 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
-          "isDedup": true
+          "isDedup": false
         },
         "addata": {
           "aulast": [
@@ -2066,9 +2048,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9056803275276171443"
           ]
         }
       },
@@ -2140,16 +2119,13 @@
         "filteredByGroupServices": null,
         "quickAccessService": null,
         "deliveryCategory": [
-          "Alma-P",
-          "Alma-E"
+          "Alma-P"
         ],
         "serviceMode": [
-          "ovp",
-          "Viewit"
+          "ovp"
         ],
         "availability": [
-          "available_in_library",
-          "not_restricted"
+          "available_in_library"
         ],
         "availabilityLinks": [
           "detailsgetit1"
@@ -2162,7 +2138,7 @@
         "physicalItemTextCodes": null,
         "feDisplayOtherLocations": false,
         "almaInstitutionsList": [],
-        "recordInstitutionCode": "420CARDS_NETWORK",
+        "recordInstitutionCode": null,
         "recordOwner": "420CARDS_NETWORK",
         "hasFilteredServices": null,
         "digitalAuxiliaryMode": false,
@@ -2272,7 +2248,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "1968",
@@ -2305,7 +2281,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -2387,9 +2363,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9038587471242674092"
           ]
         }
       },
@@ -2607,7 +2580,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "psychoterapie",
@@ -2633,7 +2606,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -2710,9 +2683,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9024590252567481325"
           ]
         }
       },
@@ -2917,7 +2887,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "kardiopulmonální resuscitace",
@@ -2945,7 +2915,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -3029,9 +2999,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9079468216918468490"
           ]
         }
       },
@@ -3179,7 +3146,7 @@
             "Praha :"
           ],
           "version": [
-            "3"
+            "0"
           ],
           "subject": [
             "ošetřovatelství",
@@ -3207,7 +3174,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -3284,10 +3251,7 @@
         },
         "facets": {
           "frbrtype": [
-            "5"
-          ],
-          "frbrgroupid": [
-            "9030959143881523779"
+            "6"
           ]
         }
       },
@@ -3429,7 +3393,7 @@
             "V Praze :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "stromy",
@@ -3456,7 +3420,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -3529,9 +3493,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9047386644291362248"
           ]
         }
       },
@@ -3732,7 +3693,7 @@
             "České Budějovice :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "mikrokontroléry",
@@ -3766,7 +3727,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -3842,9 +3803,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9019614296623018206"
           ]
         }
       },
@@ -4048,7 +4006,7 @@
             "Oslo :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "houby -- Evropa",
@@ -4077,7 +4035,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -4156,9 +4114,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9017151278851597843"
           ]
         }
       },
@@ -4355,7 +4310,7 @@
             "Brno] :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "mše",
@@ -4385,7 +4340,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -4459,9 +4414,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9006388110882455679"
           ]
         }
       },
@@ -4662,7 +4614,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "intenzivní medicína",
@@ -4688,7 +4640,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -4765,9 +4717,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9069983796323997867"
           ]
         }
       },
@@ -5009,7 +4958,7 @@
             "V Praze :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "křesťanství",
@@ -5048,7 +4997,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -5124,9 +5073,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9015597137152174717"
           ]
         }
       },
@@ -5335,7 +5281,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "Ambrož, svatý, 339-397",
@@ -5373,7 +5319,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -5453,9 +5399,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9033718804745738154"
           ]
         }
       },
@@ -5659,7 +5602,7 @@
             "Brno :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "Říha, Karel, 1923-2016",
@@ -5692,7 +5635,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -5769,9 +5712,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9070539725258789515"
           ]
         }
       },
@@ -5969,7 +5909,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "arabština",
@@ -5994,7 +5934,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -6068,9 +6008,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9060625994895121485"
           ]
         }
       },
@@ -6271,7 +6208,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "Kniha stvoření",
@@ -6303,7 +6240,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -6380,9 +6317,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9037855959531685046"
           ]
         }
       },
@@ -6597,7 +6531,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "gestalt terapie",
@@ -6632,7 +6566,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -6722,9 +6656,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9031827102092289094"
           ]
         }
       },
@@ -6936,7 +6867,7 @@
             "Praha :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "21. století",
@@ -6968,7 +6899,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -7045,9 +6976,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9019278912284115255"
           ]
         }
       },
@@ -7248,7 +7176,7 @@
             "V Praze :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "autismus",
@@ -7284,7 +7212,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -7361,9 +7289,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9012130713445193615"
           ]
         }
       },
@@ -7568,7 +7493,7 @@
             "V Praze :"
           ],
           "version": [
-            "1"
+            "0"
           ],
           "subject": [
             "výchova dítěte",
@@ -7602,7 +7527,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2574092"
+            "1.2559869"
           ],
           "isDedup": false
         },
@@ -7679,9 +7604,6 @@
         "facets": {
           "frbrtype": [
             "6"
-          ],
-          "frbrgroupid": [
-            "9011541548262592575"
           ]
         }
       },
@@ -7831,20 +7753,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "334",
-    "CALL_SOLR_GET_IDS_LIST": "1495",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "700",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "36",
-    "RETRIVE_FROM_DB_COURSE_INFO": "39",
-    "RETRIVE_FROM_DB_RECORDS": "134",
-    "RETRIVE_FROM_DB_RELATIONS": "55",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "621",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "79",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1424",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "3963",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "409",
+    "CALL_SOLR_GET_IDS_LIST": "1159",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "780",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "41",
+    "RETRIVE_FROM_DB_COURSE_INFO": "27",
+    "RETRIVE_FROM_DB_RECORDS": "186",
+    "RETRIVE_FROM_DB_RELATIONS": "60",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "689",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "91",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1497",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "3856",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5380,
-    "COMBINED_SEARCH_TIME": 5420,
+    "BUILD_COMBINED_RESULTS_MAP": 5623,
+    "COMBINED_SEARCH_TIME": 5673,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -7854,63 +7776,63 @@
       "values": [
         {
           "value": "cze",
-          "count": "108575"
+          "count": "115956"
         },
         {
           "value": "eng",
-          "count": "44938"
+          "count": "47184"
         },
         {
           "value": "ger",
-          "count": "34108"
+          "count": "36170"
         },
         {
           "value": "rus",
-          "count": "9766"
+          "count": "10025"
         },
         {
           "value": "slo",
-          "count": "6692"
+          "count": "6860"
         },
         {
           "value": "fre",
-          "count": "5524"
+          "count": "5903"
         },
         {
           "value": "pol",
-          "count": "2463"
-        },
-        {
-          "value": "ita",
-          "count": "2069"
+          "count": "2523"
         },
         {
           "value": "lat",
-          "count": "1993"
+          "count": "2332"
+        },
+        {
+          "value": "ita",
+          "count": "2193"
         },
         {
           "value": "spa",
-          "count": "1904"
+          "count": "2040"
         },
         {
           "value": "grc",
-          "count": "287"
+          "count": "323"
         },
         {
           "value": "hun",
-          "count": "155"
-        },
-        {
-          "value": "bul",
-          "count": "136"
-        },
-        {
-          "value": "rum",
-          "count": "136"
+          "count": "167"
         },
         {
           "value": "heb",
-          "count": "133"
+          "count": "148"
+        },
+        {
+          "value": "bul",
+          "count": "138"
+        },
+        {
+          "value": "rum",
+          "count": "138"
         },
         {
           "value": "sla",
@@ -7918,19 +7840,19 @@
         },
         {
           "value": "dut",
-          "count": "112"
+          "count": "117"
         },
         {
           "value": "ukr",
-          "count": "100"
+          "count": "106"
         },
         {
           "value": "slv",
-          "count": "96"
+          "count": "105"
         },
         {
           "value": "por",
-          "count": "77"
+          "count": "82"
         }
       ]
     },
@@ -7952,7 +7874,7 @@
       "values": [
         {
           "value": "books",
-          "count": "192479"
+          "count": "205058"
         }
       ]
     },
@@ -7961,83 +7883,83 @@
       "values": [
         {
           "value": "Beletrie",
-          "count": "5064"
+          "count": "5378"
         },
         {
           "value": "Křesťanství",
-          "count": "5230"
+          "count": "5422"
         },
         {
           "value": "Česko",
-          "count": "3949"
+          "count": "4065"
         },
         {
           "value": "20. století",
-          "count": "3269"
+          "count": "3358"
         },
         {
           "value": "Ryby. Rybářství. Akvaristika. Nemoci ryb",
-          "count": "2687"
+          "count": "2824"
         },
         {
           "value": "Náboženství",
-          "count": "3048"
+          "count": "3142"
         },
         {
-          "value": "entomologie",
-          "count": "3113"
+          "value": "Entomologie",
+          "count": "3235"
         },
         {
           "value": "dějiny",
-          "count": "2136"
+          "count": "2195"
         },
         {
           "value": "angličtina",
-          "count": "2049"
-        },
-        {
-          "value": "hydrobiologie",
-          "count": "1784"
+          "count": "2340"
         },
         {
           "value": "čeština",
-          "count": "1781"
+          "count": "2063"
+        },
+        {
+          "value": "hydrobiologie",
+          "count": "1838"
         },
         {
           "value": "19.-20. století",
-          "count": "1566"
+          "count": "1616"
         },
         {
           "value": "20.-21. století",
-          "count": "1563"
-        },
-        {
-          "value": "životní prostředí",
-          "count": "1547"
+          "count": "1589"
         },
         {
           "value": "rybářství",
-          "count": "1537"
+          "count": "1602"
+        },
+        {
+          "value": "životní prostředí",
+          "count": "1574"
         },
         {
           "value": "Botanika obecná",
-          "count": "1474"
+          "count": "1525"
         },
         {
           "value": "Právo. Právní předpisy. Kriminologie",
-          "count": "1446"
+          "count": "1508"
+        },
+        {
+          "value": "němčina",
+          "count": "1631"
         },
         {
           "value": "Malířství. Sochařství",
-          "count": "1377"
+          "count": "1442"
         },
         {
           "value": "Biografie",
-          "count": "2000"
-        },
-        {
-          "value": "Zoologie systematická",
-          "count": "1347"
+          "count": "2057"
         }
       ]
     },
@@ -8046,7 +7968,7 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "205059"
+          "count": "205058"
         },
         {
           "value": "30 days back",
@@ -8059,11 +7981,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "163122"
+          "count": "173756"
         },
         {
           "value": "9904–112771470009904",
-          "count": "39604"
+          "count": "41238"
         }
       ]
     },
@@ -8072,83 +7994,83 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "96568"
+          "count": "103032"
         },
         {
           "value": "9904–112771190009904–akskl",
-          "count": "33600"
+          "count": "34832"
         },
         {
           "value": "9904–112771470009904–lc99",
-          "count": "24571"
+          "count": "25460"
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "16140"
+          "count": "16669"
         },
         {
           "value": "9904–112771190009904–avcr",
-          "count": "16043"
+          "count": "16467"
         },
         {
           "value": "9904–112771190009904–frov",
-          "count": "8772"
+          "count": "9189"
         },
         {
           "value": "9904–112771190009904–lc143",
-          "count": "7857"
+          "count": "8096"
         },
         {
           "value": "9904–112771190009904–rak",
-          "count": "6842"
+          "count": "7126"
         },
         {
           "value": "9904–112771190009904–daad",
-          "count": "2425"
+          "count": "2473"
         },
         {
           "value": "9904–112771190009904–lc67",
-          "count": "693"
+          "count": "718"
         },
         {
           "value": "9904–112771190009904–lc54",
-          "count": "600"
+          "count": "652"
         },
         {
           "value": "9904–112771190009904–lc135",
-          "count": "540"
+          "count": "566"
         },
         {
           "value": "9904–112771190009904–lc121",
-          "count": "482"
+          "count": "501"
         },
         {
           "value": "9904–112771190009904–lc102",
-          "count": "475"
+          "count": "485"
         },
         {
           "value": "9904–112771190009904–lc68",
-          "count": "301"
+          "count": "309"
         },
         {
           "value": "9904–112771190009904–lc65",
-          "count": "276"
+          "count": "287"
         },
         {
           "value": "9904–112771190009904–schw",
-          "count": "276"
+          "count": "280"
+        },
+        {
+          "value": "9904–112771190009904–lc55",
+          "count": "243"
+        },
+        {
+          "value": "9904–112771190009904–lc126",
+          "count": "242"
         },
         {
           "value": "9904–112771190009904–lc114",
           "count": "238"
-        },
-        {
-          "value": "9904–112771190009904–lc126",
-          "count": "234"
-        },
-        {
-          "value": "9904–112771190009904–lc89",
-          "count": "220"
         }
       ]
     },
@@ -8157,7 +8079,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "205059"
+          "count": "205058"
         },
         {
           "value": "open_access",
@@ -8174,23 +8096,23 @@
       "values": [
         {
           "value": "9904",
-          "count": "192479"
+          "count": "205058"
         },
         {
           "value": "9905",
-          "count": "54367"
+          "count": "58621"
         },
         {
           "value": "9908",
-          "count": "9319"
+          "count": "9897"
         },
         {
           "value": "9903",
-          "count": "9111"
+          "count": "9720"
         },
         {
           "value": "9902",
-          "count": "5987"
+          "count": "6264"
         }
       ]
     }
