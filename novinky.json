@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 205058,
+    "totalResultsLocal": 205041,
     "totalResultsPC": -1,
-    "total": 205058,
+    "total": 205041,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -438,7 +438,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -757,7 +757,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -840,8 +840,98 @@
         }
       },
       "delivery": {
-        "bestlocation": null,
-        "holding": null,
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "AK",
+          "availabilityStatus": "available",
+          "subLocation": "AK (volný výběr)",
+          "subLocationCode": "AKVV",
+          "mainLocation": "Akademická knihovna",
+          "callNumber": "",
+          "callNumberType": "#",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "990002967210109904",
+          "holdId": "2246478530009904",
+          "holKey": "HoldingResultKey [mid=2246478530009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "available",
+            "subLocation": "AK (volný výběr)",
+            "subLocationCode": "AKVV",
+            "mainLocation": "Akademická knihovna",
+            "callNumber": "",
+            "callNumberType": "#",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "990002967210109904",
+            "holdId": "2246478530009904",
+            "holKey": "HoldingResultKey [mid=2246478530009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          },
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "available",
+            "subLocation": "AK-studovna Vltava",
+            "subLocationCode": "LC143",
+            "mainLocation": "Akademická knihovna",
+            "callNumber": "",
+            "callNumberType": "#",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "990002967210109904",
+            "holdId": "2246478480009904",
+            "holKey": "HoldingResultKey [mid=2246478480009904, libraryId=112771190009904, locationCode=LC143, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:1"
+          }
+        ],
         "electronicServices": null,
         "additionalElectronicServices": null,
         "filteredByGroupServices": null,
@@ -850,23 +940,21 @@
           "Alma-P"
         ],
         "serviceMode": [
-          "howovp"
+          "ovp"
         ],
         "availability": [
-          "no_inventory"
+          "available_in_library"
         ],
         "availabilityLinks": [
           "detailsgetit1"
         ],
-        "availabilityLinksUrl": [
-          "detailsgetit1"
-        ],
-        "displayedAvailability": "no_inventory",
-        "displayLocation": null,
-        "additionalLocations": null,
-        "titleRequestableAtItemLevel": null,
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": true,
+        "titleRequestableAtItemLevel": false,
         "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": null,
+        "feDisplayOtherLocations": true,
         "almaInstitutionsList": [],
         "recordInstitutionCode": null,
         "recordOwner": "420CARDS_JCU",
@@ -884,13 +972,23 @@
             "links": [
               {
                 "isLinktoOnline": false,
-                "getItTabText": "service_howtogetit",
+                "getItTabText": "service_getit",
                 "adaptorid": "ALMA_01",
-                "ilsApiId": "",
-                "link": "HowToGetIt",
-                "inst4opac": "",
+                "ilsApiId": "990002967210109904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
                 "displayText": null,
                 "@id": "_:0"
+              },
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "990002967210109904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:1"
               }
             ]
           }
@@ -1027,7 +1125,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -1375,7 +1473,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -1675,7 +1773,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -1975,7 +2073,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -2281,7 +2379,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -2606,7 +2704,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -2915,7 +3013,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -3003,8 +3101,98 @@
         }
       },
       "delivery": {
-        "bestlocation": null,
-        "holding": null,
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "AK",
+          "availabilityStatus": "available",
+          "subLocation": "AK-studovna Vltava",
+          "subLocationCode": "LC143",
+          "mainLocation": "Akademická knihovna",
+          "callNumber": "",
+          "callNumberType": "#",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "990002966790109904",
+          "holdId": "2246482030009904",
+          "holKey": "HoldingResultKey [mid=2246482030009904, libraryId=112771190009904, locationCode=LC143, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "available",
+            "subLocation": "AK-studovna Vltava",
+            "subLocationCode": "LC143",
+            "mainLocation": "Akademická knihovna",
+            "callNumber": "",
+            "callNumberType": "#",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "990002966790109904",
+            "holdId": "2246482030009904",
+            "holKey": "HoldingResultKey [mid=2246482030009904, libraryId=112771190009904, locationCode=LC143, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          },
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "available",
+            "subLocation": "AK (volný výběr)",
+            "subLocationCode": "AKVV",
+            "mainLocation": "Akademická knihovna",
+            "callNumber": "",
+            "callNumberType": "#",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "990002966790109904",
+            "holdId": "2246482080009904",
+            "holKey": "HoldingResultKey [mid=2246482080009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:1"
+          }
+        ],
         "electronicServices": null,
         "additionalElectronicServices": null,
         "filteredByGroupServices": null,
@@ -3013,23 +3201,21 @@
           "Alma-P"
         ],
         "serviceMode": [
-          "howovp"
+          "ovp"
         ],
         "availability": [
-          "no_inventory"
+          "available_in_library"
         ],
         "availabilityLinks": [
           "detailsgetit1"
         ],
-        "availabilityLinksUrl": [
-          "detailsgetit1"
-        ],
-        "displayedAvailability": "no_inventory",
-        "displayLocation": null,
-        "additionalLocations": null,
-        "titleRequestableAtItemLevel": null,
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": true,
+        "titleRequestableAtItemLevel": false,
         "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": null,
+        "feDisplayOtherLocations": true,
         "almaInstitutionsList": [],
         "recordInstitutionCode": null,
         "recordOwner": "420CARDS_NETWORK",
@@ -3047,13 +3233,23 @@
             "links": [
               {
                 "isLinktoOnline": false,
-                "getItTabText": "service_howtogetit",
+                "getItTabText": "service_getit",
                 "adaptorid": "ALMA_01",
-                "ilsApiId": "",
-                "link": "HowToGetIt",
-                "inst4opac": "",
+                "ilsApiId": "990002966790109904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
                 "displayText": null,
                 "@id": "_:0"
+              },
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "990002966790109904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:1"
               }
             ]
           }
@@ -3174,7 +3370,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -3256,8 +3452,98 @@
         }
       },
       "delivery": {
-        "bestlocation": null,
-        "holding": null,
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "AK",
+          "availabilityStatus": "available",
+          "subLocation": "AK-studovna Vltava",
+          "subLocationCode": "LC143",
+          "mainLocation": "Akademická knihovna",
+          "callNumber": "",
+          "callNumberType": "#",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "990002966770109904",
+          "holdId": "2246482250009904",
+          "holKey": "HoldingResultKey [mid=2246482250009904, libraryId=112771190009904, locationCode=LC143, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "available",
+            "subLocation": "AK-studovna Vltava",
+            "subLocationCode": "LC143",
+            "mainLocation": "Akademická knihovna",
+            "callNumber": "",
+            "callNumberType": "#",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "990002966770109904",
+            "holdId": "2246482250009904",
+            "holKey": "HoldingResultKey [mid=2246482250009904, libraryId=112771190009904, locationCode=LC143, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          },
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "unavailable",
+            "subLocation": "AK (volný výběr)",
+            "subLocationCode": "AKVV",
+            "mainLocation": "Akademická knihovna",
+            "callNumber": "",
+            "callNumberType": "#",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "990002966770109904",
+            "holdId": "2246482330009904",
+            "holKey": "HoldingResultKey [mid=2246482330009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:1"
+          }
+        ],
         "electronicServices": null,
         "additionalElectronicServices": null,
         "filteredByGroupServices": null,
@@ -3266,23 +3552,21 @@
           "Alma-P"
         ],
         "serviceMode": [
-          "howovp"
+          "ovp"
         ],
         "availability": [
-          "no_inventory"
+          "available_in_library"
         ],
         "availabilityLinks": [
           "detailsgetit1"
         ],
-        "availabilityLinksUrl": [
-          "detailsgetit1"
-        ],
-        "displayedAvailability": "no_inventory",
-        "displayLocation": null,
-        "additionalLocations": null,
-        "titleRequestableAtItemLevel": null,
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": true,
+        "titleRequestableAtItemLevel": false,
         "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": null,
+        "feDisplayOtherLocations": true,
         "almaInstitutionsList": [],
         "recordInstitutionCode": null,
         "recordOwner": "420CARDS_NETWORK",
@@ -3300,13 +3584,23 @@
             "links": [
               {
                 "isLinktoOnline": false,
-                "getItTabText": "service_howtogetit",
+                "getItTabText": "service_getit",
                 "adaptorid": "ALMA_01",
-                "ilsApiId": "",
-                "link": "HowToGetIt",
-                "inst4opac": "",
+                "ilsApiId": "990002966770109904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
                 "displayText": null,
                 "@id": "_:0"
+              },
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "990002966770109904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:1"
               }
             ]
           }
@@ -3420,7 +3714,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -3727,7 +4021,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -3892,7 +4186,21 @@
         "titleRequestableAtItemLevel": false,
         "physicalItemTextCodes": null,
         "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
+        "almaInstitutionsList": [
+          {
+            "getitLink": [
+              {
+                "displayText": "Alma-P",
+                "linkRecordId": "9910394086409901"
+              }
+            ],
+            "instCode": "420CARDS_CVUT",
+            "instName": "Central Library CTU in Prague",
+            "instId": "9903",
+            "availabilityStatus": "available_in_institution",
+            "envURL": ""
+          }
+        ],
         "recordInstitutionCode": null,
         "recordOwner": "420CARDS_NETWORK",
         "hasFilteredServices": null,
@@ -4035,7 +4343,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -4340,7 +4648,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -4640,7 +4948,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -4997,7 +5305,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -5319,7 +5627,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -5635,7 +5943,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -5934,7 +6242,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -6240,7 +6548,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -6566,7 +6874,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -6899,7 +7207,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -7212,7 +7520,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -7527,7 +7835,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2559869"
+            "1.2434552"
           ],
           "isDedup": false
         },
@@ -7753,20 +8061,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "409",
-    "CALL_SOLR_GET_IDS_LIST": "1159",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "780",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "41",
-    "RETRIVE_FROM_DB_COURSE_INFO": "27",
-    "RETRIVE_FROM_DB_RECORDS": "186",
-    "RETRIVE_FROM_DB_RELATIONS": "60",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "689",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "91",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1497",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "3856",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "374",
+    "CALL_SOLR_GET_IDS_LIST": "954",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "1365",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "37",
+    "RETRIVE_FROM_DB_COURSE_INFO": "33",
+    "RETRIVE_FROM_DB_RECORDS": "141",
+    "RETRIVE_FROM_DB_RELATIONS": "73",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "1291",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "74",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1304",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "4006",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5623,
-    "COMBINED_SEARCH_TIME": 5673,
+    "BUILD_COMBINED_RESULTS_MAP": 5304,
+    "COMBINED_SEARCH_TIME": 5336,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -7776,11 +8084,11 @@
       "values": [
         {
           "value": "cze",
-          "count": "115956"
+          "count": "115955"
         },
         {
           "value": "eng",
-          "count": "47184"
+          "count": "47170"
         },
         {
           "value": "ger",
@@ -7788,7 +8096,7 @@
         },
         {
           "value": "rus",
-          "count": "10025"
+          "count": "10024"
         },
         {
           "value": "slo",
@@ -7796,7 +8104,7 @@
         },
         {
           "value": "fre",
-          "count": "5903"
+          "count": "5902"
         },
         {
           "value": "pol",
@@ -7874,7 +8182,7 @@
       "values": [
         {
           "value": "books",
-          "count": "205058"
+          "count": "205041"
         }
       ]
     },
@@ -7907,7 +8215,7 @@
         },
         {
           "value": "Entomologie",
-          "count": "3235"
+          "count": "3231"
         },
         {
           "value": "dějiny",
@@ -7943,7 +8251,7 @@
         },
         {
           "value": "Botanika obecná",
-          "count": "1525"
+          "count": "1524"
         },
         {
           "value": "Právo. Právní předpisy. Kriminologie",
@@ -7968,7 +8276,7 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "205058"
+          "count": "205041"
         },
         {
           "value": "30 days back",
@@ -7981,7 +8289,7 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "173756"
+          "count": "173740"
         },
         {
           "value": "9904–112771470009904",
@@ -7994,11 +8302,11 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "103032"
+          "count": "103005"
         },
         {
           "value": "9904–112771190009904–akskl",
-          "count": "34832"
+          "count": "34868"
         },
         {
           "value": "9904–112771470009904–lc99",
@@ -8010,7 +8318,7 @@
         },
         {
           "value": "9904–112771190009904–avcr",
-          "count": "16467"
+          "count": "16450"
         },
         {
           "value": "9904–112771190009904–frov",
@@ -8018,7 +8326,7 @@
         },
         {
           "value": "9904–112771190009904–lc143",
-          "count": "8096"
+          "count": "8097"
         },
         {
           "value": "9904–112771190009904–rak",
@@ -8079,7 +8387,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "205058"
+          "count": "205041"
         },
         {
           "value": "open_access",
@@ -8096,11 +8404,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "205058"
+          "count": "205041"
         },
         {
           "value": "9905",
-          "count": "58621"
+          "count": "58620"
         },
         {
           "value": "9908",
@@ -8108,7 +8416,7 @@
         },
         {
           "value": "9903",
-          "count": "9720"
+          "count": "9721"
         },
         {
           "value": "9902",
