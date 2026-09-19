@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 184858,
+    "totalResultsLocal": 184860,
     "totalResultsPC": -1,
-    "total": 184858,
+    "total": 184860,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -438,7 +438,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -757,7 +757,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -1125,7 +1125,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -1424,6 +1424,9 @@
           "mms": [
             "993083715009904"
           ],
+          "contributor": [
+            "Koninklijke Brill NV$$QKoninklijke Brill NV"
+          ],
           "series": [
             "Theology 2468-3485$$QTheology",
             "Theology$$QTheology"
@@ -1438,7 +1441,8 @@
             "0"
           ],
           "subject": [
-            "křesťanská teologie"
+            "křesťanská teologie",
+            "mystika"
           ]
         },
         "control": {
@@ -1459,11 +1463,14 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
         "addata": {
+          "originatingSystemIDContributor": [
+            "xx0348032"
+          ],
           "aulast": [
             "Smith"
           ],
@@ -1475,6 +1482,9 @@
           ],
           "au": [
             "Smith, Rachel J.D."
+          ],
+          "addau": [
+            "Koninklijke Brill NV"
           ],
           "creatorfull": [
             "$$NSmith, Rachel J.D.$$LSmith$$FRachel J.D.$$Rauthor"
@@ -1667,8 +1677,327 @@
         },
         "bibVirtualBrowseObject": {
           "isVirtualBrowseEnabled": true,
-          "callNumber": "monografie",
+          "callNumber": "2-587",
           "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993084014609904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "eng"
+          ],
+          "title": [
+            "Fungi"
+          ],
+          "format": [
+            "viii, 278 stran : ilustrace ; 22 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-1-394-34483-3"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "creator": [
+            "Kratz, René Fester$$QKratz, René Fester"
+          ],
+          "publisher": [
+            "Hoboken ; Canada : John Wiley & Sons Inc."
+          ],
+          "description": [
+            "\"Discover the fundamentals of fungi with this engaging and easy-to-follow book. Fungi for dummies gives you an in-depth view of the wide world of mycology. With this science-focused yet clear and readable book, you'll dig deep into the science of the fascinating organisms that help this planet thrive. Learn about fungi classifications and structures, their uses in and beyond medicine, their importance to environmental sustainability, and how they have shaped human cultures around the world. Go beyond the typical mushroom field guide and get a thorough introduction to the study of mycology that tracks a typical undergraduate course in the field. Grasp the basics of mycology, including how fungi grow and how they differ from plants ; Discover the role fungi play in ecosystems around the world ; Learn to classify the different biological structures that appear in fungi ; Know the various fungal groups and their roles in nature and in human endeavors. Perfect for those who want or need to get a grasp on mycology, Fungi for dummies is an approachable introduction to this essential organism group.\"--Nakladatelská anotace"
+          ],
+          "mms": [
+            "993084014609904"
+          ],
+          "addtitle": [
+            "Fungi for dummies"
+          ],
+          "series": [
+            "{-- }For dummies$$Q{-- }For dummies"
+          ],
+          "genre": [
+            "monografie"
+          ],
+          "place": [
+            "Hoboken ; Canada :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "organismy -- bi",
+            "mykologie -- bi",
+            "houby -- bi",
+            "Houby+ Řasy",
+            "podhoubí",
+            "mycelium"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993084014609904"
+          ],
+          "recordid": [
+            "alma993084014609904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "001889346-STK01"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2557443"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDAuthor": [
+            "xx0309102"
+          ],
+          "aulast": [
+            "Kratz"
+          ],
+          "aufirst": [
+            "René Fester"
+          ],
+          "auinit": [
+            "R"
+          ],
+          "au": [
+            "Kratz, René Fester"
+          ],
+          "creatorfull": [
+            "$$NKratz, René Fester$$LKratz$$FRené Fester$$Rauthor"
+          ],
+          "addtitle": [
+            "Fungi for dummies"
+          ],
+          "date": [
+            "2026 - 2026",
+            "2026"
+          ],
+          "isbn": [
+            "978-1-394-34483-3"
+          ],
+          "notes": [
+            "Obsahuje bibliografické odkazy a rejstřík"
+          ],
+          "abstract": [
+            "\"Discover the fundamentals of fungi with this engaging and easy-to-follow book. Fungi for dummies gives you an in-depth view of the wide world of mycology. With this science-focused yet clear and readable book, you'll dig deep into the science of the fascinating organisms that help this planet thrive. Learn about fungi classifications and structures, their uses in and beyond medicine, their importance to environmental sustainability, and how they have shaped human cultures around the world. Go beyond the typical mushroom field guide and get a thorough introduction to the study of mycology that tracks a typical undergraduate course in the field. Grasp the basics of mycology, including how fungi grow and how they differ from plants ; Discover the role fungi play in ecosystems around the world ; Learn to classify the different biological structures that appear in fungi ; Know the various fungal groups and their roles in nature and in human endeavors. Perfect for those who want or need to get a grasp on mycology, Fungi for dummies is an approachable introduction to this essential organism group.\"--Nakladatelská anotace"
+          ],
+          "cop": [
+            "Hoboken"
+          ],
+          "pub": [
+            "John Wiley & Sons Inc."
+          ],
+          "oclcid": [
+            "(cz-prstk)001889346",
+            "(aleph)1889346stk01",
+            "(cards)10756864skc"
+          ],
+          "seriestitle": [
+            "{-- }For dummies"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Fungi"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Fungi /"
+          ],
+          "author": [
+            "Kratz, René Fester"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "AK",
+          "availabilityStatus": "unavailable",
+          "subLocation": "AK (volný výběr)",
+          "subLocationCode": "AKVV",
+          "mainLocation": "Akademická knihovna",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993084014609904",
+          "holdId": "2279870490009904",
+          "holKey": "HoldingResultKey [mid=2279870490009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "unavailable",
+            "subLocation": "AK (volný výběr)",
+            "subLocationCode": "AKVV",
+            "mainLocation": "Akademická knihovna",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993084014609904",
+            "holdId": "2279870490009904",
+            "holKey": "HoldingResultKey [mid=2279870490009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "unavailable"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [
+          {
+            "getitLink": [
+              {
+                "displayText": "Alma-P",
+                "linkRecordId": "9910407339409901"
+              }
+            ],
+            "instCode": "420CARDS_NTK",
+            "instName": "National Library of Technology",
+            "instId": "9902",
+            "availabilityStatus": "available_in_institution",
+            "envURL": ""
+          }
+        ],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993084014609904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9781394344833,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-1-394-34483-3%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "qk\"603ǂ k73 2026",
+          "callNumberBrowseField": "LOC_CL"
         }
       }
     },
@@ -1757,7 +2086,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -2057,7 +2386,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -2357,7 +2686,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -2663,7 +2992,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -2988,7 +3317,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -3297,7 +3626,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -3654,7 +3983,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -3998,7 +4327,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -4305,7 +4634,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -4643,7 +4972,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -4948,7 +5277,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -5248,7 +5577,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -5605,7 +5934,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -5927,7 +6256,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -6243,7 +6572,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -6542,7 +6871,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -6848,7 +7177,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -7174,7 +7503,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -7507,7 +7836,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2556378"
+            "1.2557443"
           ],
           "isDedup": false
         },
@@ -7730,336 +8059,23 @@
           "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
         }
       }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002965790109904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze"
-          ],
-          "title": [
-            "Autismus a náročné chování : pozitivní přístupy v praxi"
-          ],
-          "format": [
-            "262 stran ; 20 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-7684-471-1"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Osgood, Tony$$QOsgood, Tony"
-          ],
-          "publisher": [
-            "V Praze : Stanislav Juhaňák - Triton"
-          ],
-          "description": [
-            "Lidé, kteří nemohou komunikovat běžným způsobem, vyjadřují své potřeby chováním, jež nám může připadat náročné. Publikace je určena rodičům i odborníkům, kteří jsou v denním kontaktu s lidmi s náročným chováním a poruchou autistického spektra. Kniha ukazuje, že podobné projevy lze chápat jako zprávy o bolesti, strachu či nenaplněných potřebách, a přináší návod, jak na ně reagovat bez trestů a omezování. Vychází z pozitivních přístupů, které neusilují o \"nápravu\" člověka, ale o zlepšování jeho života a vztahů. Nakladatelská anotace. Kráceno."
-          ],
-          "mms": [
-            "990002965790109904"
-          ],
-          "contributor": [
-            "Mertinová, Petra, 1978-$$QMertinová, Petra",
-            "Nakladatelství Triton$$QNakladatelství Triton"
-          ],
-          "genre": [
-            "příručky",
-            "příběhy",
-            "handbooks and manuals",
-            "stories"
-          ],
-          "place": [
-            "V Praze :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "autismus",
-            "osoby s autismem",
-            "stres (psychologie)",
-            "stres (fyziologie)",
-            "pomáhající chování",
-            "psychosociální pomoc",
-            "autism",
-            "people with autism",
-            "stress (psychology)",
-            "stress (physiology)",
-            "helping behavior",
-            "psychosocial aid",
-            "náročné chování meltdown"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "990002965790109904"
-          ],
-          "recordid": [
-            "alma990002965790109904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "000296579-JCU01"
-          ],
-          "sourcesystem": [
-            "ILS"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2556378"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "aulast": [
-            "Osgood"
-          ],
-          "aufirst": [
-            "Tony"
-          ],
-          "auinit": [
-            "T"
-          ],
-          "au": [
-            "Osgood, Tony"
-          ],
-          "addau": [
-            "Mertinová, Petra",
-            "Nakladatelství Triton"
-          ],
-          "creatorfull": [
-            "$$NOsgood, Tony$$LOsgood$$FTony$$Rauthor"
-          ],
-          "contributorfull": [
-            "$$NMertinová, Petra$$LMertinová$$FPetra$$Rcontributor"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-7684-471-1"
-          ],
-          "notes": [
-            "Obsahuje bibliografii a bibliografické odkazy"
-          ],
-          "abstract": [
-            "Lidé, kteří nemohou komunikovat běžným způsobem, vyjadřují své potřeby chováním, jež nám může připadat náročné. Publikace je určena rodičům i odborníkům, kteří jsou v denním kontaktu s lidmi s náročným chováním a poruchou autistického spektra. Kniha ukazuje, že podobné projevy lze chápat jako zprávy o bolesti, strachu či nenaplněných potřebách, a přináší návod, jak na ně reagovat bez trestů a omezování. Vychází z pozitivních přístupů, které neusilují o \"nápravu\" člověka, ale o zlepšování jeho života a vztahů. Nakladatelská anotace. Kráceno."
-          ],
-          "cop": [
-            "V Praze"
-          ],
-          "pub": [
-            "Stanislav Juhaňák - Triton"
-          ],
-          "oclcid": [
-            "(cz-cbkju)000296579",
-            "(aleph)296579jcu01",
-            "(cards)10854164skc"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Autismus a náročné chování : pozitivní přístupy v praxi"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Autismus a náročné chování : pozitivní přístupy v praxi /"
-          ],
-          "author": [
-            "Osgood, Tony"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "TF",
-          "availabilityStatus": "available",
-          "subLocation": "studovna",
-          "subLocationCode": "LC99",
-          "mainLocation": "Teologická fak.",
-          "callNumber": "",
-          "callNumberType": "#",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "990002965790109904",
-          "holdId": "2246468720009904",
-          "holKey": "HoldingResultKey [mid=2246468720009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "TF",
-            "availabilityStatus": "available",
-            "subLocation": "studovna",
-            "subLocationCode": "LC99",
-            "mainLocation": "Teologická fak.",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002965790109904",
-            "holdId": "2246468720009904",
-            "holKey": "HoldingResultKey [mid=2246468720009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002965790109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788076844711,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-7684-471-1%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "'035",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "334",
-    "CALL_SOLR_GET_IDS_LIST": "892",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "988",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "32",
-    "RETRIVE_FROM_DB_COURSE_INFO": "29",
-    "RETRIVE_FROM_DB_RECORDS": "122",
-    "RETRIVE_FROM_DB_RELATIONS": "57",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "899",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "89",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1387",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "3611",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "1115",
+    "CALL_SOLR_GET_IDS_LIST": "327",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "1444",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "143",
+    "RETRIVE_FROM_DB_COURSE_INFO": "93",
+    "RETRIVE_FROM_DB_RECORDS": "523",
+    "RETRIVE_FROM_DB_RELATIONS": "171",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "1309",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "135",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1998",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "4910",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5098,
-    "COMBINED_SEARCH_TIME": 5143,
+    "BUILD_COMBINED_RESULTS_MAP": 6866,
+    "COMBINED_SEARCH_TIME": 6961,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8069,15 +8085,15 @@
       "values": [
         {
           "value": "cze",
-          "count": "109906"
+          "count": "109908"
         },
         {
           "value": "eng",
-          "count": "41803"
+          "count": "41804"
         },
         {
           "value": "ger",
-          "count": "32545"
+          "count": "32546"
         },
         {
           "value": "slo",
@@ -8093,7 +8109,7 @@
         },
         {
           "value": "lat",
-          "count": "2253"
+          "count": "2254"
         },
         {
           "value": "pol",
@@ -8158,7 +8174,7 @@
         },
         {
           "value": "2026",
-          "count": "129"
+          "count": "130"
         }
       ]
     },
@@ -8167,7 +8183,7 @@
       "values": [
         {
           "value": "books",
-          "count": "184858"
+          "count": "184860"
         }
       ]
     },
@@ -8261,7 +8277,7 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "184858"
+          "count": "184860"
         },
         {
           "value": "30 days back",
@@ -8269,7 +8285,7 @@
         },
         {
           "value": "07 days back",
-          "count": "5"
+          "count": "2"
         }
       ]
     },
@@ -8278,11 +8294,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156581"
+          "count": "156584"
         },
         {
           "value": "9904–112771470009904",
-          "count": "37764"
+          "count": "37763"
         }
       ]
     },
@@ -8291,11 +8307,11 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100427"
+          "count": "100429"
         },
         {
           "value": "9904–112771190009904–akskl",
-          "count": "30722"
+          "count": "30729"
         },
         {
           "value": "9904–112771470009904–lc99",
@@ -8303,7 +8319,7 @@
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "13197"
+          "count": "13196"
         },
         {
           "value": "9904–112771190009904–frov",
@@ -8376,7 +8392,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "184858"
+          "count": "184860"
         },
         {
           "value": "open_access",
@@ -8393,15 +8409,15 @@
       "values": [
         {
           "value": "9904",
-          "count": "184858"
+          "count": "184860"
         },
         {
           "value": "9905",
-          "count": "56733"
+          "count": "56735"
         },
         {
           "value": "9908",
-          "count": "9683"
+          "count": "9684"
         },
         {
           "value": "9903",
@@ -8409,7 +8425,7 @@
         },
         {
           "value": "9902",
-          "count": "6266"
+          "count": "6268"
         }
       ]
     }
