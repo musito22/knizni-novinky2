@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 184865,
+    "totalResultsLocal": 184866,
     "totalResultsPC": -1,
-    "total": 184865,
+    "total": 184866,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -438,7 +438,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -757,7 +757,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -1125,7 +1125,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -1483,7 +1483,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -1718,6 +1718,316 @@
     {
       "context": "L",
       "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993084615009904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "cze"
+          ],
+          "title": [
+            "Formativní hodnocení v mateřské škole : vzdělávací strategie, metody a nástroje"
+          ],
+          "format": [
+            "262 stran : ilustrace (převážně barevné) ; 21 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-80-244-6756-6"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "creator": [
+            "Nábělková, Jitka, 1979-$$QNábělková, Jitka"
+          ],
+          "publisher": [
+            "Olomouc : Vydavatelství Univerzity Palackého"
+          ],
+          "mms": [
+            "993084615009904"
+          ],
+          "contributor": [
+            "Vydavatelství Univerzity Palackého$$QVydavatelství Univerzity Palackého",
+            "Univerzita Palackého. Pedagogická fakulta$$QUniverzita Palackého. Pedagogická fakulta"
+          ],
+          "edition": [
+            "1. vydání"
+          ],
+          "genre": [
+            "učebnice",
+            "textbooks"
+          ],
+          "place": [
+            "Olomouc :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "formativní hodnocení",
+            "mateřské školy",
+            "vzdělávací programy",
+            "předškolní výchova",
+            "klíčové kompetence",
+            "formative assessment",
+            "kindergartens",
+            "educational programs",
+            "preschool education",
+            "key competencies"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993084615009904"
+          ],
+          "recordid": [
+            "alma993084615009904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911370303709901"
+          ],
+          "sourcesystem": [
+            "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2569852"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDAuthor": [
+            "xx0249706"
+          ],
+          "originatingSystemIDContributor": [
+            "kn20010709375",
+            "kn20070910002"
+          ],
+          "aulast": [
+            "Nábělková"
+          ],
+          "aufirst": [
+            "Jitka"
+          ],
+          "auinit": [
+            "J"
+          ],
+          "au": [
+            "Nábělková, Jitka"
+          ],
+          "addau": [
+            "Vydavatelství Univerzity Palackého",
+            "Univerzita Palackého. Pedagogická fakulta"
+          ],
+          "creatorfull": [
+            "$$NNábělková, Jitka$$LNábělková$$FJitka$$Rauthor"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-80-244-6756-6"
+          ],
+          "notes": [
+            "Obsahuje bibliografie a rejstřík"
+          ],
+          "cop": [
+            "Olomouc"
+          ],
+          "pub": [
+            "Vydavatelství Univerzity Palackého"
+          ],
+          "oclcid": [
+            "(cz prskc)nkc20263751559"
+          ],
+          "edition": [
+            "1. vydání"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Formativní hodnocení v mateřské škole : vzdělávací strategie, metody a nástroje"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Formativní hodnocení v mateřské škole : vzdělávací strategie, metody a nástroje /"
+          ],
+          "author": [
+            "Nábělková, Jitka, 1979-"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "TF",
+          "availabilityStatus": "available",
+          "subLocation": "studovna",
+          "subLocationCode": "LC99",
+          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993084615009904",
+          "holdId": "2279990740009904",
+          "holKey": "HoldingResultKey [mid=2279990740009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "TF",
+            "availabilityStatus": "available",
+            "subLocation": "studovna",
+            "subLocationCode": "LC99",
+            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993084615009904",
+            "holdId": "2279990740009904",
+            "holKey": "HoldingResultKey [mid=2279990740009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993084615009904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788024467566,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-244-6756-6%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "37.015.311",
+          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
       "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993084515009904",
       "pnx": {
         "display": {
@@ -1802,7 +2112,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -2182,7 +2492,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -2242,7 +2552,7 @@
         },
         "sort": {
           "title": [
-            "Mystical theology : contemporary approaches"
+            "Mystical theology : contemporary approaches /"
           ],
           "author": [
             "Smith, Rachel J.D."
@@ -2479,7 +2789,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -2805,7 +3115,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -3105,7 +3415,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -3405,7 +3715,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -3711,7 +4021,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -4036,7 +4346,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -4345,7 +4655,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -4702,7 +5012,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -5046,7 +5356,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -5282,7 +5592,7 @@
             "cze"
           ],
           "title": [
-            "AI na hraně : implementace Edge AI do embedded systémů - prakticky"
+            "AI na hraně : implementace Edge AI do embedded systémů prakticky"
           ],
           "format": [
             "462 stran : ilustrace (některé barevné) ; 24 cm"
@@ -5298,6 +5608,9 @@
           ],
           "publisher": [
             "České Budějovice : Nakladatelství Jihočeské univerzity v Českých Budějovicích"
+          ],
+          "description": [
+            "Principy i praktické postupy nasazení modelů strojového učení do mikrokontrolérů, senzorů, chytrých kamer a dalších zařízení s omezeným výkonem a spotřebou energie. Kniha je určena především inženýrům a vývojářům embedded systémů."
           ],
           "mms": [
             "990002966720109904"
@@ -5322,6 +5635,7 @@
             "0"
           ],
           "subject": [
+            "vestavěné systémy -- vt",
             "jednočipové mikropočítače -- el",
             "internet věcí -- vt",
             "učící se systémy -- vt",
@@ -5335,6 +5649,7 @@
             "Internet of things",
             "machine learning",
             "artificial intelligence",
+            "AI na okraji sítě",
             "edge AI",
             "edge computing"
           ]
@@ -5357,7 +5672,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -5398,6 +5713,9 @@
           "notes": [
             "Obsahuje bibliografii a rejstřík"
           ],
+          "abstract": [
+            "Principy i praktické postupy nasazení modelů strojového učení do mikrokontrolérů, senzorů, chytrých kamer a dalších zařízení s omezeným výkonem a spotřebou energie. Kniha je určena především inženýrům a vývojářům embedded systémů."
+          ],
           "cop": [
             "České Budějovice"
           ],
@@ -5405,6 +5723,7 @@
             "Nakladatelství Jihočeské univerzity v Českých Budějovicích"
           ],
           "oclcid": [
+            "(cz prskc)nkc20263759755",
             "(cz-cbkju)000296672",
             "(aleph)296672jcu01",
             "(cards)10900050skc"
@@ -5422,12 +5741,12 @@
             "BOOK"
           ],
           "btitle": [
-            "AI na hraně : implementace Edge AI do embedded systémů - prakticky"
+            "AI na hraně : implementace Edge AI do embedded systémů prakticky"
           ]
         },
         "sort": {
           "title": [
-            "AI na hraně : implementace Edge AI do embedded systémů - prakticky /"
+            "AI na hraně : implementace Edge AI do embedded systémů prakticky /"
           ],
           "author": [
             "Novák, Milan, 1975-"
@@ -5698,7 +6017,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -6003,7 +6322,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -6303,7 +6622,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -6660,7 +6979,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -6982,7 +7301,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -7298,7 +7617,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -7597,7 +7916,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2566115"
+            "1.2569852"
           ],
           "isDedup": false
         },
@@ -7817,334 +8136,25 @@
           "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
         }
       }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002965960109904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze;heb"
-          ],
-          "title": [
-            "Sefer Jecira = Kniha utváření"
-          ],
-          "format": [
-            "125 stran ; 20 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-87908-92-1"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "publisher": [
-            "Praha : Trigon"
-          ],
-          "mms": [
-            "990002965960109904"
-          ],
-          "contributor": [
-            "Kracíková, Jindřiška, 1977-$$QKracíková, Jindřiška",
-            "Trigon - knihy (firma)$$QTrigon - knihy (firma)"
-          ],
-          "addtitle": [
-            "Kniha utváření"
-          ],
-          "edition": [
-            "První vydání"
-          ],
-          "series": [
-            "Polnice$$QPolnice"
-          ],
-          "genre": [
-            "náboženské texty"
-          ],
-          "place": [
-            "Praha :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "Kniha stvoření",
-            "do 9. století",
-            "kabala -- Blízký východ",
-            "kabala -- symbolika",
-            "židovská mystika",
-            "židovská magie",
-            "mystéria -- judaistické pojetí",
-            "náboženské tradice -- judaistické pojetí",
-            "hebrejská literatura -- do 9. století"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "990002965960109904"
-          ],
-          "recordid": [
-            "alma990002965960109904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "000296596-JCU01"
-          ],
-          "sourcesystem": [
-            "ILS"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2566115"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "aulast": [
-            "Kracíková"
-          ],
-          "aufirst": [
-            "Jindřiška"
-          ],
-          "auinit": [
-            "J"
-          ],
-          "addau": [
-            "Kracíková, Jindřiška",
-            "Trigon - knihy (firma)"
-          ],
-          "contributorfull": [
-            "$$NKracíková, Jindřiška$$LKracíková$$FJindřiška$$Rcontributor"
-          ],
-          "addtitle": [
-            "Kniha utváření"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-87908-92-1"
-          ],
-          "notes": [
-            "Obsahuje bibliografické odkazy a bibliografii"
-          ],
-          "cop": [
-            "Praha"
-          ],
-          "pub": [
-            "Trigon"
-          ],
-          "oclcid": [
-            "(cz-cbkju)000296596",
-            "(aleph)296596jcu01",
-            "(cards)10844897skc"
-          ],
-          "edition": [
-            "První vydání"
-          ],
-          "seriestitle": [
-            "Polnice"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Sefer Jecira = Kniha utváření"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Sefer Jecira = Kniha utváření /"
-          ],
-          "author": [
-            "Kracíková, Jindřiška, 1977-"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "TF",
-          "availabilityStatus": "available",
-          "subLocation": "studovna",
-          "subLocationCode": "LC99",
-          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-          "callNumber": "",
-          "callNumberType": "#",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "990002965960109904",
-          "holdId": "2246468260009904",
-          "holKey": "HoldingResultKey [mid=2246468260009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "TF",
-            "availabilityStatus": "available",
-            "subLocation": "studovna",
-            "subLocationCode": "LC99",
-            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002965960109904",
-            "holdId": "2246468260009904",
-            "holKey": "HoldingResultKey [mid=2246468260009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002965960109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788087908921,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-87908-92-1%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "26-1|-5",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "321",
-    "CALL_SOLR_GET_IDS_LIST": "287",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "561",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "317",
+    "CALL_SOLR_GET_IDS_LIST": "178",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "501",
     "RETRIVE_COLLECTION_DISCOVERY_INFO": "30",
-    "RETRIVE_FROM_DB_COURSE_INFO": "35",
-    "RETRIVE_FROM_DB_RECORDS": "124",
-    "RETRIVE_FROM_DB_RELATIONS": "54",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "472",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "89",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1395",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2575",
+    "RETRIVE_FROM_DB_COURSE_INFO": "29",
+    "RETRIVE_FROM_DB_RECORDS": "143",
+    "RETRIVE_FROM_DB_RELATIONS": "49",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "428",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "73",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1373",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2379",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3928,
-    "COMBINED_SEARCH_TIME": 3970,
+    "BUILD_COMBINED_RESULTS_MAP": 3670,
+    "COMBINED_SEARCH_TIME": 3727,
     "PROCESS_COMBINED_RESULTS": 0,
-    "FEATURED_SEARCH_TIME": 1
+    "FEATURED_SEARCH_TIME": 0
   },
   "facets": [
     {
@@ -8152,7 +8162,7 @@
       "values": [
         {
           "value": "cze",
-          "count": "109911"
+          "count": "109912"
         },
         {
           "value": "eng",
@@ -8241,7 +8251,7 @@
         },
         {
           "value": "2026",
-          "count": "133"
+          "count": "134"
         }
       ]
     },
@@ -8250,7 +8260,7 @@
       "values": [
         {
           "value": "books",
-          "count": "184865"
+          "count": "184866"
         }
       ]
     },
@@ -8267,7 +8277,7 @@
         },
         {
           "value": "Česko",
-          "count": "3843"
+          "count": "3844"
         },
         {
           "value": "20. století",
@@ -8344,11 +8354,11 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "184865"
+          "count": "184866"
         },
         {
           "value": "30 days back",
-          "count": "7"
+          "count": "8"
         },
         {
           "value": "07 days back",
@@ -8365,7 +8375,7 @@
         },
         {
           "value": "9904–112771470009904",
-          "count": "37769"
+          "count": "37770"
         }
       ]
     },
@@ -8374,11 +8384,11 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100425"
+          "count": "100424"
         },
         {
           "value": "9904–112771190009904–akskl",
-          "count": "30764"
+          "count": "30778"
         },
         {
           "value": "9904–112771470009904–lc99",
@@ -8386,7 +8396,7 @@
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "13197"
+          "count": "13198"
         },
         {
           "value": "9904–112771190009904–frov",
@@ -8459,7 +8469,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "184865"
+          "count": "184866"
         },
         {
           "value": "open_access",
@@ -8476,11 +8486,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "184865"
+          "count": "184866"
         },
         {
           "value": "9905",
-          "count": "56742"
+          "count": "56743"
         },
         {
           "value": "9908",
