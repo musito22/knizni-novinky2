@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188000,
+    "totalResultsLocal": 188002,
     "totalResultsPC": -1,
-    "total": 188000,
+    "total": 188002,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -424,7 +424,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -724,7 +724,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -1043,7 +1043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -1411,7 +1411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -1769,7 +1769,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -1943,7 +1943,21 @@
         "titleRequestableAtItemLevel": false,
         "physicalItemTextCodes": null,
         "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
+        "almaInstitutionsList": [
+          {
+            "getitLink": [
+              {
+                "displayText": "Alma-P",
+                "linkRecordId": "9911370607209901"
+              }
+            ],
+            "instCode": "420CARDS_MUNI",
+            "instName": "Masaryk University",
+            "instId": "9905",
+            "availabilityStatus": "available_in_institution",
+            "envURL": ""
+          }
+        ],
         "recordInstitutionCode": null,
         "recordOwner": "420CARDS_NETWORK",
         "hasFilteredServices": null,
@@ -2077,7 +2091,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -2387,7 +2401,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -2702,7 +2716,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -3008,7 +3022,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -3317,7 +3331,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -3696,7 +3710,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -3989,7 +4003,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -4286,7 +4300,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -4612,7 +4626,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -4912,7 +4926,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -5212,7 +5226,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -5518,7 +5532,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -5843,7 +5857,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -6152,7 +6166,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -6509,7 +6523,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -6853,7 +6867,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -7169,7 +7183,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -7514,7 +7528,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -7819,7 +7833,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2407234"
+            "1.2599245"
           ],
           "isDedup": false
         },
@@ -8042,20 +8056,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "289",
-    "CALL_SOLR_GET_IDS_LIST": "222",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "517",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "28",
-    "RETRIVE_FROM_DB_COURSE_INFO": "31",
-    "RETRIVE_FROM_DB_RECORDS": "109",
-    "RETRIVE_FROM_DB_RELATIONS": "51",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "428",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "89",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1362",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2401",
-    "BUILD_BLEND_AND_CACHE_RESULTS": 1,
-    "BUILD_COMBINED_RESULTS_MAP": 3742,
-    "COMBINED_SEARCH_TIME": 3796,
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "329",
+    "CALL_SOLR_GET_IDS_LIST": "204",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "494",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "36",
+    "RETRIVE_FROM_DB_COURSE_INFO": "28",
+    "RETRIVE_FROM_DB_RECORDS": "146",
+    "RETRIVE_FROM_DB_RELATIONS": "49",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "423",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "71",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1109",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2145",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
+    "BUILD_COMBINED_RESULTS_MAP": 3216,
+    "COMBINED_SEARCH_TIME": 3250,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 1
   },
@@ -8065,7 +8079,7 @@
       "values": [
         {
           "value": "cze",
-          "count": "110922"
+          "count": "110923"
         },
         {
           "value": "eng",
@@ -8073,7 +8087,7 @@
         },
         {
           "value": "ger",
-          "count": "34159"
+          "count": "34160"
         },
         {
           "value": "slo",
@@ -8085,7 +8099,7 @@
         },
         {
           "value": "fre",
-          "count": "5441"
+          "count": "5442"
         },
         {
           "value": "lat",
@@ -8163,7 +8177,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188000"
+          "count": "188002"
         }
       ]
     },
@@ -8172,7 +8186,7 @@
       "values": [
         {
           "value": "Beletrie",
-          "count": "5126"
+          "count": "5127"
         },
         {
           "value": "Křesťanství",
@@ -8257,15 +8271,15 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188000"
+          "count": "188002"
         },
         {
           "value": "30 days back",
-          "count": "19"
+          "count": "20"
         },
         {
           "value": "07 days back",
-          "count": "7"
+          "count": "6"
         }
       ]
     },
@@ -8274,11 +8288,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156597"
+          "count": "156598"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41477"
+          "count": "41476"
         }
       ]
     },
@@ -8287,7 +8301,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100321"
+          "count": "100323"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8299,7 +8313,7 @@
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "13201"
+          "count": "13202"
         },
         {
           "value": "9904–112771190009904–frov",
@@ -8315,7 +8329,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5359"
+          "count": "5346"
         },
         {
           "value": "9904–112771190009904–avcr",
@@ -8372,7 +8386,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188000"
+          "count": "188002"
         },
         {
           "value": "open_access",
@@ -8389,11 +8403,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "188000"
+          "count": "188002"
         },
         {
           "value": "9905",
-          "count": "57086"
+          "count": "57088"
         },
         {
           "value": "9908",
