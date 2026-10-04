@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188008,
+    "totalResultsLocal": 188010,
     "totalResultsPC": -1,
-    "total": 188008,
+    "total": 188010,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -424,7 +424,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -724,7 +724,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -1043,7 +1043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -1411,7 +1411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -1677,6 +1677,323 @@
     {
       "context": "L",
       "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993085214009904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "ger"
+          ],
+          "title": [
+            "Fachpflege Palliative Care"
+          ],
+          "format": [
+            "xviii, 446 stran : ilustrace ; 24 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-3-437-25571-7;$$COCLC$$V(OCoLC)1530828515"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "publisher": [
+            "München : Elsevier"
+          ],
+          "mms": [
+            "993085214009904"
+          ],
+          "contributor": [
+            "Groß, Martin$$QGroß, Martin",
+            "Keller, Christine$$QKeller, Christine",
+            "Steinker, Dorothee$$QSteinker, Dorothee",
+            "Bernhardt, Florian$$QBernhardt, Florian",
+            "Brentle, Tobias$$QBrentle, Tobias",
+            "Demmer, Thomas$$QDemmer, Thomas",
+            "Urban & Fischer Verlag$$QUrban & Fischer Verlag"
+          ],
+          "edition": [
+            "1. Auflage"
+          ],
+          "genre": [
+            "příručky"
+          ],
+          "place": [
+            "München :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "paliativní péče",
+            "paliativní medicína"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993085214009904"
+          ],
+          "recordid": [
+            "alma993085214009904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911371296409901"
+          ],
+          "sourcesystem": [
+            "420CARDS_NETWORK"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2606937"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "aulast": [
+            "Groß",
+            "Keller",
+            "Steinker",
+            "Bernhardt",
+            "Brentle",
+            "Demmer"
+          ],
+          "aufirst": [
+            "Martin",
+            "Christine",
+            "Dorothee",
+            "Florian",
+            "Tobias",
+            "Thomas"
+          ],
+          "auinit": [
+            "M",
+            "C",
+            "D",
+            "F",
+            "T"
+          ],
+          "addau": [
+            "Groß, Martin",
+            "Keller, Christine",
+            "Steinker, Dorothee",
+            "Bernhardt, Florian",
+            "Brentle, Tobias",
+            "Demmer, Thomas",
+            "Urban & Fischer Verlag"
+          ],
+          "contributorfull": [
+            "$$NGroß, Martin$$LGroß$$FMartin$$Rcontributor",
+            "$$NKeller, Christine$$Rcontributor",
+            "$$NSteinker, Dorothee$$Rcontributor",
+            "$$NBernhardt, Florian$$Rcontributor",
+            "$$NBrentle, Tobias$$Rcontributor",
+            "$$NDemmer, Thomas$$Rcontributor"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-3-437-25571-7"
+          ],
+          "notes": [
+            "Obsahuje bibliografie a rejstřík"
+          ],
+          "cop": [
+            "München"
+          ],
+          "pub": [
+            "Elsevier"
+          ],
+          "oclcid": [
+            "(ocolc)1530828515"
+          ],
+          "edition": [
+            "1. Auflage"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Fachpflege Palliative Care"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Fachpflege Palliative Care /"
+          ],
+          "author": [
+            "Groß, Martin"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "TF",
+          "availabilityStatus": "available",
+          "subLocation": "sklad",
+          "subLocationCode": "LC98",
+          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993085214009904",
+          "holdId": "2280210430009904",
+          "holKey": "HoldingResultKey [mid=2280210430009904, libraryId=112771470009904, locationCode=LC98, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "TF",
+            "availabilityStatus": "available",
+            "subLocation": "sklad",
+            "subLocationCode": "LC98",
+            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993085214009904",
+            "holdId": "2280210430009904",
+            "holKey": "HoldingResultKey [mid=2280210430009904, libraryId=112771470009904, locationCode=LC98, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993085214009904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9783437255717,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-3-437-25571-7%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "035",
+          "callNumberBrowseField": "MRF"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
       "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993084514909904",
       "pnx": {
         "display": {
@@ -1769,7 +2086,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -2091,7 +2408,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -2401,7 +2718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -2716,7 +3033,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -3022,7 +3339,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -3331,7 +3648,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -3710,7 +4027,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -4003,7 +4320,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -4300,7 +4617,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -4626,7 +4943,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -4926,7 +5243,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -5189,7 +5506,6 @@
             "monografie"
           ],
           "relation": [
-            "$$Cform$$VHistorická Podoba Práva Na Válku Z Pohledu Vybraných Středověkých a Raně Novověkých Filozofů.$$Z9911333528809901$$I",
             "$$Cform$$VHistorická Podoba Práva Na Válku Z Pohledu Vybraných Středověkých a Raně Novověkých Filozofů.$$Z993081897009904$$I"
           ],
           "place": [
@@ -5226,7 +5542,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -5532,7 +5848,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -5857,7 +6173,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -6166,7 +6482,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -6523,7 +6839,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -6867,7 +7183,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -7183,7 +7499,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -7528,7 +7844,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2596129"
+            "1.2606937"
           ],
           "isDedup": false
         },
@@ -7753,323 +8069,23 @@
           "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
         }
       }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002966340109904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze"
-          ],
-          "title": [
-            "Cyklus rozjímání o Mši svaté"
-          ],
-          "format": [
-            "381 stran : ilustrace ; 22 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-909720-3-2"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Hlouch, Josef, 1902-1972$$QHlouch, Josef"
-          ],
-          "publisher": [
-            "Brno : Dědictví Svatováclavské"
-          ],
-          "mms": [
-            "990002966340109904"
-          ],
-          "contributor": [
-            "Weis, Martin, 1962-$$QWeis, Martin",
-            "Dědictví sv. Václava (nakladatelství)$$QDědictví sv. Václava (nakladatelství)"
-          ],
-          "genre": [
-            "úvahy",
-            "citáty",
-            "komentáře"
-          ],
-          "place": [
-            "Brno] :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "mše",
-            "eucharistie",
-            "katolická liturgie",
-            "křesťanská meditace",
-            "katolické modlitby",
-            "učení katolické církve",
-            "biskupové -- Česko -- 20. století"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "990002966340109904"
-          ],
-          "recordid": [
-            "alma990002966340109904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "000296634-JCU01"
-          ],
-          "sourcesystem": [
-            "ILS"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2596129"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "aulast": [
-            "Hlouch"
-          ],
-          "aufirst": [
-            "Josef"
-          ],
-          "auinit": [
-            "J"
-          ],
-          "au": [
-            "Hlouch, Josef"
-          ],
-          "addau": [
-            "Weis, Martin",
-            "Dědictví sv. Václava (nakladatelství)"
-          ],
-          "creatorfull": [
-            "$$NHlouch, Josef$$LHlouch$$FJosef$$Rauthor"
-          ],
-          "contributorfull": [
-            "$$NWeis, Martin$$LWeis$$FMartin$$Rcontributor"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-909720-3-2"
-          ],
-          "notes": [
-            "Obsahuje bibliografické odkazy"
-          ],
-          "cop": [
-            "Brno"
-          ],
-          "pub": [
-            "Dědictví Svatováclavské"
-          ],
-          "oclcid": [
-            "(cz-cbkju)000296634",
-            "(aleph)296634jcu01",
-            "(cards)10876199skc"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Cyklus rozjímání o Mši svaté"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Cyklus rozjímání o Mši svaté /"
-          ],
-          "author": [
-            "Hlouch, Josef, 1902-1972"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "TF",
-          "availabilityStatus": "available",
-          "subLocation": "studovna",
-          "subLocationCode": "LC99",
-          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-          "callNumber": "",
-          "callNumberType": "#",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "990002966340109904",
-          "holdId": "2246486900009904",
-          "holKey": "HoldingResultKey [mid=2246486900009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "TF",
-            "availabilityStatus": "available",
-            "subLocation": "studovna",
-            "subLocationCode": "LC99",
-            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002966340109904",
-            "holdId": "2246486900009904",
-            "holKey": "HoldingResultKey [mid=2246486900009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002966340109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788090972032,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-909720-3-2%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "272-534.3",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "320",
-    "CALL_SOLR_GET_IDS_LIST": "252",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "460",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "33",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "609",
+    "CALL_SOLR_GET_IDS_LIST": "825",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "500",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "34",
     "RETRIVE_FROM_DB_COURSE_INFO": "30",
-    "RETRIVE_FROM_DB_RECORDS": "117",
-    "RETRIVE_FROM_DB_RELATIONS": "48",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "396",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "64",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1170",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2210",
+    "RETRIVE_FROM_DB_RECORDS": "137",
+    "RETRIVE_FROM_DB_RELATIONS": "364",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "429",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "71",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1945",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "3890",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3351,
-    "COMBINED_SEARCH_TIME": 3404,
+    "BUILD_COMBINED_RESULTS_MAP": 5168,
+    "COMBINED_SEARCH_TIME": 5225,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8083,11 +8099,11 @@
         },
         {
           "value": "eng",
-          "count": "41965"
+          "count": "41966"
         },
         {
           "value": "ger",
-          "count": "34160"
+          "count": "34161"
         },
         {
           "value": "slo",
@@ -8168,7 +8184,7 @@
         },
         {
           "value": "2026",
-          "count": "139"
+          "count": "140"
         }
       ]
     },
@@ -8177,7 +8193,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188008"
+          "count": "188010"
         }
       ]
     },
@@ -8271,15 +8287,15 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188008"
+          "count": "188010"
         },
         {
           "value": "30 days back",
-          "count": "25"
+          "count": "27"
         },
         {
           "value": "07 days back",
-          "count": "7"
+          "count": "9"
         }
       ]
     },
@@ -8292,7 +8308,7 @@
         },
         {
           "value": "9904–112771470009904",
-          "count": "41480"
+          "count": "41482"
         }
       ]
     },
@@ -8313,7 +8329,7 @@
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "13202"
+          "count": "13204"
         },
         {
           "value": "9904–112771190009904–frov",
@@ -8329,7 +8345,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5344"
+          "count": "5342"
         },
         {
           "value": "9904–112771190009904–avcr",
@@ -8386,7 +8402,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188008"
+          "count": "188010"
         },
         {
           "value": "open_access",
@@ -8403,7 +8419,7 @@
       "values": [
         {
           "value": "9904",
-          "count": "188008"
+          "count": "188010"
         },
         {
           "value": "9905",
@@ -8423,5 +8439,6 @@
         }
       ]
     }
-  ]
+  ],
+  "facetsCacheKey": 90596395
 }
