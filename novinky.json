@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188014,
+    "totalResultsLocal": 188021,
     "totalResultsPC": -1,
-    "total": 188014,
+    "total": 188021,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -424,7 +424,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -724,7 +724,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -1043,7 +1043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -1411,7 +1411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -1752,7 +1752,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -2057,7 +2057,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -2373,7 +2373,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -2693,7 +2693,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -2917,6 +2917,1269 @@
     {
       "context": "L",
       "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993085814509904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "cze"
+          ],
+          "title": [
+            "Zlomené duše : duchovní zneužívání v řeholních komunitách"
+          ],
+          "format": [
+            "282 stran ; 21 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-80-7575-241-3"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "creator": [
+            "Lassus, Dysmas de, 1956-$$QLassus, Dysmas de"
+          ],
+          "publisher": [
+            "Praha : Krystal OP"
+          ],
+          "mms": [
+            "993085814509904"
+          ],
+          "contributor": [
+            "Vopřada, David, 1978-$$QVopřada, David",
+            "Vydavatelství Krystal OP$$QVydavatelství Krystal OP"
+          ],
+          "edition": [
+            "Vydání první"
+          ],
+          "genre": [
+            "monografie",
+            "monographs"
+          ],
+          "unititle": [
+            "Risques et dérives de la vie religieuse. Česky"
+          ],
+          "includes": [
+            "Lassus, Dysmas de, 1956- Risques et dérives de la vie religieuse. Česky$$QLassus, Dysmas de, 1956- Risques et dérives de la vie religieuse. Česky"
+          ],
+          "place": [
+            "Praha :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "Katolická církev",
+            "řeholní řády",
+            "řeholní život",
+            "duchovní život",
+            "duchovní autorita -- křesťanské pojetí",
+            "poslušnost -- křesťanské pojetí",
+            "manipulace (psychologie)",
+            "psychická traumata",
+            "násilí",
+            "sexuální zneužívání",
+            "monastic orders",
+            "monastic life",
+            "spiritual life",
+            "spiritual authority -- Christian approach",
+            "obedience -- Christian approach",
+            "manipulation (psychology)",
+            "psychic trauma",
+            "violence",
+            "sexual abuse",
+            "spirituální zneužívání"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993085814509904"
+          ],
+          "recordid": [
+            "alma993085814509904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911372106709901"
+          ],
+          "sourcesystem": [
+            "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2605097"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDAuthor": [
+            "hka20261297873"
+          ],
+          "originatingSystemIDSubject": [
+            "kn20010710145"
+          ],
+          "originatingSystemIDContributor": [
+            "jx20080425004",
+            "ko2003164817"
+          ],
+          "aulast": [
+            "Lassus"
+          ],
+          "aufirst": [
+            "Dysmas de"
+          ],
+          "auinit": [
+            "D"
+          ],
+          "au": [
+            "Lassus, Dysmas de"
+          ],
+          "addau": [
+            "Vopřada, David",
+            "Vydavatelství Krystal OP"
+          ],
+          "creatorfull": [
+            "$$NLassus, Dysmas de$$LLassus$$FDysmas de$$Rauthor"
+          ],
+          "contributorfull": [
+            "$$NVopřada, David$$LVopřada$$FDavid$$Rcontributor"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-80-7575-241-3"
+          ],
+          "notes": [
+            "Obsahuje bibliografické odkazy"
+          ],
+          "cop": [
+            "Praha"
+          ],
+          "pub": [
+            "Krystal OP"
+          ],
+          "oclcid": [
+            "(cz prskc)nkc20263761134"
+          ],
+          "edition": [
+            "Vydání první"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Zlomené duše : duchovní zneužívání v řeholních komunitách"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Zlomené duše : duchovní zneužívání v řeholních komunitách /"
+          ],
+          "author": [
+            "Lassus, Dysmas de, 1956-"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "TF",
+          "availabilityStatus": "available",
+          "subLocation": "studovna",
+          "subLocationCode": "LC99",
+          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993085814509904",
+          "holdId": "2280270540009904",
+          "holKey": "HoldingResultKey [mid=2280270540009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "TF",
+            "availabilityStatus": "available",
+            "subLocation": "studovna",
+            "subLocationCode": "LC99",
+            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993085814509904",
+            "holdId": "2280270540009904",
+            "holKey": "HoldingResultKey [mid=2280270540009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993085814509904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788075752413,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-7575-241-3%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "27-584",
+          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993085814409904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "cze"
+          ],
+          "title": [
+            "Edukačně-hodnotící profil dítěte s poruchou autistického spektra : (do 7 let)"
+          ],
+          "format": [
+            "47 stran ; 30 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-80-88648-57-4"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "creator": [
+            "Čadilová, Věra, 1959-$$QČadilová, Věra"
+          ],
+          "publisher": [
+            "V Praze : Pasparta"
+          ],
+          "mms": [
+            "993085814409904"
+          ],
+          "contributor": [
+            "Žampachová, Zuzana$$QŽampachová, Zuzana",
+            "Pasparta Publishing (nakladatelství)$$QPasparta Publishing (nakladatelství)"
+          ],
+          "edition": [
+            "5. vydání"
+          ],
+          "genre": [
+            "metodické příručky",
+            "methodological manuals"
+          ],
+          "place": [
+            "V Praze :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "speciální pedagogika",
+            "děti s autismem",
+            "vývoj dítěte",
+            "psychodiagnostika",
+            "special education",
+            "children with autism",
+            "child development",
+            "psychodiagnostics"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993085814409904"
+          ],
+          "recordid": [
+            "alma993085814409904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911372106409901"
+          ],
+          "sourcesystem": [
+            "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2605097"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDAuthor": [
+            "mzk2007417180"
+          ],
+          "originatingSystemIDContributor": [
+            "jx20080130044",
+            "xx0220311"
+          ],
+          "aulast": [
+            "Čadilová"
+          ],
+          "aufirst": [
+            "Věra"
+          ],
+          "auinit": [
+            "V"
+          ],
+          "au": [
+            "Čadilová, Věra"
+          ],
+          "addau": [
+            "Žampachová, Zuzana",
+            "Pasparta Publishing (nakladatelství)"
+          ],
+          "creatorfull": [
+            "$$NČadilová, Věra$$LČadilová$$FVěra$$Rauthor"
+          ],
+          "contributorfull": [
+            "$$NŽampachová, Zuzana$$LŽampachová$$FZuzana$$Rcontributor"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-80-88648-57-4"
+          ],
+          "cop": [
+            "V Praze"
+          ],
+          "pub": [
+            "Pasparta"
+          ],
+          "oclcid": [
+            "(cz prskc)nkc20263767659"
+          ],
+          "edition": [
+            "5. vydání"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Edukačně-hodnotící profil dítěte s poruchou autistického spektra : (do 7 let)"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Edukačně-hodnotící profil dítěte s poruchou autistického spektra : (do 7 let) /"
+          ],
+          "author": [
+            "Čadilová, Věra, 1959-"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "TF",
+          "availabilityStatus": "available",
+          "subLocation": "studovna",
+          "subLocationCode": "LC99",
+          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993085814409904",
+          "holdId": "2280270500009904",
+          "holKey": "HoldingResultKey [mid=2280270500009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "TF",
+            "availabilityStatus": "available",
+            "subLocation": "studovna",
+            "subLocationCode": "LC99",
+            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993085814409904",
+            "holdId": "2280270500009904",
+            "holKey": "HoldingResultKey [mid=2280270500009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993085814409904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788088648574,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-88648-57-4%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "159.922.72",
+          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993085915009904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "cze"
+          ],
+          "title": [
+            "Úvod do sociální psychologie : cesty k sociální efektivitě v době AI"
+          ],
+          "format": [
+            "449 stran : ilustrace ; 24 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-80-247-3377-7"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "creator": [
+            "Nesiba, Jiří, 1978-$$QNesiba, Jiří"
+          ],
+          "publisher": [
+            "Praha : Grada"
+          ],
+          "mms": [
+            "993085915009904"
+          ],
+          "contributor": [
+            "Grada (nakladatelství)$$QGrada (nakladatelství)"
+          ],
+          "edition": [
+            "Vydání 1."
+          ],
+          "series": [
+            "Psyché$$QPsyché",
+            "Psyché (Grada)$$QPsyché (Grada)"
+          ],
+          "genre": [
+            "monografie"
+          ],
+          "place": [
+            "Praha :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "sociální psychologie",
+            "lidské chování",
+            "interpersonální vztahy",
+            "umělá inteligence",
+            "sociálněpsychologický výzkum"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993085915009904"
+          ],
+          "recordid": [
+            "alma993085915009904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911371907109901"
+          ],
+          "sourcesystem": [
+            "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2605097"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDAuthor": [
+            "mub2011657991"
+          ],
+          "originatingSystemIDContributor": [
+            "kn20080316009"
+          ],
+          "aulast": [
+            "Nesiba"
+          ],
+          "aufirst": [
+            "Jiří"
+          ],
+          "auinit": [
+            "J"
+          ],
+          "au": [
+            "Nesiba, Jiří"
+          ],
+          "addau": [
+            "Grada (nakladatelství)"
+          ],
+          "creatorfull": [
+            "$$NNesiba, Jiří$$LNesiba$$FJiří$$Rauthor"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-80-247-3377-7"
+          ],
+          "notes": [
+            "Obsahuje bibliografii a rejstříky"
+          ],
+          "cop": [
+            "Praha"
+          ],
+          "pub": [
+            "Grada"
+          ],
+          "oclcid": [
+            "(cz prskc)016020008786007"
+          ],
+          "edition": [
+            "Vydání 1."
+          ],
+          "seriestitle": [
+            "Psyché"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Úvod do sociální psychologie : cesty k sociální efektivitě v době AI"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Úvod do sociální psychologie : cesty k sociální efektivitě v době AI /"
+          ],
+          "author": [
+            "Nesiba, Jiří, 1978-"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "TF",
+          "availabilityStatus": "available",
+          "subLocation": "studovna",
+          "subLocationCode": "LC99",
+          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993085915009904",
+          "holdId": "2280280740009904",
+          "holKey": "HoldingResultKey [mid=2280280740009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "TF",
+            "availabilityStatus": "available",
+            "subLocation": "studovna",
+            "subLocationCode": "LC99",
+            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993085915009904",
+            "holdId": "2280280740009904",
+            "holKey": "HoldingResultKey [mid=2280280740009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993085915009904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788024733777,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-247-3377-7%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "316.6%001.891",
+          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993085914809904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "cze"
+          ],
+          "title": [
+            "Metodologie výzkumu"
+          ],
+          "format": [
+            "iv, 279 stran : ilustrace ; 21 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-80-261-1338-6;$$COCLC$$V(OCoLC)1590918931"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "creator": [
+            "Eger, Ludvík, 1961-$$QEger, Ludvík"
+          ],
+          "publisher": [
+            "Plzeň : Fakulta ekonomická Západočeské univerzity v Plzni"
+          ],
+          "description": [
+            "Vysokoškolská učebnice se věnuje metodologii výzkumu. Je členěna do dvou částí. První část učebnice je věnována metodologii výzkumu, strategii a designu výzkumu. Druhá část se zabývá podrobněji vybranými metodami výzkumu."
+          ],
+          "mms": [
+            "993085914809904"
+          ],
+          "contributor": [
+            "Egerová, Dana$$QEgerová, Dana",
+            "Západočeská univerzita. Ekonomická fakulta$$QZápadočeská univerzita. Ekonomická fakulta"
+          ],
+          "edition": [
+            "4. rozšířené vydání o kapitolu zaměřenou na aplikaci AI pro výzkumnou činnost"
+          ],
+          "genre": [
+            "učebnice vysokých škol",
+            "textbooks (higher)"
+          ],
+          "place": [
+            "Plzeň :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "vědecký výzkum",
+            "sociální vědy",
+            "vědecká metodologie",
+            "scientific research",
+            "social sciences",
+            "scientific methodology"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993085914809904"
+          ],
+          "recordid": [
+            "alma993085914809904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911371905609901"
+          ],
+          "sourcesystem": [
+            "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2605097"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDAuthor": [
+            "jn20001005601"
+          ],
+          "originatingSystemIDContributor": [
+            "xx0009373",
+            "kn20010709434"
+          ],
+          "aulast": [
+            "Eger"
+          ],
+          "aufirst": [
+            "Ludvík"
+          ],
+          "auinit": [
+            "L"
+          ],
+          "au": [
+            "Eger, Ludvík"
+          ],
+          "addau": [
+            "Egerová, Dana",
+            "Západočeská univerzita. Ekonomická fakulta"
+          ],
+          "creatorfull": [
+            "$$NEger, Ludvík$$LEger$$FLudvík$$Rauthor"
+          ],
+          "contributorfull": [
+            "$$NEgerová, Dana$$LEgerová$$FDana$$Rcontributor"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-80-261-1338-6"
+          ],
+          "notes": [
+            "Obsahuje bibliografie, bibliografické odkazy a rejstřík"
+          ],
+          "abstract": [
+            "Vysokoškolská učebnice se věnuje metodologii výzkumu. Je členěna do dvou částí. První část učebnice je věnována metodologii výzkumu, strategii a designu výzkumu. Druhá část se zabývá podrobněji vybranými metodami výzkumu."
+          ],
+          "cop": [
+            "Plzeň"
+          ],
+          "pub": [
+            "Fakulta ekonomická Západočeské univerzity v Plzni"
+          ],
+          "oclcid": [
+            "(ocolc)1590918931"
+          ],
+          "edition": [
+            "4. rozšířené vydání o kapitolu zaměřenou na aplikaci AI pro výzkumnou činnost"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Metodologie výzkumu"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Metodologie výzkumu /"
+          ],
+          "author": [
+            "Eger, Ludvík, 1961-"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "TF",
+          "availabilityStatus": "available",
+          "subLocation": "studovna",
+          "subLocationCode": "LC99",
+          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993085914809904",
+          "holdId": "2280280690009904",
+          "holKey": "HoldingResultKey [mid=2280280690009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "TF",
+            "availabilityStatus": "available",
+            "subLocation": "studovna",
+            "subLocationCode": "LC99",
+            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993085914809904",
+            "holdId": "2280280690009904",
+            "holKey": "HoldingResultKey [mid=2280280690009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993085914809904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788026113386,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-261-1338-6%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "'075.8",
+          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
       "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993085214009904",
       "pnx": {
         "display": {
@@ -2991,7 +4254,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -3326,7 +4589,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -3648,7 +4911,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -3958,7 +5221,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -4273,7 +5536,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -4579,7 +5842,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -4888,7 +6151,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -5267,7 +6530,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -5560,7 +6823,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -5857,7 +7120,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -6183,7 +7446,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -6483,7 +7746,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2606587"
+            "1.2605097"
           ],
           "isDedup": false
         },
@@ -6699,1316 +7962,23 @@
           "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
         }
       }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002966900109904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze"
-          ],
-          "title": [
-            "Historická podoba práva na válku z pohledu vybraných středověkých a raně novověkých filozofů"
-          ],
-          "format": [
-            "132 stran : faksimile ; 21 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-246-6330-2"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Kočová, Aneta$$QKočová, Aneta"
-          ],
-          "publisher": [
-            "Praha : Univerzita Karlova, nakladatelství Karolinum"
-          ],
-          "mms": [
-            "990002966900109904"
-          ],
-          "contributor": [
-            "Nakladatelství Karolinum$$QNakladatelství Karolinum"
-          ],
-          "edition": [
-            "První vydání"
-          ],
-          "genre": [
-            "monografie"
-          ],
-          "relation": [
-            "$$Cform$$VHistorická Podoba Práva Na Válku Z Pohledu Vybraných Středověkých a Raně Novověkých Filozofů.$$Z993081897009904$$I"
-          ],
-          "place": [
-            "Praha :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "15.-17. století",
-            "války -- filozofické pojetí",
-            "války -- právní aspekty",
-            "spravedlivá válka",
-            "preventivní válka",
-            "právní filozofie -- 15.-17. století",
-            "historické prameny -- 15.-17. století"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "990002966900109904"
-          ],
-          "recordid": [
-            "alma990002966900109904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "000296690-JCU01"
-          ],
-          "sourcesystem": [
-            "ILS"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2606587"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "aulast": [
-            "Kočová"
-          ],
-          "aufirst": [
-            "Aneta"
-          ],
-          "auinit": [
-            "A"
-          ],
-          "au": [
-            "Kočová, Aneta"
-          ],
-          "addau": [
-            "Nakladatelství Karolinum"
-          ],
-          "creatorfull": [
-            "$$NKočová, Aneta$$LKočová$$FAneta$$Rauthor"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-246-6330-2"
-          ],
-          "notes": [
-            "Obsahuje bibliografii, bibliografické odkazy a rejstřík"
-          ],
-          "cop": [
-            "Praha"
-          ],
-          "pub": [
-            "Univerzita Karlova, nakladatelství Karolinum"
-          ],
-          "oclcid": [
-            "(cz-cbkju)000296690",
-            "(aleph)296690jcu01",
-            "(cards)10876997skc"
-          ],
-          "edition": [
-            "První vydání"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Historická podoba práva na válku z pohledu vybraných středověkých a raně novověkých filozofů"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Historická podoba práva na válku z pohledu vybraných středověkých a raně novověkých filozofů /"
-          ],
-          "author": [
-            "Kočová, Aneta"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "TF",
-          "availabilityStatus": "available",
-          "subLocation": "studovna",
-          "subLocationCode": "LC99",
-          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-          "callNumber": "",
-          "callNumberType": "#",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "990002966900109904",
-          "holdId": "2246481010009904",
-          "holKey": "HoldingResultKey [mid=2246481010009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "TF",
-            "availabilityStatus": "available",
-            "subLocation": "studovna",
-            "subLocationCode": "LC99",
-            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002966900109904",
-            "holdId": "2246481010009904",
-            "holKey": "HoldingResultKey [mid=2246481010009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002966900109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788024663302,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-246-6330-2%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "930.2",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002966880109904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze"
-          ],
-          "title": [
-            "Velké dějiny zemí Koruny české. Svazek XIX., 1968"
-          ],
-          "format": [
-            "703 stran : ilustrace (některé barevné), portréty, faksimile ; 21 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-7637-554-3"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Hoppe, Jiří, 1968-$$QHoppe, Jiří"
-          ],
-          "publisher": [
-            "Praha : Paseka"
-          ],
-          "mms": [
-            "990002966880109904"
-          ],
-          "contributor": [
-            "Nakladatelství Paseka$$QNakladatelství Paseka"
-          ],
-          "addtitle": [
-            "1968"
-          ],
-          "edition": [
-            "Vydání první"
-          ],
-          "genre": [
-            "monografie",
-            "monographs"
-          ],
-          "place": [
-            "Praha :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "1968",
-            "Pražské jaro (1968 : Československo)",
-            "Prague Spring (1968 : Czechoslovakia)",
-            "Srpen (1968 : Československo)",
-            "Soviet intervention (1968 : Czechoslovakia)",
-            "politika a vláda -- Československo",
-            "politics and government",
-            "socialismus -- Československo",
-            "socialism",
-            "Czechoslovakia"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "990002966880109904"
-          ],
-          "recordid": [
-            "alma990002966880109904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "000296688-JCU01"
-          ],
-          "sourcesystem": [
-            "ILS"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2606587"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "originatingSystemIDAuthor": [
-            "jn20000401013"
-          ],
-          "originatingSystemIDContributor": [
-            "kn20080729011"
-          ],
-          "aulast": [
-            "Hoppe"
-          ],
-          "aufirst": [
-            "Jiří"
-          ],
-          "auinit": [
-            "J"
-          ],
-          "au": [
-            "Hoppe, Jiří"
-          ],
-          "addau": [
-            "Nakladatelství Paseka"
-          ],
-          "creatorfull": [
-            "$$NHoppe, Jiří$$LHoppe$$FJiří$$Rauthor"
-          ],
-          "addtitle": [
-            "1968"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-7637-554-3"
-          ],
-          "notes": [
-            "Obsahuje bibliografii, bibliografické odkazy a rejstřík"
-          ],
-          "cop": [
-            "Praha"
-          ],
-          "pub": [
-            "Paseka"
-          ],
-          "oclcid": [
-            "(cz-cbkju)000296688",
-            "(aleph)296688jcu01",
-            "(cards)10859337skc"
-          ],
-          "edition": [
-            "Vydání první"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Velké dějiny zemí Koruny české. Svazek XIX., 1968"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Velké dějiny zemí Koruny české. Svazek XIX., 1968 /"
-          ],
-          "author": [
-            "Hoppe, Jiří, 1968-"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "TF",
-          "availabilityStatus": "available",
-          "subLocation": "studovna",
-          "subLocationCode": "LC99",
-          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-          "callNumber": "",
-          "callNumberType": "#",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "990002966880109904",
-          "holdId": "2246481130009904",
-          "holKey": "HoldingResultKey [mid=2246481130009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "TF",
-            "availabilityStatus": "available",
-            "subLocation": "studovna",
-            "subLocationCode": "LC99",
-            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002966880109904",
-            "holdId": "2246481130009904",
-            "holKey": "HoldingResultKey [mid=2246481130009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [
-          {
-            "getitLink": [
-              {
-                "displayText": "Alma-P",
-                "linkRecordId": "9910394088009901"
-              }
-            ],
-            "instCode": "420CARDS_MUNI",
-            "instName": "Masaryk University",
-            "instId": "9905",
-            "availabilityStatus": "available_in_institution",
-            "envURL": ""
-          }
-        ],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002966880109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788076375543,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-7637-554-3%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "316.323.7",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002966830109904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze"
-          ],
-          "title": [
-            "Psychoterapie Bohem"
-          ],
-          "format": [
-            "203 stran ; 20 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-7530-583-1"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Cyrulnik, Boris, 1937-$$QCyrulnik, Boris"
-          ],
-          "publisher": [
-            "Praha : Malvern"
-          ],
-          "mms": [
-            "990002966830109904"
-          ],
-          "contributor": [
-            "Micka, Daniel, 1963-$$QMicka, Daniel",
-            "Malvern (nakladatelství)$$QMalvern (nakladatelství)"
-          ],
-          "edition": [
-            "Vydání první"
-          ],
-          "genre": [
-            "populárně-naučné publikace"
-          ],
-          "unititle": [
-            "Psychotherapie de Dieu. Česky"
-          ],
-          "includes": [
-            "Cyrulnik, Boris, 1937- Psychotherapie de Dieu. Česky$$QCyrulnik, Boris, 1937- Psychotherapie de Dieu. Česky"
-          ],
-          "place": [
-            "Praha :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "psychoterapie",
-            "Bůh a člověk",
-            "náboženská víra"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "990002966830109904"
-          ],
-          "recordid": [
-            "alma990002966830109904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "000296683-JCU01"
-          ],
-          "sourcesystem": [
-            "ILS"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2606587"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "aulast": [
-            "Cyrulnik"
-          ],
-          "aufirst": [
-            "Boris"
-          ],
-          "auinit": [
-            "B"
-          ],
-          "au": [
-            "Cyrulnik, Boris"
-          ],
-          "addau": [
-            "Micka, Daniel",
-            "Malvern (nakladatelství)"
-          ],
-          "creatorfull": [
-            "$$NCyrulnik, Boris$$LCyrulnik$$FBoris$$Rauthor"
-          ],
-          "contributorfull": [
-            "$$NMicka, Daniel$$LMicka$$FDaniel$$Rcontributor"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-7530-583-1"
-          ],
-          "notes": [
-            "Obsahuje bibliografické odkazy a rejstřík"
-          ],
-          "cop": [
-            "Praha"
-          ],
-          "pub": [
-            "Malvern"
-          ],
-          "oclcid": [
-            "(cz-cbkju)000296683",
-            "(aleph)296683jcu01",
-            "(cards)10873682skc"
-          ],
-          "edition": [
-            "Vydání první"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Psychoterapie Bohem"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Psychoterapie Bohem /"
-          ],
-          "author": [
-            "Cyrulnik, Boris, 1937-"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "TF",
-          "availabilityStatus": "available",
-          "subLocation": "studovna",
-          "subLocationCode": "LC99",
-          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-          "callNumber": "",
-          "callNumberType": "#",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "990002966830109904",
-          "holdId": "2246481790009904",
-          "holKey": "HoldingResultKey [mid=2246481790009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "TF",
-            "availabilityStatus": "available",
-            "subLocation": "studovna",
-            "subLocationCode": "LC99",
-            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002966830109904",
-            "holdId": "2246481790009904",
-            "holKey": "HoldingResultKey [mid=2246481790009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002966830109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788075305831,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-7530-583-1%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "'0.062",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/990002966790109904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze"
-          ],
-          "title": [
-            "Resuscitace"
-          ],
-          "format": [
-            "367 stran : ilustrace (převážně barevné) ; 21 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-271-3822-7;$$COCLC$$V(OCoLC)1584376784"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Klementová, Olga$$QKlementová, Olga"
-          ],
-          "publisher": [
-            "Praha : Grada Publishing"
-          ],
-          "description": [
-            "Odborná monografie přináší komplexní pohled na problematiku kardiopulmonální resuscitace. Čerpá ze současných platných postupů Evropské resuscitační rady, které jsou každých pět let revidovány a aktualizovány"
-          ],
-          "mms": [
-            "990002966790109904"
-          ],
-          "contributor": [
-            "Marcián, Pavel$$QMarcián, Pavel",
-            "Klementa, Bronislav$$QKlementa, Bronislav",
-            "Vymazal, Tomáš$$QVymazal, Tomáš",
-            "Michálek, Pavel$$QMichálek, Pavel",
-            "Grada (nakladatelství)$$QGrada (nakladatelství)"
-          ],
-          "edition": [
-            "3., rozšířené a doplněné vydání"
-          ],
-          "genre": [
-            "kolektivní monografie",
-            "collective monographs"
-          ],
-          "place": [
-            "Praha :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "kardiopulmonální resuscitace",
-            "první pomoc",
-            "Hygiena. Zdraví. Úrazy. První pomoc",
-            "cardiopulmonary resuscitation",
-            "first aid"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "990002966790109904"
-          ],
-          "recordid": [
-            "alma990002966790109904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "000296679-JCU01"
-          ],
-          "sourcesystem": [
-            "ILS"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2606587"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "aulast": [
-            "Klementová"
-          ],
-          "aufirst": [
-            "Olga"
-          ],
-          "auinit": [
-            "O"
-          ],
-          "au": [
-            "Klementová, Olga"
-          ],
-          "addau": [
-            "Marcián, Pavel",
-            "Klementa, Bronislav",
-            "Vymazal, Tomáš",
-            "Michálek, Pavel",
-            "Grada (nakladatelství)"
-          ],
-          "creatorfull": [
-            "$$NKlementová, Olga$$LKlementová$$FOlga$$Rauthor"
-          ],
-          "contributorfull": [
-            "$$NMarcián, Pavel$$LMarcián$$FPavel$$Rcontributor",
-            "$$NKlementa, Bronislav$$Rcontributor",
-            "$$NVymazal, Tomáš$$Rcontributor",
-            "$$NMichálek, Pavel$$Rcontributor"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-271-3822-7"
-          ],
-          "notes": [
-            "Obsahuje bibliografie a rejstřík"
-          ],
-          "abstract": [
-            "Odborná monografie přináší komplexní pohled na problematiku kardiopulmonální resuscitace. Čerpá ze současných platných postupů Evropské resuscitační rady, které jsou každých pět let revidovány a aktualizovány"
-          ],
-          "cop": [
-            "Praha"
-          ],
-          "pub": [
-            "Grada Publishing"
-          ],
-          "oclcid": [
-            "(ocolc)1584376784"
-          ],
-          "edition": [
-            "3., rozšířené a doplněné vydání"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Resuscitace"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Resuscitace /"
-          ],
-          "author": [
-            "Klementová, Olga"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "AK",
-          "availabilityStatus": "available",
-          "subLocation": "AK (volný výběr)",
-          "subLocationCode": "AKVV",
-          "mainLocation": "Academic Library of the University of South Bohemia",
-          "callNumber": "",
-          "callNumberType": "#",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "990002966790109904",
-          "holdId": "2246482080009904",
-          "holKey": "HoldingResultKey [mid=2246482080009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "AK",
-            "availabilityStatus": "available",
-            "subLocation": "AK (volný výběr)",
-            "subLocationCode": "AKVV",
-            "mainLocation": "Academic Library of the University of South Bohemia",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002966790109904",
-            "holdId": "2246482080009904",
-            "holKey": "HoldingResultKey [mid=2246482080009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          },
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "AK",
-            "availabilityStatus": "available",
-            "subLocation": "AK-studovna Vltava",
-            "subLocationCode": "LC143",
-            "mainLocation": "Academic Library of the University of South Bohemia",
-            "callNumber": "",
-            "callNumberType": "#",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "990002966790109904",
-            "holdId": "2246482030009904",
-            "holKey": "HoldingResultKey [mid=2246482030009904, libraryId=112771190009904, locationCode=LC143, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:1"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": true,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": true,
-        "almaInstitutionsList": [],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002966790109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              },
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "990002966790109904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:1"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788027138227,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-271-3822-7%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "'048.8%082",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "659",
-    "CALL_SOLR_GET_IDS_LIST": "1162",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "505",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "29",
-    "RETRIVE_FROM_DB_COURSE_INFO": "38",
-    "RETRIVE_FROM_DB_RECORDS": "129",
-    "RETRIVE_FROM_DB_RELATIONS": "409",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "436",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "69",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1315",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "3653",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "199",
+    "CALL_SOLR_GET_IDS_LIST": "221",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "471",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "20",
+    "RETRIVE_FROM_DB_COURSE_INFO": "28",
+    "RETRIVE_FROM_DB_RECORDS": "107",
+    "RETRIVE_FROM_DB_RELATIONS": "23",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "404",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "67",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1174",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2075",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5185,
-    "COMBINED_SEARCH_TIME": 5251,
+    "BUILD_COMBINED_RESULTS_MAP": 3266,
+    "COMBINED_SEARCH_TIME": 3328,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8018,11 +7988,11 @@
       "values": [
         {
           "value": "cze",
-          "count": "110933"
+          "count": "110939"
         },
         {
           "value": "eng",
-          "count": "41966"
+          "count": "41969"
         },
         {
           "value": "ger",
@@ -8107,7 +8077,7 @@
         },
         {
           "value": "2026",
-          "count": "144"
+          "count": "148"
         }
       ]
     },
@@ -8116,7 +8086,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188014"
+          "count": "188021"
         }
       ]
     },
@@ -8125,7 +8095,7 @@
       "values": [
         {
           "value": "Beletrie",
-          "count": "5127"
+          "count": "5128"
         },
         {
           "value": "Křesťanství",
@@ -8193,7 +8163,7 @@
         },
         {
           "value": "Management. Řízení. Řízení a správa podniku",
-          "count": "1266"
+          "count": "1268"
         },
         {
           "value": "entomologie",
@@ -8210,15 +8180,15 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188014"
+          "count": "188021"
         },
         {
           "value": "30 days back",
-          "count": "31"
+          "count": "37"
         },
         {
           "value": "07 days back",
-          "count": "13"
+          "count": "19"
         }
       ]
     },
@@ -8227,11 +8197,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156600"
+          "count": "156605"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41486"
+          "count": "41487"
         }
       ]
     },
@@ -8240,7 +8210,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100325"
+          "count": "100330"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8248,11 +8218,11 @@
         },
         {
           "value": "9904–112771470009904–lc99",
-          "count": "25478"
+          "count": "25484"
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "13204"
+          "count": "13203"
         },
         {
           "value": "9904–112771190009904–frov",
@@ -8260,7 +8230,7 @@
         },
         {
           "value": "9904–112771190009904–lc143",
-          "count": "8055"
+          "count": "8056"
         },
         {
           "value": "9904–112771190009904–rak",
@@ -8268,7 +8238,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5340"
+          "count": "5328"
         },
         {
           "value": "9904–112771190009904–avcr",
@@ -8325,7 +8295,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188014"
+          "count": "188021"
         },
         {
           "value": "open_access",
@@ -8342,11 +8312,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "188014"
+          "count": "188021"
         },
         {
           "value": "9905",
-          "count": "57088"
+          "count": "57090"
         },
         {
           "value": "9908",
@@ -8354,11 +8324,11 @@
         },
         {
           "value": "9903",
-          "count": "9465"
+          "count": "9470"
         },
         {
           "value": "9902",
-          "count": "6289"
+          "count": "6340"
         }
       ]
     }
