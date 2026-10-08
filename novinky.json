@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188027,
+    "totalResultsLocal": 188029,
     "totalResultsPC": -1,
-    "total": 188027,
+    "total": 188029,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -424,7 +424,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -724,7 +724,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -1043,7 +1043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -1411,7 +1411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -1772,7 +1772,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -2103,7 +2103,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -2435,7 +2435,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -2757,7 +2757,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -3062,7 +3062,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -3367,7 +3367,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -3683,7 +3683,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -4003,7 +4003,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -4324,7 +4324,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -4638,7 +4638,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -4945,7 +4945,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -5255,7 +5255,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -5564,7 +5564,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -5807,6 +5807,319 @@
     {
       "context": "L",
       "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993085314909904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "cze"
+          ],
+          "title": [
+            "Biologie 1 : buňka, mikroorganismy, rostliny : učebnice pro střední školy a gymnázia"
+          ],
+          "format": [
+            "167 stran : barevné ilustrace ; 30 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-80-7703-177-6"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "creator": [
+            "Libus, Jiří$$QLibus, Jiří"
+          ],
+          "publisher": [
+            "Praha : Taktik"
+          ],
+          "mms": [
+            "993085314909904"
+          ],
+          "contributor": [
+            "Šarboch, David$$QŠarboch, David",
+            "Končelová, Radka$$QKončelová, Radka",
+            "Zýma, Marek$$QZýma, Marek",
+            "Škocová, Zuzana$$QŠkocová, Zuzana",
+            "Taktik (vydavatelství)$$QTaktik (vydavatelství)"
+          ],
+          "addtitle": [
+            "Buňka, mikroorganismy, rostliny"
+          ],
+          "edition": [
+            "1. vydání"
+          ],
+          "genre": [
+            "učebnice středních škol"
+          ],
+          "place": [
+            "Praha :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "biologie",
+            "cytologie",
+            "botanika",
+            "mikrobiologie",
+            "Učební osnovy. Vyučovací předměty. Učebnice"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993085314909904"
+          ],
+          "recordid": [
+            "alma993085314909904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911371098809901"
+          ],
+          "sourcesystem": [
+            "420CARDS_NETWORK"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2610043"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "aulast": [
+            "Libus"
+          ],
+          "aufirst": [
+            "Jiří"
+          ],
+          "auinit": [
+            "J"
+          ],
+          "au": [
+            "Libus, Jiří"
+          ],
+          "addau": [
+            "Šarboch, David",
+            "Končelová, Radka",
+            "Zýma, Marek",
+            "Škocová, Zuzana",
+            "Taktik (vydavatelství)"
+          ],
+          "creatorfull": [
+            "$$NLibus, Jiří$$LLibus$$FJiří$$Rauthor"
+          ],
+          "contributorfull": [
+            "$$NŠarboch, David$$LŠarboch$$FDavid$$Rcontributor",
+            "$$NKončelová, Radka$$Rcontributor",
+            "$$NZýma, Marek$$Rcontributor",
+            "$$NŠkocová, Zuzana$$Rcontributor"
+          ],
+          "addtitle": [
+            "Buňka, mikroorganismy, rostliny"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-80-7703-177-6"
+          ],
+          "cop": [
+            "Praha"
+          ],
+          "pub": [
+            "Taktik"
+          ],
+          "oclcid": [
+            "(cz-prcu)9926206368006986",
+            "(cz-prcard)9926206368006986"
+          ],
+          "edition": [
+            "1. vydání"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Biologie 1 : buňka, mikroorganismy, rostliny : učebnice pro střední školy a gymnázia"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Biologie 1 : buňka, mikroorganismy, rostliny : učebnice pro střední školy a gymnázia /"
+          ],
+          "author": [
+            "Libus, Jiří"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "AK",
+          "availabilityStatus": "available",
+          "subLocation": "PřF-centrum pro přírodovědné vzdělávání",
+          "subLocationCode": "LC55",
+          "mainLocation": "Academic Library of the University of South Bohemia",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993085314909904",
+          "holdId": "2280220570009904",
+          "holKey": "HoldingResultKey [mid=2280220570009904, libraryId=112771190009904, locationCode=LC55, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "AK",
+            "availabilityStatus": "available",
+            "subLocation": "PřF-centrum pro přírodovědné vzdělávání",
+            "subLocationCode": "LC55",
+            "mainLocation": "Academic Library of the University of South Bohemia",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993085314909904",
+            "holdId": "2280220570009904",
+            "holKey": "HoldingResultKey [mid=2280220570009904, libraryId=112771190009904, locationCode=LC55, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993085314909904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788077031776,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-7703-177-6%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "37.091.64'075.3",
+          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
       "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993084514909904",
       "pnx": {
         "display": {
@@ -5899,7 +6212,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -6221,7 +6534,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -6531,7 +6844,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -6846,7 +7159,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -7152,7 +7465,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -7461,7 +7774,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608929"
+            "1.2610043"
           ],
           "isDedup": false
         },
@@ -7765,315 +8078,23 @@
           "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
         }
       }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993084014509904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "ger"
-          ],
-          "title": [
-            "Pivo : Mythos tschechisches Bier : eine Kulturgeschichte"
-          ],
-          "format": [
-            "340 stran : barevné ilustrace ; 25 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-3-99126-407-1"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Dimmel, Winfried, 1968-$$QDimmel, Winfried"
-          ],
-          "publisher": [
-            "Weitra : Verlag Bibliothek der Provinz"
-          ],
-          "mms": [
-            "993084014509904"
-          ],
-          "contributor": [
-            "Stadler, Gerhard A., 1956-$$QStadler, Gerhard A."
-          ],
-          "genre": [
-            "monografie",
-            "monographs"
-          ],
-          "place": [
-            "Weitra :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "pivovarnictví",
-            "dějiny pohostinství",
-            "Potravinářský průmysl. Kvasný průmysl",
-            "beer industry",
-            "history of catering trade",
-            "Česko",
-            "Czechia"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "993084014509904"
-          ],
-          "recordid": [
-            "alma993084014509904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "9911369265309901"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2608929"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "originatingSystemIDSubject": [
-            "ge128065"
-          ],
-          "aulast": [
-            "Dimmel"
-          ],
-          "aufirst": [
-            "Winfried"
-          ],
-          "auinit": [
-            "W"
-          ],
-          "au": [
-            "Dimmel, Winfried"
-          ],
-          "addau": [
-            "Stadler, Gerhard A."
-          ],
-          "creatorfull": [
-            "$$NDimmel, Winfried$$LDimmel$$FWinfried$$Rauthor"
-          ],
-          "contributorfull": [
-            "$$NStadler, Gerhard A.$$LStadler$$FGerhard A.$$Rcontributor"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-3-99126-407-1"
-          ],
-          "notes": [
-            "Obsahuje bibliografie, bibliografické odkazy a rejstřík"
-          ],
-          "cop": [
-            "Weitra"
-          ],
-          "pub": [
-            "Verlag Bibliothek der Provinz"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Pivo : Mythos tschechisches Bier : eine Kulturgeschichte"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Pivo : Mythos tschechisches Bier : eine Kulturgeschichte /"
-          ],
-          "author": [
-            "Dimmel, Winfried, 1968-"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "AK",
-          "availabilityStatus": "unavailable",
-          "subLocation": "AK (volný výběr)",
-          "subLocationCode": "AKVV",
-          "mainLocation": "Academic Library of the University of South Bohemia",
-          "callNumber": "",
-          "callNumberType": "8",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "993084014509904",
-          "holdId": "2279870560009904",
-          "holKey": "HoldingResultKey [mid=2279870560009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "AK",
-            "availabilityStatus": "unavailable",
-            "subLocation": "AK (volný výběr)",
-            "subLocationCode": "AKVV",
-            "mainLocation": "Academic Library of the University of South Bohemia",
-            "callNumber": "",
-            "callNumberType": "8",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "993084014509904",
-            "holdId": "2279870560009904",
-            "holKey": "HoldingResultKey [mid=2279870560009904, libraryId=112771190009904, locationCode=AKVV, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "unavailable"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "993084014509904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9783991264071,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-3-99126-407-1%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "640 4 091",
-          "callNumberBrowseField": "MRF"
-        }
-      }
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "279",
-    "CALL_SOLR_GET_IDS_LIST": "165",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "670",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "43",
-    "RETRIVE_FROM_DB_COURSE_INFO": "30",
-    "RETRIVE_FROM_DB_RECORDS": "142",
-    "RETRIVE_FROM_DB_RELATIONS": "39",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "585",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "85",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1358",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2483",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "278",
+    "CALL_SOLR_GET_IDS_LIST": "178",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "517",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "36",
+    "RETRIVE_FROM_DB_COURSE_INFO": "53",
+    "RETRIVE_FROM_DB_RECORDS": "125",
+    "RETRIVE_FROM_DB_RELATIONS": "37",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "446",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "71",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1157",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2141",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3893,
-    "COMBINED_SEARCH_TIME": 3930,
+    "BUILD_COMBINED_RESULTS_MAP": 3374,
+    "COMBINED_SEARCH_TIME": 3433,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8083,7 +8104,7 @@
       "values": [
         {
           "value": "cze",
-          "count": "110945"
+          "count": "110947"
         },
         {
           "value": "eng",
@@ -8172,7 +8193,7 @@
         },
         {
           "value": "2026",
-          "count": "153"
+          "count": "156"
         }
       ]
     },
@@ -8181,7 +8202,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188027"
+          "count": "188029"
         }
       ]
     },
@@ -8275,15 +8296,15 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188027"
+          "count": "188029"
         },
         {
           "value": "30 days back",
-          "count": "40"
+          "count": "42"
         },
         {
           "value": "07 days back",
-          "count": "21"
+          "count": "22"
         }
       ]
     },
@@ -8292,11 +8313,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156608"
+          "count": "156611"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41489"
+          "count": "41486"
         }
       ]
     },
@@ -8305,7 +8326,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100333"
+          "count": "100332"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8337,7 +8358,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5321"
+          "count": "5313"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8390,7 +8411,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188027"
+          "count": "188029"
         },
         {
           "value": "open_access",
@@ -8407,15 +8428,15 @@
       "values": [
         {
           "value": "9904",
-          "count": "188027"
+          "count": "188029"
         },
         {
           "value": "9905",
-          "count": "57094"
+          "count": "57097"
         },
         {
           "value": "9908",
-          "count": "9712"
+          "count": "9711"
         },
         {
           "value": "9903",
@@ -8423,7 +8444,7 @@
         },
         {
           "value": "9902",
-          "count": "6340"
+          "count": "6339"
         }
       ]
     }
