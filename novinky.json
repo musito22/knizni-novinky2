@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188031,
+    "totalResultsLocal": 188030,
     "totalResultsPC": -1,
-    "total": 188031,
+    "total": 188030,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -424,7 +424,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -724,7 +724,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -1043,7 +1043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -1411,7 +1411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -1772,7 +1772,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -2103,7 +2103,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -2449,7 +2449,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -2771,7 +2771,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -3076,7 +3076,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -3381,7 +3381,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -3697,7 +3697,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -4031,7 +4031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -4352,7 +4352,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -4666,7 +4666,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -4973,7 +4973,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -5283,7 +5283,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -5592,7 +5592,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -5916,7 +5916,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -6240,7 +6240,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -6562,7 +6562,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -6872,7 +6872,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -7187,7 +7187,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -7493,7 +7493,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -7802,7 +7802,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2608914"
+            "1.256233"
           ],
           "isDedup": false
         },
@@ -8109,20 +8109,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "309",
-    "CALL_SOLR_GET_IDS_LIST": "288",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "539",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "55",
-    "RETRIVE_FROM_DB_COURSE_INFO": "39",
-    "RETRIVE_FROM_DB_RECORDS": "154",
-    "RETRIVE_FROM_DB_RELATIONS": "37",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "464",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "75",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1304",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2452",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "218",
+    "CALL_SOLR_GET_IDS_LIST": "211",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "348",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "33",
+    "RETRIVE_FROM_DB_COURSE_INFO": "28",
+    "RETRIVE_FROM_DB_RECORDS": "109",
+    "RETRIVE_FROM_DB_RELATIONS": "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "292",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "56",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1261",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2048",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3635,
-    "COMBINED_SEARCH_TIME": 3697,
+    "BUILD_COMBINED_RESULTS_MAP": 3195,
+    "COMBINED_SEARCH_TIME": 3232,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8132,15 +8132,15 @@
       "values": [
         {
           "value": "cze",
-          "count": "110949"
+          "count": "110948"
         },
         {
           "value": "eng",
-          "count": "41971"
+          "count": "41972"
         },
         {
           "value": "ger",
-          "count": "34162"
+          "count": "34163"
         },
         {
           "value": "slo",
@@ -8152,7 +8152,7 @@
         },
         {
           "value": "fre",
-          "count": "5443"
+          "count": "5444"
         },
         {
           "value": "lat",
@@ -8164,7 +8164,7 @@
         },
         {
           "value": "ita",
-          "count": "2143"
+          "count": "2144"
         },
         {
           "value": "spa",
@@ -8230,7 +8230,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188031"
+          "count": "188030"
         }
       ]
     },
@@ -8279,7 +8279,7 @@
         },
         {
           "value": "20.-21. století",
-          "count": "1579"
+          "count": "1578"
         },
         {
           "value": "rybářství",
@@ -8324,7 +8324,7 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188031"
+          "count": "188030"
         },
         {
           "value": "30 days back",
@@ -8332,7 +8332,7 @@
         },
         {
           "value": "07 days back",
-          "count": "18"
+          "count": "16"
         }
       ]
     },
@@ -8341,7 +8341,7 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156613"
+          "count": "156612"
         },
         {
           "value": "9904–112771470009904",
@@ -8354,7 +8354,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100334"
+          "count": "100336"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8386,7 +8386,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5312"
+          "count": "5310"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8439,7 +8439,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188031"
+          "count": "188030"
         },
         {
           "value": "open_access",
@@ -8456,11 +8456,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "188031"
+          "count": "188030"
         },
         {
           "value": "9905",
-          "count": "57098"
+          "count": "57097"
         },
         {
           "value": "9908",
@@ -8468,11 +8468,11 @@
         },
         {
           "value": "9903",
-          "count": "9471"
+          "count": "9472"
         },
         {
           "value": "9902",
-          "count": "6340"
+          "count": "6341"
         }
       ]
     }
