@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188031,
+    "totalResultsLocal": 188035,
     "totalResultsPC": -1,
-    "total": 188031,
+    "total": 188035,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -424,7 +424,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -724,7 +724,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -1043,7 +1043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -1411,7 +1411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -1783,7 +1783,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -2106,7 +2106,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -2430,7 +2430,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -2764,7 +2764,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -3110,7 +3110,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -3432,7 +3432,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -3737,7 +3737,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -4042,7 +4042,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -4358,7 +4358,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -4692,7 +4692,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -5013,7 +5013,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -5327,7 +5327,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -5634,7 +5634,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -5944,7 +5944,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -6253,7 +6253,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -6577,7 +6577,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -6901,7 +6901,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -7223,7 +7223,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -7533,7 +7533,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -7848,7 +7848,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2576402"
+            "1.2577239"
           ],
           "isDedup": false
         },
@@ -8076,20 +8076,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "227",
-    "CALL_SOLR_GET_IDS_LIST": "461",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "431",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "28",
-    "RETRIVE_FROM_DB_COURSE_INFO": "28",
-    "RETRIVE_FROM_DB_RECORDS": "121",
-    "RETRIVE_FROM_DB_RELATIONS": "26",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "366",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "65",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1302",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2433",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "231",
+    "CALL_SOLR_GET_IDS_LIST": "209",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "583",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "32",
+    "RETRIVE_FROM_DB_COURSE_INFO": "33",
+    "RETRIVE_FROM_DB_RECORDS": "116",
+    "RETRIVE_FROM_DB_RELATIONS": "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "505",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "78",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1344",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2376",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3693,
-    "COMBINED_SEARCH_TIME": 3732,
+    "BUILD_COMBINED_RESULTS_MAP": 3534,
+    "COMBINED_SEARCH_TIME": 3587,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8099,15 +8099,15 @@
       "values": [
         {
           "value": "cze",
-          "count": "110949"
+          "count": "110950"
         },
         {
           "value": "eng",
-          "count": "41973"
+          "count": "41976"
         },
         {
           "value": "ger",
-          "count": "34163"
+          "count": "34166"
         },
         {
           "value": "slo",
@@ -8123,7 +8123,7 @@
         },
         {
           "value": "lat",
-          "count": "2294"
+          "count": "2295"
         },
         {
           "value": "pol",
@@ -8197,7 +8197,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188031"
+          "count": "188035"
         }
       ]
     },
@@ -8291,7 +8291,7 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188031"
+          "count": "188035"
         },
         {
           "value": "30 days back",
@@ -8299,7 +8299,7 @@
         },
         {
           "value": "07 days back",
-          "count": "7"
+          "count": "4"
         }
       ]
     },
@@ -8308,11 +8308,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156613"
+          "count": "156617"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41484"
+          "count": "41482"
         }
       ]
     },
@@ -8321,7 +8321,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100362"
+          "count": "100367"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8353,7 +8353,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5299"
+          "count": "5293"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8406,7 +8406,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188031"
+          "count": "188035"
         },
         {
           "value": "open_access",
@@ -8423,11 +8423,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "188031"
+          "count": "188035"
         },
         {
           "value": "9905",
-          "count": "57096"
+          "count": "57100"
         },
         {
           "value": "9908",
@@ -8439,7 +8439,7 @@
         },
         {
           "value": "9902",
-          "count": "6342"
+          "count": "6343"
         }
       ]
     }
