@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188035,
+    "totalResultsLocal": 188017,
     "totalResultsPC": -1,
-    "total": 188035,
+    "total": 188017,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -424,7 +424,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -724,7 +724,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -1043,7 +1043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -1411,7 +1411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -1783,7 +1783,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -2106,7 +2106,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -2430,7 +2430,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -2764,7 +2764,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -3011,8 +3011,8 @@
         },
         "bibVirtualBrowseObject": {
           "isVirtualBrowseEnabled": true,
-          "callNumber": "502.171%574.4'285.3",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+          "callNumber": "qh!87.3ǂ m65 2026",
+          "callNumberBrowseField": "LOC_CL"
         }
       }
     },
@@ -3110,7 +3110,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -3432,7 +3432,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -3520,7 +3520,7 @@
           "isValidUser": true,
           "organization": "420CARDS_JCU",
           "libraryCode": "TF",
-          "availabilityStatus": "available",
+          "availabilityStatus": "unavailable",
           "subLocation": "studovna",
           "subLocationCode": "LC99",
           "mainLocation": "the Faculty of Theology J. P. Ondok Library",
@@ -3551,7 +3551,7 @@
             "isValidUser": true,
             "organization": "420CARDS_JCU",
             "libraryCode": "TF",
-            "availabilityStatus": "available",
+            "availabilityStatus": "unavailable",
             "subLocation": "studovna",
             "subLocationCode": "LC99",
             "mainLocation": "the Faculty of Theology J. P. Ondok Library",
@@ -3589,7 +3589,7 @@
           "ovp"
         ],
         "availability": [
-          "available_in_library"
+          "unavailable"
         ],
         "availabilityLinks": [
           "detailsgetit1"
@@ -3737,7 +3737,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -4042,7 +4042,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -4358,7 +4358,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -4451,7 +4451,7 @@
           "isValidUser": true,
           "organization": "420CARDS_JCU",
           "libraryCode": "TF",
-          "availabilityStatus": "available",
+          "availabilityStatus": "unavailable",
           "subLocation": "studovna",
           "subLocationCode": "LC99",
           "mainLocation": "the Faculty of Theology J. P. Ondok Library",
@@ -4482,7 +4482,7 @@
             "isValidUser": true,
             "organization": "420CARDS_JCU",
             "libraryCode": "TF",
-            "availabilityStatus": "available",
+            "availabilityStatus": "unavailable",
             "subLocation": "studovna",
             "subLocationCode": "LC99",
             "mainLocation": "the Faculty of Theology J. P. Ondok Library",
@@ -4520,7 +4520,7 @@
           "ovp"
         ],
         "availability": [
-          "available_in_library"
+          "unavailable"
         ],
         "availabilityLinks": [
           "detailsgetit1"
@@ -4692,7 +4692,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -4774,7 +4774,7 @@
           "isValidUser": true,
           "organization": "420CARDS_JCU",
           "libraryCode": "TF",
-          "availabilityStatus": "available",
+          "availabilityStatus": "unavailable",
           "subLocation": "studovna",
           "subLocationCode": "LC99",
           "mainLocation": "the Faculty of Theology J. P. Ondok Library",
@@ -4805,7 +4805,7 @@
             "isValidUser": true,
             "organization": "420CARDS_JCU",
             "libraryCode": "TF",
-            "availabilityStatus": "available",
+            "availabilityStatus": "unavailable",
             "subLocation": "studovna",
             "subLocationCode": "LC99",
             "mainLocation": "the Faculty of Theology J. P. Ondok Library",
@@ -4843,7 +4843,7 @@
           "ovp"
         ],
         "availability": [
-          "available_in_library"
+          "unavailable"
         ],
         "availabilityLinks": [
           "detailsgetit1"
@@ -5013,7 +5013,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -5327,7 +5327,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -5634,7 +5634,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -5944,7 +5944,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -6253,7 +6253,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -6577,7 +6577,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -6901,7 +6901,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -7223,7 +7223,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -7533,7 +7533,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -7848,7 +7848,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2577239"
+            "1.2609402"
           ],
           "isDedup": false
         },
@@ -8076,20 +8076,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "231",
-    "CALL_SOLR_GET_IDS_LIST": "209",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "583",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "32",
-    "RETRIVE_FROM_DB_COURSE_INFO": "33",
-    "RETRIVE_FROM_DB_RECORDS": "116",
-    "RETRIVE_FROM_DB_RELATIONS": "27",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "505",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "78",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1344",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2376",
-    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3534,
-    "COMBINED_SEARCH_TIME": 3587,
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "706",
+    "CALL_SOLR_GET_IDS_LIST": "1079",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "587",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "39",
+    "RETRIVE_FROM_DB_COURSE_INFO": "32",
+    "RETRIVE_FROM_DB_RECORDS": "155",
+    "RETRIVE_FROM_DB_RELATIONS": "442",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "507",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "80",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1416",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "3799",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 1,
+    "BUILD_COMBINED_RESULTS_MAP": 5217,
+    "COMBINED_SEARCH_TIME": 5270,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8099,15 +8099,15 @@
       "values": [
         {
           "value": "cze",
-          "count": "110950"
+          "count": "110933"
         },
         {
           "value": "eng",
-          "count": "41976"
+          "count": "41973"
         },
         {
           "value": "ger",
-          "count": "34166"
+          "count": "34165"
         },
         {
           "value": "slo",
@@ -8131,7 +8131,7 @@
         },
         {
           "value": "ita",
-          "count": "2144"
+          "count": "2143"
         },
         {
           "value": "spa",
@@ -8197,7 +8197,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188035"
+          "count": "188017"
         }
       ]
     },
@@ -8226,19 +8226,19 @@
         },
         {
           "value": "Náboženství",
-          "count": "3138"
+          "count": "3137"
         },
         {
           "value": "dějiny",
-          "count": "2177"
+          "count": "2176"
         },
         {
           "value": "angličtina",
-          "count": "2095"
+          "count": "2093"
         },
         {
           "value": "čeština",
-          "count": "2007"
+          "count": "2006"
         },
         {
           "value": "19.-20. století",
@@ -8291,7 +8291,7 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188035"
+          "count": "188017"
         },
         {
           "value": "30 days back",
@@ -8299,7 +8299,7 @@
         },
         {
           "value": "07 days back",
-          "count": "4"
+          "count": "3"
         }
       ]
     },
@@ -8312,7 +8312,7 @@
         },
         {
           "value": "9904–112771470009904",
-          "count": "41482"
+          "count": "41420"
         }
       ]
     },
@@ -8353,7 +8353,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5293"
+          "count": "5178"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8406,7 +8406,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188035"
+          "count": "188017"
         },
         {
           "value": "open_access",
@@ -8423,23 +8423,23 @@
       "values": [
         {
           "value": "9904",
-          "count": "188035"
+          "count": "188017"
         },
         {
           "value": "9905",
-          "count": "57100"
+          "count": "57083"
         },
         {
           "value": "9908",
-          "count": "9711"
+          "count": "9704"
         },
         {
           "value": "9903",
-          "count": "9472"
+          "count": "9463"
         },
         {
           "value": "9902",
-          "count": "6343"
+          "count": "6337"
         }
       ]
     }
