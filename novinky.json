@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -399,6 +399,7 @@
           ],
           "subject": [
             "20. století",
+            "20th century",
             "anglicky psaná próza",
             "literární náměty",
             "Angličtina - literatura",
@@ -424,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -724,7 +725,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -1043,7 +1044,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -1411,7 +1412,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -1783,7 +1784,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -2106,7 +2107,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -2430,7 +2431,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -2764,7 +2765,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -3110,7 +3111,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -3432,7 +3433,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -3737,7 +3738,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -4042,7 +4043,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -4358,7 +4359,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -4692,7 +4693,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -5013,7 +5014,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -5327,7 +5328,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -5634,7 +5635,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -5944,7 +5945,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -6253,7 +6254,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -6577,7 +6578,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -6901,7 +6902,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -7223,7 +7224,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -7533,7 +7534,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -7848,7 +7849,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2605413"
+            "1.2612697"
           ],
           "isDedup": false
         },
@@ -8076,20 +8077,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "240",
-    "CALL_SOLR_GET_IDS_LIST": "209",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "567",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "36",
-    "RETRIVE_FROM_DB_COURSE_INFO": "31",
-    "RETRIVE_FROM_DB_RECORDS": "120",
-    "RETRIVE_FROM_DB_RELATIONS": "29",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "496",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "71",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1225",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "245",
+    "CALL_SOLR_GET_IDS_LIST": "304",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "455",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "43",
+    "RETRIVE_FROM_DB_COURSE_INFO": "27",
+    "RETRIVE_FROM_DB_RECORDS": "125",
+    "RETRIVE_FROM_DB_RELATIONS": "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "394",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "61",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1240",
     "PRIMA_LOCAL_SEARCH_TOTAL": "2253",
-    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3349,
-    "COMBINED_SEARCH_TIME": 3381,
+    "BUILD_BLEND_AND_CACHE_RESULTS": 1,
+    "BUILD_COMBINED_RESULTS_MAP": 3414,
+    "COMBINED_SEARCH_TIME": 3452,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8295,11 +8296,11 @@
         },
         {
           "value": "30 days back",
-          "count": "42"
+          "count": "41"
         },
         {
           "value": "07 days back",
-          "count": "2"
+          "count": "3"
         }
       ]
     },
@@ -8329,7 +8330,7 @@
         },
         {
           "value": "9904–112771470009904–lc99",
-          "count": "25490"
+          "count": "25492"
         },
         {
           "value": "9904–112771470009904–lc98",
@@ -8353,7 +8354,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5172"
+          "count": "5167"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8427,7 +8428,7 @@
         },
         {
           "value": "9905",
-          "count": "57085"
+          "count": "57084"
         },
         {
           "value": "9908",
