@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188029,
+    "totalResultsLocal": 188040,
     "totalResultsPC": -1,
-    "total": 188029,
+    "total": 188040,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -2056,7 +2056,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -2382,7 +2382,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -2703,7 +2703,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -3025,7 +3025,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -3348,7 +3348,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -3680,7 +3680,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -3982,7 +3982,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -4291,7 +4291,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -4603,7 +4603,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -4908,7 +4908,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -5232,7 +5232,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -5539,7 +5539,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -5858,7 +5858,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -6171,7 +6171,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -6482,7 +6482,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -6801,7 +6801,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -7104,7 +7104,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -7411,7 +7411,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -7753,7 +7753,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2988347"
+            "1.2984569"
           ],
           "isDedup": false
         },
@@ -7996,20 +7996,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "238",
-    "CALL_SOLR_GET_IDS_LIST": "219",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "475",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "39",
-    "RETRIVE_FROM_DB_COURSE_INFO": "33",
-    "RETRIVE_FROM_DB_RECORDS": "109",
-    "RETRIVE_FROM_DB_RELATIONS": "31",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "409",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "66",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1253",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2196",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "263",
+    "CALL_SOLR_GET_IDS_LIST": "226",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "543",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "37",
+    "RETRIVE_FROM_DB_COURSE_INFO": "40",
+    "RETRIVE_FROM_DB_RECORDS": "136",
+    "RETRIVE_FROM_DB_RELATIONS": "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "470",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "73",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1413",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2454",
     "BUILD_BLEND_AND_CACHE_RESULTS": 1,
-    "BUILD_COMBINED_RESULTS_MAP": 3441,
-    "COMBINED_SEARCH_TIME": 3480,
+    "BUILD_COMBINED_RESULTS_MAP": 3830,
+    "COMBINED_SEARCH_TIME": 3870,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8019,15 +8019,15 @@
       "values": [
         {
           "value": "cze",
-          "count": "110940"
+          "count": "110942"
         },
         {
           "value": "eng",
-          "count": "41987"
+          "count": "41993"
         },
         {
           "value": "ger",
-          "count": "34164"
+          "count": "34166"
         },
         {
           "value": "slo",
@@ -8039,7 +8039,7 @@
         },
         {
           "value": "fre",
-          "count": "5444"
+          "count": "5445"
         },
         {
           "value": "lat",
@@ -8117,7 +8117,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188029"
+          "count": "188040"
         }
       ]
     },
@@ -8126,7 +8126,7 @@
       "values": [
         {
           "value": "Beletrie",
-          "count": "5128"
+          "count": "5129"
         },
         {
           "value": "Křesťanství",
@@ -8146,7 +8146,7 @@
         },
         {
           "value": "Náboženství",
-          "count": "3138"
+          "count": "3139"
         },
         {
           "value": "dějiny",
@@ -8202,7 +8202,7 @@
         },
         {
           "value": "Životní prostředí a jeho ochrana",
-          "count": "1243"
+          "count": "1242"
         }
       ]
     },
@@ -8211,15 +8211,15 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188029"
+          "count": "188040"
         },
         {
           "value": "30 days back",
-          "count": "53"
+          "count": "60"
         },
         {
           "value": "07 days back",
-          "count": "21"
+          "count": "28"
         }
       ]
     },
@@ -8228,11 +8228,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156631"
+          "count": "156642"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41378"
+          "count": "41375"
         }
       ]
     },
@@ -8241,7 +8241,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100385"
+          "count": "100401"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8273,7 +8273,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5064"
+          "count": "5059"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8289,7 +8289,7 @@
         },
         {
           "value": "9904–112771190009904–lc121",
-          "count": "497"
+          "count": "488"
         },
         {
           "value": "9904–112771190009904–schw",
@@ -8326,7 +8326,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188029"
+          "count": "188040"
         },
         {
           "value": "open_access",
@@ -8343,11 +8343,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "188029"
+          "count": "188040"
         },
         {
           "value": "9905",
-          "count": "57070"
+          "count": "57073"
         },
         {
           "value": "9908",
