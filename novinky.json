@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -2066,7 +2066,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -2385,7 +2385,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -2706,7 +2706,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -3028,7 +3028,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -3343,7 +3343,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -3660,7 +3660,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -3986,7 +3986,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -4288,7 +4288,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -4594,7 +4594,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -4922,7 +4922,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -5248,7 +5248,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -5569,7 +5569,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -5891,7 +5891,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -6214,7 +6214,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -6546,7 +6546,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -6848,7 +6848,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -7157,7 +7157,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -7483,7 +7483,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -7788,7 +7788,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2942628"
+            "1.2945728"
           ],
           "isDedup": false
         },
@@ -8022,22 +8022,22 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "240",
-    "CALL_SOLR_GET_IDS_LIST": "245",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "418",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "40",
-    "RETRIVE_FROM_DB_COURSE_INFO": "32",
-    "RETRIVE_FROM_DB_RECORDS": "123",
-    "RETRIVE_FROM_DB_RELATIONS": "26",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "361",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "57",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1022",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "1935",
-    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 2922,
-    "COMBINED_SEARCH_TIME": 2956,
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "561",
+    "CALL_SOLR_GET_IDS_LIST": "865",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "588",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "38",
+    "RETRIVE_FROM_DB_COURSE_INFO": "37",
+    "RETRIVE_FROM_DB_RECORDS": "119",
+    "RETRIVE_FROM_DB_RELATIONS": "333",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "508",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "80",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1993",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "4018",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 1,
+    "BUILD_COMBINED_RESULTS_MAP": 5156,
+    "COMBINED_SEARCH_TIME": 5218,
     "PROCESS_COMBINED_RESULTS": 0,
-    "FEATURED_SEARCH_TIME": 0
+    "FEATURED_SEARCH_TIME": 1
   },
   "facets": [
     {
@@ -8237,11 +8237,11 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188049"
+          "count": "188015"
         },
         {
           "value": "30 days back",
-          "count": "68"
+          "count": "63"
         },
         {
           "value": "07 days back",
@@ -8373,7 +8373,7 @@
         },
         {
           "value": "9905",
-          "count": "57075"
+          "count": "57076"
         },
         {
           "value": "9908",
