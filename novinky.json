@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -805,7 +805,7 @@
           "isValidUser": true,
           "organization": "420CARDS_JCU",
           "libraryCode": "AK",
-          "availabilityStatus": "unavailable",
+          "availabilityStatus": "available",
           "subLocation": "AK (volný výběr)",
           "subLocationCode": "AKVV",
           "mainLocation": "Academic Library of the University of South Bohemia",
@@ -836,7 +836,7 @@
             "isValidUser": true,
             "organization": "420CARDS_JCU",
             "libraryCode": "AK",
-            "availabilityStatus": "unavailable",
+            "availabilityStatus": "available",
             "subLocation": "AK (volný výběr)",
             "subLocationCode": "AKVV",
             "mainLocation": "Academic Library of the University of South Bohemia",
@@ -874,7 +874,7 @@
           "ovp"
         ],
         "availability": [
-          "unavailable"
+          "available_in_library"
         ],
         "availabilityLinks": [
           "detailsgetit1"
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -2066,7 +2066,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -2385,7 +2385,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -2706,7 +2706,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -3028,7 +3028,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -3343,7 +3343,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -3660,7 +3660,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -3986,7 +3986,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -4288,7 +4288,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -4594,7 +4594,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -4891,7 +4891,9 @@
           ],
           "genre": [
             "populárně-naučné publikace",
-            "příběhy"
+            "popular works",
+            "příběhy",
+            "stories"
           ],
           "place": [
             "Brno :"
@@ -4900,8 +4902,12 @@
             "0"
           ],
           "subject": [
-            "poruchy příjmu potravy -- psychologické pojetí",
-            "psychoterapie"
+            "poruchy příjmu potravy",
+            "eating disorders",
+            "psychoterapie",
+            "psychotherapy",
+            "psychologické aspekty",
+            "psychological aspects"
           ]
         },
         "control": {
@@ -4913,7 +4919,7 @@
           ],
           "sourceid": "alma",
           "originalsourceid": [
-            "9911377544609901"
+            "006640424"
           ],
           "sourcesystem": [
             "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
@@ -4922,7 +4928,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -5138,8 +5144,8 @@
         },
         "bibVirtualBrowseObject": {
           "isVirtualBrowseEnabled": true,
-          "callNumber": "615.8",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+          "callNumber": "615 851",
+          "callNumberBrowseField": "MRF"
         }
       }
     },
@@ -5248,7 +5254,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -5569,7 +5575,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -5891,7 +5897,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -6214,7 +6220,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -6546,7 +6552,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -6848,7 +6854,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -7157,7 +7163,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -7483,7 +7489,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -7788,7 +7794,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2945728"
+            "1.294076"
           ],
           "isDedup": false
         },
@@ -8022,22 +8028,22 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "561",
-    "CALL_SOLR_GET_IDS_LIST": "865",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "588",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "38",
-    "RETRIVE_FROM_DB_COURSE_INFO": "37",
-    "RETRIVE_FROM_DB_RECORDS": "119",
-    "RETRIVE_FROM_DB_RELATIONS": "333",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "508",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "80",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1993",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "4018",
-    "BUILD_BLEND_AND_CACHE_RESULTS": 1,
-    "BUILD_COMBINED_RESULTS_MAP": 5156,
-    "COMBINED_SEARCH_TIME": 5218,
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "580",
+    "CALL_SOLR_GET_IDS_LIST": "1018",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "539",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "34",
+    "RETRIVE_FROM_DB_COURSE_INFO": "30",
+    "RETRIVE_FROM_DB_RECORDS": "126",
+    "RETRIVE_FROM_DB_RELATIONS": "369",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "457",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "82",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1166",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "3313",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
+    "BUILD_COMBINED_RESULTS_MAP": 4411,
+    "COMBINED_SEARCH_TIME": 4467,
     "PROCESS_COMBINED_RESULTS": 0,
-    "FEATURED_SEARCH_TIME": 1
+    "FEATURED_SEARCH_TIME": 0
   },
   "facets": [
     {
@@ -8237,11 +8243,11 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "188015"
+          "count": "119"
         },
         {
           "value": "30 days back",
-          "count": "63"
+          "count": "59"
         },
         {
           "value": "07 days back",
@@ -8373,7 +8379,7 @@
         },
         {
           "value": "9905",
-          "count": "57076"
+          "count": "57077"
         },
         {
           "value": "9908",
