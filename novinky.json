@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -2068,7 +2068,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -2391,7 +2391,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -2691,7 +2691,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -3010,7 +3010,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -3331,7 +3331,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -3653,7 +3653,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -3968,7 +3968,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -4285,7 +4285,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -4611,7 +4611,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -4913,7 +4913,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -5219,7 +5219,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -5553,7 +5553,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -5893,7 +5893,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -6214,7 +6214,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -6536,7 +6536,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -6859,7 +6859,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -7191,7 +7191,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -7493,7 +7493,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -7802,7 +7802,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2941183"
+            "1.2924105"
           ],
           "isDedup": false
         },
@@ -8053,20 +8053,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "591",
-    "CALL_SOLR_GET_IDS_LIST": "947",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "423",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "44",
-    "RETRIVE_FROM_DB_COURSE_INFO": "29",
-    "RETRIVE_FROM_DB_RECORDS": "135",
-    "RETRIVE_FROM_DB_RELATIONS": "348",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "358",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "65",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1846",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "3817",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "552",
+    "CALL_SOLR_GET_IDS_LIST": "884",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "576",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "34",
+    "RETRIVE_FROM_DB_COURSE_INFO": "32",
+    "RETRIVE_FROM_DB_RECORDS": "127",
+    "RETRIVE_FROM_DB_RELATIONS": "337",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "506",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "70",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1203",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "3223",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5042,
-    "COMBINED_SEARCH_TIME": 5091,
+    "BUILD_COMBINED_RESULTS_MAP": 4383,
+    "COMBINED_SEARCH_TIME": 4423,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
