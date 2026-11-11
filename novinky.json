@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188088,
+    "totalResultsLocal": 188089,
     "totalResultsPC": -1,
-    "total": 188088,
+    "total": 188089,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -2042,11 +2042,10 @@
           "subject": [
             "Jihočeská univerzita Teologická fakulta",
             "1991-2010",
-            "teologické fakulty -- Česko -- 1991-2010",
-            "teologické fakulty -- dějiny",
-            "vysokoškolské studium -- Česko -- 1991-2010",
-            "katolická teologie -- Česko -- 1991-2010",
-            "písemné prameny -- Česko -- 1991-2010",
+            "teologické fakulty",
+            "vysokoškolské studium",
+            "katolická teologie",
+            "písemné prameny",
             "České Budějovice (Česko)"
           ]
         },
@@ -2068,7 +2067,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -2391,7 +2390,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -2691,7 +2690,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -3010,7 +3009,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -3331,7 +3330,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -3654,7 +3653,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -3969,7 +3968,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -4286,7 +4285,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -4612,7 +4611,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -4914,7 +4913,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -5220,7 +5219,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -5554,7 +5553,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -5894,7 +5893,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -6215,7 +6214,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -6537,7 +6536,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -6860,7 +6859,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -7192,7 +7191,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -7494,7 +7493,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -7803,7 +7802,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2924899"
+            "1.2952662"
           ],
           "isDedup": false
         },
@@ -8054,20 +8053,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "754",
-    "CALL_SOLR_GET_IDS_LIST": "1061",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "718",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "38",
-    "RETRIVE_FROM_DB_COURSE_INFO": "35",
-    "RETRIVE_FROM_DB_RECORDS": "140",
-    "RETRIVE_FROM_DB_RELATIONS": "512",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "621",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "97",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1506",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "4056",
-    "BUILD_BLEND_AND_CACHE_RESULTS": 1,
-    "BUILD_COMBINED_RESULTS_MAP": 5512,
-    "COMBINED_SEARCH_TIME": 5569,
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "234",
+    "CALL_SOLR_GET_IDS_LIST": "238",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "571",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "35",
+    "RETRIVE_FROM_DB_COURSE_INFO": "28",
+    "RETRIVE_FROM_DB_RECORDS": "110",
+    "RETRIVE_FROM_DB_RELATIONS": "27",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "507",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "64",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "2192",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "3245",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
+    "BUILD_COMBINED_RESULTS_MAP": 5061,
+    "COMBINED_SEARCH_TIME": 5106,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8175,7 +8174,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188088"
+          "count": "188089"
         }
       ]
     },
@@ -8192,7 +8191,7 @@
         },
         {
           "value": "Česko",
-          "count": "3898"
+          "count": "3899"
         },
         {
           "value": "20. století",
@@ -8208,7 +8207,7 @@
         },
         {
           "value": "dějiny",
-          "count": "2177"
+          "count": "2178"
         },
         {
           "value": "angličtina",
@@ -8269,11 +8268,11 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "125"
+          "count": "126"
         },
         {
           "value": "30 days back",
-          "count": "60"
+          "count": "61"
         },
         {
           "value": "07 days back",
@@ -8286,11 +8285,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156683"
+          "count": "156685"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41376"
+          "count": "41374"
         }
       ]
     },
@@ -8299,7 +8298,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100432"
+          "count": "100434"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8331,7 +8330,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5024"
+          "count": "5022"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8384,7 +8383,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188088"
+          "count": "188089"
         },
         {
           "value": "open_access",
@@ -8401,11 +8400,11 @@
       "values": [
         {
           "value": "9904",
-          "count": "188088"
+          "count": "188089"
         },
         {
           "value": "9905",
-          "count": "57103"
+          "count": "57081"
         },
         {
           "value": "9908",
