@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188089,
+    "totalResultsLocal": 188090,
     "totalResultsPC": -1,
-    "total": 188089,
+    "total": 188090,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -2067,7 +2067,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -2390,7 +2390,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -2652,7 +2652,8 @@
             "Myšlení současnosti$$QMyšlení současnosti"
           ],
           "genre": [
-            "eseje"
+            "eseje",
+            "essays"
           ],
           "unititle": [
             "Unverfügbarkeit. Česky"
@@ -2668,8 +2669,11 @@
           ],
           "subject": [
             "sociální změna",
+            "social change",
             "společenská transformace",
-            "moderní společnost"
+            "social transformation",
+            "moderní společnost",
+            "modern society"
           ]
         },
         "control": {
@@ -2681,7 +2685,7 @@
           ],
           "sourceid": "alma",
           "originalsourceid": [
-            "9911378137409901"
+            "1726124"
           ],
           "sourcesystem": [
             "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
@@ -2690,7 +2694,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -3009,7 +3013,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -3330,7 +3334,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -3653,7 +3657,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -3968,7 +3972,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -4285,7 +4289,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -4611,7 +4615,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -4913,7 +4917,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -5219,7 +5223,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -5553,7 +5557,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -5893,7 +5897,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -6214,7 +6218,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -6499,7 +6503,7 @@
           ],
           "series": [
             "Mezi žánry ; svazek 7$$QMezi žánry",
-            "Mezi žánry (MUNI Press)$$QMezi žánry (MUNI Press)"
+            "Mezi žánry (MUNI Press) ; svazek 7$$QMezi žánry (MUNI Press)"
           ],
           "genre": [
             "učební texty",
@@ -6527,7 +6531,7 @@
           ],
           "sourceid": "alma",
           "originalsourceid": [
-            "9911376708009901"
+            "kpw21546743"
           ],
           "sourcesystem": [
             "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
@@ -6536,7 +6540,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -6859,7 +6863,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -7191,7 +7195,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -7493,7 +7497,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -7802,7 +7806,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2952662"
+            "1.2955792"
           ],
           "isDedup": false
         },
@@ -8053,20 +8057,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "234",
-    "CALL_SOLR_GET_IDS_LIST": "238",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "571",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "35",
-    "RETRIVE_FROM_DB_COURSE_INFO": "28",
-    "RETRIVE_FROM_DB_RECORDS": "110",
-    "RETRIVE_FROM_DB_RELATIONS": "27",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "507",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "64",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "2192",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "3245",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "237",
+    "CALL_SOLR_GET_IDS_LIST": "250",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "637",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "34",
+    "RETRIVE_FROM_DB_COURSE_INFO": "34",
+    "RETRIVE_FROM_DB_RECORDS": "116",
+    "RETRIVE_FROM_DB_RELATIONS": "30",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "561",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "76",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1406",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2541",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5061,
-    "COMBINED_SEARCH_TIME": 5106,
+    "BUILD_COMBINED_RESULTS_MAP": 3818,
+    "COMBINED_SEARCH_TIME": 3869,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8076,7 +8080,7 @@
       "values": [
         {
           "value": "cze",
-          "count": "110972"
+          "count": "110973"
         },
         {
           "value": "eng",
@@ -8084,7 +8088,7 @@
         },
         {
           "value": "ger",
-          "count": "34168"
+          "count": "34169"
         },
         {
           "value": "slo",
@@ -8174,7 +8178,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188089"
+          "count": "188090"
         }
       ]
     },
@@ -8235,7 +8239,7 @@
         },
         {
           "value": "němčina",
-          "count": "1524"
+          "count": "1525"
         },
         {
           "value": "Malířství. Sochařství",
@@ -8268,15 +8272,11 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "126"
+          "count": "109"
         },
         {
           "value": "30 days back",
-          "count": "61"
-        },
-        {
-          "value": "07 days back",
-          "count": "2"
+          "count": "59"
         }
       ]
     },
@@ -8285,11 +8285,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156685"
+          "count": "156687"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41374"
+          "count": "41372"
         }
       ]
     },
@@ -8298,7 +8298,7 @@
       "values": [
         {
           "value": "9904–112771190009904–akvv",
-          "count": "100434"
+          "count": "100436"
         },
         {
           "value": "9904–112771190009904–akskl",
@@ -8330,7 +8330,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "5022"
+          "count": "5019"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8383,7 +8383,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188089"
+          "count": "188090"
         },
         {
           "value": "open_access",
@@ -8400,15 +8400,15 @@
       "values": [
         {
           "value": "9904",
-          "count": "188089"
+          "count": "188090"
         },
         {
           "value": "9905",
-          "count": "57081"
+          "count": "57082"
         },
         {
           "value": "9908",
-          "count": "9697"
+          "count": "9698"
         },
         {
           "value": "9903",
@@ -8416,7 +8416,7 @@
         },
         {
           "value": "9902",
-          "count": "6338"
+          "count": "6339"
         }
       ]
     }
