@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -2067,7 +2067,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -2390,7 +2390,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -2694,7 +2694,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -3013,7 +3013,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -3334,7 +3334,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -3657,7 +3657,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -3972,7 +3972,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -4289,7 +4289,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -4615,7 +4615,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -4917,7 +4917,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -5223,7 +5223,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -5557,7 +5557,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -5897,7 +5897,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -6218,7 +6218,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -6540,7 +6540,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -6863,7 +6863,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -7195,7 +7195,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -7497,7 +7497,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -7806,7 +7806,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2881505"
+            "1.289371"
           ],
           "isDedup": false
         },
@@ -8057,20 +8057,20 @@
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "259",
-    "CALL_SOLR_GET_IDS_LIST": "253",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "482",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "48",
-    "RETRIVE_FROM_DB_COURSE_INFO": "27",
-    "RETRIVE_FROM_DB_RECORDS": "128",
-    "RETRIVE_FROM_DB_RELATIONS": "31",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "407",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "75",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1456",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "2461",
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "274",
+    "CALL_SOLR_GET_IDS_LIST": "1107",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "330",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "40",
+    "RETRIVE_FROM_DB_COURSE_INFO": "34",
+    "RETRIVE_FROM_DB_RECORDS": "132",
+    "RETRIVE_FROM_DB_RELATIONS": "26",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "257",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "73",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1147",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2868",
     "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 3686,
-    "COMBINED_SEARCH_TIME": 3722,
+    "BUILD_COMBINED_RESULTS_MAP": 4083,
+    "COMBINED_SEARCH_TIME": 4107,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8276,7 +8276,7 @@
         },
         {
           "value": "30 days back",
-          "count": "55"
+          "count": "53"
         }
       ]
     },
