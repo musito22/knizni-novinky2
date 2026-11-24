@@ -1,8 +1,8 @@
 {
   "info": {
-    "totalResultsLocal": 188063,
+    "totalResultsLocal": 188064,
     "totalResultsPC": -1,
-    "total": 188063,
+    "total": 188064,
     "first": 1,
     "last": 25
   },
@@ -90,7 +90,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -425,7 +425,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -720,7 +720,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -1031,7 +1031,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -1350,7 +1350,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -1718,7 +1718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -1984,6 +1984,334 @@
     {
       "context": "L",
       "adaptor": "Local Search Engine",
+      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993091814909904",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "book"
+          ],
+          "language": [
+            "ger"
+          ],
+          "title": [
+            "Frieden"
+          ],
+          "format": [
+            "313 stran ; 23 cm"
+          ],
+          "identifier": [
+            "$$CISBN$$V978-3-525-70027-3"
+          ],
+          "creationdate": [
+            "2026"
+          ],
+          "publisher": [
+            "Göttingen : Vandenhoeck & Ruprecht"
+          ],
+          "mms": [
+            "993091814909904"
+          ],
+          "contributor": [
+            "Altmeyer, Stefan$$QAltmeyer, Stefan",
+            "Grümme, Bernhard, 1962-$$QGrümme, Bernhard",
+            "Hieronymi-Suhner, Jasmine$$QHieronymi-Suhner, Jasmine",
+            "Naurath, Elisabeth, 1965-$$QNaurath, Elisabeth",
+            "Schröder, Bernd, 1965-$$QSchröder, Bernd",
+            "Tacke, Lena$$QTacke, Lena"
+          ],
+          "series": [
+            "Jahrbuch der Religionspädagogik, 0178-3629 ; Band 42 (2026)$$QJahrbuch der Religionspädagogik",
+            "Jahrbuch der Religionspädagogik (JRP)$$QJahrbuch der Religionspädagogik (JRP)"
+          ],
+          "genre": [
+            "sborníky"
+          ],
+          "place": [
+            "Göttingen :"
+          ],
+          "version": [
+            "0"
+          ],
+          "subject": [
+            "křesťanství",
+            "náboženská výchova",
+            "mezináboženské vztahy",
+            "krizové situace",
+            "mezinárodní konflikty",
+            "válka a mír",
+            "svoboda"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "993091814909904"
+          ],
+          "recordid": [
+            "alma993091814909904"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "9911383006009901"
+          ],
+          "sourcesystem": [
+            "420CARDS_NETWORK"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "1.2971213"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDContributor": [
+            "uk20211112664",
+            "xx0016291",
+            "xx0021909"
+          ],
+          "aulast": [
+            "Altmeyer",
+            "Grümme",
+            "Hieronymi-Suhner",
+            "Naurath",
+            "Schröder",
+            "Tacke"
+          ],
+          "aufirst": [
+            "Stefan",
+            "Bernhard",
+            "Jasmine",
+            "Elisabeth",
+            "Bernd",
+            "Lena"
+          ],
+          "auinit": [
+            "S",
+            "J",
+            "E",
+            "B",
+            "L"
+          ],
+          "addau": [
+            "Altmeyer, Stefan",
+            "Grümme, Bernhard",
+            "Hieronymi-Suhner, Jasmine",
+            "Naurath, Elisabeth",
+            "Schröder, Bernd",
+            "Tacke, Lena"
+          ],
+          "contributorfull": [
+            "$$NAltmeyer, Stefan$$LAltmeyer$$FStefan$$Rcontributor",
+            "$$NGrümme, Bernhard$$Rcontributor",
+            "$$NHieronymi-Suhner, Jasmine$$Rcontributor",
+            "$$NNaurath, Elisabeth$$Rcontributor",
+            "$$NSchröder, Bernd$$Rcontributor",
+            "$$NTacke, Lena$$Rcontributor"
+          ],
+          "date": [
+            "2026"
+          ],
+          "isbn": [
+            "978-3-525-70027-3"
+          ],
+          "notes": [
+            "Obsahuje bibliografické odkazy"
+          ],
+          "cop": [
+            "Göttingen"
+          ],
+          "pub": [
+            "Vandenhoeck & Ruprecht"
+          ],
+          "oclcid": [
+            "(cz-cbkju)000294457",
+            "(aleph)294457jcu01",
+            "(cards)10636067skc"
+          ],
+          "seriestitle": [
+            "Jahrbuch der Religionspädagogik, Band 42 (2026)"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Frieden"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Frieden  /"
+          ],
+          "author": [
+            "Altmeyer, Stefan"
+          ],
+          "creationdate": [
+            "2026"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "delivery": {
+        "bestlocation": {
+          "isValidUser": true,
+          "organization": "420CARDS_JCU",
+          "libraryCode": "TF",
+          "availabilityStatus": "available",
+          "subLocation": "sklad",
+          "subLocationCode": "LC98",
+          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+          "callNumber": "",
+          "callNumberType": "8",
+          "holdingURL": "OVP",
+          "adaptorid": "ALMA_01",
+          "ilsApiId": "993091814909904",
+          "holdId": "2281040670009904",
+          "holKey": "HoldingResultKey [mid=2281040670009904, libraryId=112771470009904, locationCode=LC98, callNumber=null]",
+          "matchForHoldings": [
+            {
+              "matchOn": "MainLocation",
+              "holdingRecord": "852##b"
+            }
+          ],
+          "stackMapUrl": "",
+          "relatedTitle": null,
+          "translateRelatedTitle": null,
+          "yearFilter": null,
+          "volumeFilter": null,
+          "singleUnavailableItemProcessType": null,
+          "boundWith": false,
+          "@id": "_:0"
+        },
+        "holding": [
+          {
+            "isValidUser": true,
+            "organization": "420CARDS_JCU",
+            "libraryCode": "TF",
+            "availabilityStatus": "available",
+            "subLocation": "sklad",
+            "subLocationCode": "LC98",
+            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
+            "callNumber": "",
+            "callNumberType": "8",
+            "holdingURL": "OVP",
+            "adaptorid": "ALMA_01",
+            "ilsApiId": "993091814909904",
+            "holdId": "2281040670009904",
+            "holKey": "HoldingResultKey [mid=2281040670009904, libraryId=112771470009904, locationCode=LC98, callNumber=null]",
+            "matchForHoldings": [
+              {
+                "matchOn": "MainLocation",
+                "holdingRecord": "852##b"
+              }
+            ],
+            "stackMapUrl": "",
+            "relatedTitle": null,
+            "translateRelatedTitle": null,
+            "yearFilter": null,
+            "volumeFilter": null,
+            "singleUnavailableItemProcessType": null,
+            "boundWith": false,
+            "@id": "_:0"
+          }
+        ],
+        "electronicServices": null,
+        "additionalElectronicServices": null,
+        "filteredByGroupServices": null,
+        "quickAccessService": null,
+        "deliveryCategory": [
+          "Alma-P"
+        ],
+        "serviceMode": [
+          "ovp"
+        ],
+        "availability": [
+          "available_in_library"
+        ],
+        "availabilityLinks": [
+          "detailsgetit1"
+        ],
+        "availabilityLinksUrl": [],
+        "displayedAvailability": null,
+        "displayLocation": true,
+        "additionalLocations": false,
+        "titleRequestableAtItemLevel": false,
+        "physicalItemTextCodes": null,
+        "feDisplayOtherLocations": false,
+        "almaInstitutionsList": [],
+        "recordInstitutionCode": null,
+        "recordOwner": "420CARDS_NETWORK",
+        "hasFilteredServices": null,
+        "digitalAuxiliaryMode": false,
+        "digitalAuxiliaryThumbnail": false,
+        "hideResourceSharing": false,
+        "sharedDigitalCandidates": null,
+        "consolidatedCoverage": null,
+        "electronicContextObjectId": null,
+        "almaOpenurl": null,
+        "GetIt1": [
+          {
+            "category": "Alma-P",
+            "links": [
+              {
+                "isLinktoOnline": false,
+                "getItTabText": "service_getit",
+                "adaptorid": "ALMA_01",
+                "ilsApiId": "993091814909904",
+                "link": "OVP",
+                "inst4opac": "420CARDS_JCU",
+                "displayText": null,
+                "@id": "_:0"
+              }
+            ]
+          }
+        ],
+        "physicalServiceId": null,
+        "link": [
+          {
+            "@id": ":_0",
+            "linkType": "thumbnail",
+            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9783525700273,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+            "displayLabel": "thumbnail"
+          },
+          {
+            "@id": ":_1",
+            "linkType": "thumbnail",
+            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-3-525-70027-3%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
+            "displayLabel": "thumbnail"
+          }
+        ],
+        "hasD": null
+      },
+      "enrichment": {
+        "virtualBrowseObject": {
+          "isVirtualBrowseEnabled": false,
+          "callNumber": "",
+          "callNumberBrowseField": ""
+        },
+        "bibVirtualBrowseObject": {
+          "isVirtualBrowseEnabled": true,
+          "callNumber": "'082",
+          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
+        }
+      }
+    },
+    {
+      "context": "L",
+      "adaptor": "Local Search Engine",
       "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993090315009904",
       "pnx": {
         "display": {
@@ -2067,7 +2395,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -2390,7 +2718,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -2694,7 +3022,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -3013,7 +3341,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -3334,7 +3662,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -3657,7 +3985,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -3972,7 +4300,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -4254,6 +4582,7 @@
           ],
           "genre": [
             "eseje",
+            "essays",
             "úvahy"
           ],
           "place": [
@@ -4264,11 +4593,17 @@
           ],
           "subject": [
             "filozofie dějin",
+            "philosophy of history",
             "filozofické myšlení",
+            "philosophical thought",
             "kritické myšlení",
+            "critical thinking",
             "moderní společnost",
+            "modern society",
             "křesťanství a společnost",
-            "umělá inteligence"
+            "Christianity and civilization",
+            "umělá inteligence",
+            "artificial intelligence"
           ]
         },
         "control": {
@@ -4280,7 +4615,7 @@
           ],
           "sourceid": "alma",
           "originalsourceid": [
-            "9911378135009901"
+            "1444951"
           ],
           "sourcesystem": [
             "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
@@ -4289,7 +4624,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -4615,7 +4950,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -4917,7 +5252,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -5223,7 +5558,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -5557,7 +5892,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -5897,7 +6232,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -6218,7 +6553,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -6554,7 +6889,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -6891,7 +7226,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -7223,7 +7558,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -7525,7 +7860,7 @@
             "MARC21"
           ],
           "score": [
-            "1.2973908"
+            "1.2971213"
           ],
           "isDedup": false
         },
@@ -7753,352 +8088,23 @@
           "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
         }
       }
-    },
-    {
-      "context": "L",
-      "adaptor": "Local Search Engine",
-      "@id": "https://eu06.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/993088614409904",
-      "pnx": {
-        "display": {
-          "source": [
-            "Alma"
-          ],
-          "type": [
-            "book"
-          ],
-          "language": [
-            "cze"
-          ],
-          "title": [
-            "Moderní dětská a dorostová psychiatrie"
-          ],
-          "format": [
-            "324 stran : barevné ilustrace, portréty ; 25 cm"
-          ],
-          "identifier": [
-            "$$CISBN$$V978-80-271-6055-6"
-          ],
-          "creationdate": [
-            "2026"
-          ],
-          "creator": [
-            "Hrdlička, Michal, 1965-$$QHrdlička, Michal"
-          ],
-          "publisher": [
-            "Praha : Grada Publishing"
-          ],
-          "mms": [
-            "993088614409904"
-          ],
-          "contributor": [
-            "Dudová, Iva, 1969-$$QDudová, Iva",
-            "Kocourková, Jana, 1948-$$QKocourková, Jana",
-            "Koutek, Jiří, 1955-$$QKoutek, Jiří",
-            "Grada (nakladatelství)$$QGrada (nakladatelství)"
-          ],
-          "edition": [
-            "1. vydání"
-          ],
-          "genre": [
-            "kolektivní monografie",
-            "collective monographs"
-          ],
-          "place": [
-            "Praha :"
-          ],
-          "version": [
-            "0"
-          ],
-          "subject": [
-            "dětská psychiatrie",
-            "adolescentní psychiatrie",
-            "pediatric psychiatry",
-            "adolescent psychiatry"
-          ]
-        },
-        "control": {
-          "sourcerecordid": [
-            "993088614409904"
-          ],
-          "recordid": [
-            "alma993088614409904"
-          ],
-          "sourceid": "alma",
-          "originalsourceid": [
-            "9911376704709901"
-          ],
-          "sourcesystem": [
-            "CPK - Souborný katalog ČR / Union Catalogue of the Czech Republic"
-          ],
-          "sourceformat": [
-            "MARC21"
-          ],
-          "score": [
-            "1.2973908"
-          ],
-          "isDedup": false
-        },
-        "addata": {
-          "originatingSystemIDAuthor": [
-            "jn99240000325"
-          ],
-          "originatingSystemIDContributor": [
-            "jn20000401448",
-            "kn20080316009",
-            "xx0076086",
-            "jn20000401375"
-          ],
-          "aulast": [
-            "Hrdlička"
-          ],
-          "aufirst": [
-            "Michal"
-          ],
-          "auinit": [
-            "M"
-          ],
-          "au": [
-            "Hrdlička, Michal"
-          ],
-          "addau": [
-            "Dudová, Iva",
-            "Kocourková, Jana",
-            "Koutek, Jiří",
-            "Grada (nakladatelství)"
-          ],
-          "creatorfull": [
-            "$$NHrdlička, Michal$$LHrdlička$$FMichal$$Rauthor"
-          ],
-          "contributorfull": [
-            "$$NDudová, Iva$$LDudová$$FIva$$Rcontributor",
-            "$$NKocourková, Jana$$Rcontributor",
-            "$$NKoutek, Jiří$$Rcontributor"
-          ],
-          "date": [
-            "2026"
-          ],
-          "isbn": [
-            "978-80-271-6055-6"
-          ],
-          "notes": [
-            "Obsahuje bibliografie a rejstřík"
-          ],
-          "cop": [
-            "Praha"
-          ],
-          "pub": [
-            "Grada Publishing"
-          ],
-          "oclcid": [
-            "(cz prskc)nkc20263789806"
-          ],
-          "edition": [
-            "1. vydání"
-          ],
-          "format": [
-            "book"
-          ],
-          "genre": [
-            "book"
-          ],
-          "ristype": [
-            "BOOK"
-          ],
-          "btitle": [
-            "Moderní dětská a dorostová psychiatrie"
-          ]
-        },
-        "sort": {
-          "title": [
-            "Moderní dětská a dorostová psychiatrie /"
-          ],
-          "author": [
-            "Hrdlička, Michal, 1965-"
-          ],
-          "creationdate": [
-            "2026"
-          ]
-        },
-        "facets": {
-          "frbrtype": [
-            "6"
-          ]
-        }
-      },
-      "delivery": {
-        "bestlocation": {
-          "isValidUser": true,
-          "organization": "420CARDS_JCU",
-          "libraryCode": "TF",
-          "availabilityStatus": "available",
-          "subLocation": "studovna",
-          "subLocationCode": "LC99",
-          "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-          "callNumber": "",
-          "callNumberType": "8",
-          "holdingURL": "OVP",
-          "adaptorid": "ALMA_01",
-          "ilsApiId": "993088614409904",
-          "holdId": "2280600490009904",
-          "holKey": "HoldingResultKey [mid=2280600490009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-          "matchForHoldings": [
-            {
-              "matchOn": "MainLocation",
-              "holdingRecord": "852##b"
-            }
-          ],
-          "stackMapUrl": "",
-          "relatedTitle": null,
-          "translateRelatedTitle": null,
-          "yearFilter": null,
-          "volumeFilter": null,
-          "singleUnavailableItemProcessType": null,
-          "boundWith": false,
-          "@id": "_:0"
-        },
-        "holding": [
-          {
-            "isValidUser": true,
-            "organization": "420CARDS_JCU",
-            "libraryCode": "TF",
-            "availabilityStatus": "available",
-            "subLocation": "studovna",
-            "subLocationCode": "LC99",
-            "mainLocation": "the Faculty of Theology J. P. Ondok Library",
-            "callNumber": "",
-            "callNumberType": "8",
-            "holdingURL": "OVP",
-            "adaptorid": "ALMA_01",
-            "ilsApiId": "993088614409904",
-            "holdId": "2280600490009904",
-            "holKey": "HoldingResultKey [mid=2280600490009904, libraryId=112771470009904, locationCode=LC99, callNumber=null]",
-            "matchForHoldings": [
-              {
-                "matchOn": "MainLocation",
-                "holdingRecord": "852##b"
-              }
-            ],
-            "stackMapUrl": "",
-            "relatedTitle": null,
-            "translateRelatedTitle": null,
-            "yearFilter": null,
-            "volumeFilter": null,
-            "singleUnavailableItemProcessType": null,
-            "boundWith": false,
-            "@id": "_:0"
-          }
-        ],
-        "electronicServices": null,
-        "additionalElectronicServices": null,
-        "filteredByGroupServices": null,
-        "quickAccessService": null,
-        "deliveryCategory": [
-          "Alma-P"
-        ],
-        "serviceMode": [
-          "ovp"
-        ],
-        "availability": [
-          "available_in_library"
-        ],
-        "availabilityLinks": [
-          "detailsgetit1"
-        ],
-        "availabilityLinksUrl": [],
-        "displayedAvailability": null,
-        "displayLocation": true,
-        "additionalLocations": false,
-        "titleRequestableAtItemLevel": false,
-        "physicalItemTextCodes": null,
-        "feDisplayOtherLocations": false,
-        "almaInstitutionsList": [
-          {
-            "getitLink": [
-              {
-                "displayText": "Alma-P",
-                "linkRecordId": "9911376704709901"
-              }
-            ],
-            "instCode": "420CARDS_MUNI",
-            "instName": "Masaryk University",
-            "instId": "9905",
-            "availabilityStatus": "available_in_institution",
-            "envURL": ""
-          }
-        ],
-        "recordInstitutionCode": null,
-        "recordOwner": "420CARDS_NETWORK",
-        "hasFilteredServices": null,
-        "digitalAuxiliaryMode": false,
-        "digitalAuxiliaryThumbnail": false,
-        "hideResourceSharing": false,
-        "sharedDigitalCandidates": null,
-        "consolidatedCoverage": null,
-        "electronicContextObjectId": null,
-        "almaOpenurl": null,
-        "GetIt1": [
-          {
-            "category": "Alma-P",
-            "links": [
-              {
-                "isLinktoOnline": false,
-                "getItTabText": "service_getit",
-                "adaptorid": "ALMA_01",
-                "ilsApiId": "993088614409904",
-                "link": "OVP",
-                "inst4opac": "420CARDS_JCU",
-                "displayText": null,
-                "@id": "_:0"
-              }
-            ]
-          }
-        ],
-        "physicalServiceId": null,
-        "link": [
-          {
-            "@id": ":_0",
-            "linkType": "thumbnail",
-            "linkURL": "https://proxy-euf.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:9788027160556,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover",
-            "displayLabel": "thumbnail"
-          },
-          {
-            "@id": ":_1",
-            "linkType": "thumbnail",
-            "linkURL": "https://cache.obalkyknih.cz/api/cover?multi={%22isbn%22:%22978-80-271-6055-6%22,%22nbn%22:%22%22}&type=medium&keywords=hledana%20fraze",
-            "displayLabel": "thumbnail"
-          }
-        ],
-        "hasD": null
-      },
-      "enrichment": {
-        "virtualBrowseObject": {
-          "isVirtualBrowseEnabled": false,
-          "callNumber": "",
-          "callNumberBrowseField": ""
-        },
-        "bibVirtualBrowseObject": {
-          "isVirtualBrowseEnabled": true,
-          "callNumber": "'048.8%082",
-          "callNumberBrowseField": "UNIVERSAL_DECIMAL_CLASSIFICATION"
-        }
-      }
     }
   ],
   "timelog": {
-    "BUILD_RESULTS_RETRIVE_FROM_DB": "711",
-    "CALL_SOLR_GET_IDS_LIST": "1381",
-    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "478",
-    "RETRIVE_COLLECTION_DISCOVERY_INFO": "37",
-    "RETRIVE_FROM_DB_COURSE_INFO": "33",
-    "RETRIVE_FROM_DB_RECORDS": "135",
-    "RETRIVE_FROM_DB_RELATIONS": "481",
-    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "404",
-    "SET_AVAILABILTY_HOLDING_DEDUPS": "74",
-    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1248",
-    "PRIMA_LOCAL_SEARCH_TOTAL": "3829",
-    "BUILD_BLEND_AND_CACHE_RESULTS": 0,
-    "BUILD_COMBINED_RESULTS_MAP": 5119,
-    "COMBINED_SEARCH_TIME": 5201,
+    "BUILD_RESULTS_RETRIVE_FROM_DB": "417",
+    "CALL_SOLR_GET_IDS_LIST": "341",
+    "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "569",
+    "RETRIVE_COLLECTION_DISCOVERY_INFO": "94",
+    "RETRIVE_FROM_DB_COURSE_INFO": "44",
+    "RETRIVE_FROM_DB_RECORDS": "214",
+    "RETRIVE_FROM_DB_RELATIONS": "32",
+    "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "493",
+    "SET_AVAILABILTY_HOLDING_DEDUPS": "76",
+    "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "1613",
+    "PRIMA_LOCAL_SEARCH_TOTAL": "2964",
+    "BUILD_BLEND_AND_CACHE_RESULTS": 1,
+    "BUILD_COMBINED_RESULTS_MAP": 4451,
+    "COMBINED_SEARCH_TIME": 4511,
     "PROCESS_COMBINED_RESULTS": 0,
     "FEATURED_SEARCH_TIME": 0
   },
@@ -8116,7 +8122,7 @@
         },
         {
           "value": "ger",
-          "count": "34165"
+          "count": "34166"
         },
         {
           "value": "slo",
@@ -8197,7 +8203,7 @@
         },
         {
           "value": "2026",
-          "count": "195"
+          "count": "196"
         }
       ]
     },
@@ -8206,7 +8212,7 @@
       "values": [
         {
           "value": "books",
-          "count": "188063"
+          "count": "188064"
         }
       ]
     },
@@ -8219,11 +8225,11 @@
         },
         {
           "value": "Křesťanství",
-          "count": "5414"
+          "count": "5415"
         },
         {
           "value": "Česko",
-          "count": "3901"
+          "count": "3903"
         },
         {
           "value": "20. století",
@@ -8300,15 +8306,15 @@
       "values": [
         {
           "value": "90 days back",
-          "count": "110"
+          "count": "111"
         },
         {
           "value": "30 days back",
-          "count": "16"
+          "count": "17"
         },
         {
           "value": "07 days back",
-          "count": "1"
+          "count": "2"
         }
       ]
     },
@@ -8317,11 +8323,11 @@
       "values": [
         {
           "value": "9904–112771190009904",
-          "count": "156691"
+          "count": "156692"
         },
         {
           "value": "9904–112771470009904",
-          "count": "41336"
+          "count": "41335"
         }
       ]
     },
@@ -8334,7 +8340,7 @@
         },
         {
           "value": "9904–112771190009904–akskl",
-          "count": "30947"
+          "count": "30948"
         },
         {
           "value": "9904–112771470009904–lc99",
@@ -8342,7 +8348,7 @@
         },
         {
           "value": "9904–112771470009904–lc98",
-          "count": "13203"
+          "count": "13204"
         },
         {
           "value": "9904–112771190009904–frov",
@@ -8362,7 +8368,7 @@
         },
         {
           "value": "9904–112771470009904–vytf",
-          "count": "4951"
+          "count": "4947"
         },
         {
           "value": "9904–112771190009904–daad",
@@ -8415,7 +8421,7 @@
       "values": [
         {
           "value": "available_p",
-          "count": "188063"
+          "count": "188064"
         },
         {
           "value": "open_access",
@@ -8432,15 +8438,15 @@
       "values": [
         {
           "value": "9904",
-          "count": "188063"
+          "count": "188064"
         },
         {
           "value": "9905",
-          "count": "57083"
+          "count": "57085"
         },
         {
           "value": "9908",
-          "count": "9701"
+          "count": "9702"
         },
         {
           "value": "9903",
